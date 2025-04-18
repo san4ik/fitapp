@@ -1,0 +1,63 @@
+    [
+      {
+        "name": "Курс «Коррекция»",
+        "subcategories": [
+          {
+            "name": "1 неделя",
+            "videos": [
+              {"id": "k1w1v1", "title": "Коррекция: Неделя 1 - Видео 1", "duration": 30, "link": "https://kinescope.io/embed/replace-with-actual-link-1" },
+              {"id": "k1w1v2", "title": "Коррекция: Неделя 1 - Видео 2", "duration": 25, "link": "https://kinescope.io/embed/replace-with-actual-link-2" },
+              {"id": "k1w1v3", "title": "Коррекция: Неделя 1 - Видео 3", "duration": 28, "link": "https://kinescope.io/embed/replace-with-actual-link-3" },
+              {"id": "k1w1v4", "title": "Коррекция: Неделя 1 - Видео 4", "duration": 35, "link": "https://kinescope.io/embed/replace-with-actual-link-4" },
+              {"id": "k1w1v5", "title": "Коррекция: Неделя 1 - Видео 5", "duration": 22, "link": "https://kinescope.io/embed/replace-with-actual-link-5" }
+            ]
+          },
+          {
+            "name": "2 неделя",
+            "videos": [
+               {"id": "k1w2v1", "title": "Коррекция: Неделя 2 - Видео 1", "duration": 31, "link": "https://kinescope.io/embed/replace-with-actual-link-6" },
+               {"id": "k1w2v2", "title": "Коррекция: Неделя 2 - Видео 2", "duration": 26, "link": "https://kinescope.io/embed/replace-with-actual-link-7" },
+               {"id": "k1w2v3", "title": "Коррекция: Неделя 2 - Видео 3", "duration": 29, "link": "https://kinescope.io/embed/replace-with-actual-link-8" },
+               {"id": "k1w2v4", "title": "Коррекция: Неделя 2 - Видео 4", "duration": 33, "link": "https://kinescope.io/embed/replace-with-actual-link-9" },
+               {"id": "k1w2v5", "title": "Коррекция: Неделя 2 - Видео 5", "duration": 24, "link": "https://kinescope.io/embed/replace-with-actual-link-10" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Бонусные тренировки",
+        "subcategories": [
+          {
+            "name": "Дыхание",
+            "videos": [
+                {"id": "b1", "title": "Дыхание как основа", "duration": 32, "link": "https://kinescope.io/embed/ihWf671hiPGrZooNUVJXW8"},
+                {"id": "b2", "title": "Дыхание для расслабления и снятие отеков", "duration": 26, "link": "https://kinescope.io/embed/p3GLjb1hAke8DBau42ezBL"},
+                {"id": "b3", "title": "Дыхание и снятие отеков", "duration": 17, "link": "https://kinescope.io/embed/fHxGjrhc8HF42f7kGWZ4tf"},
+                {"id": "b4", "title": "Расслабляющее дыхание", "duration": 25, "link": "https://kinescope.io/embed/6dpttcAbXoPSJ9vvcWe8iy"},
+                {"id": "b5", "title": "Грудобрюшная и тазовая диафрагма, как партнеры", "duration": 29, "link": "https://kinescope.io/embed/mkC5rLxBraAyyb8a4AjUf4"},
+                {"id": "b6", "title": "Дыхание для снятия отечности", "duration": 29, "link": "https://kinescope.io/embed/tz7JwxnzsLcr1NPRngUEZK"},
+                {"id": "b7", "title": "Дыхание для расслабления", "duration": 31, "link": "https://kinescope.io/embed/sptHYnof8opyW1rMuERfhc"},
+                {"id": "b8", "title": "Дыхание - снятие отечности и уменьшений болей", "duration": 38, "link": "https://kinescope.io/embed/trDT6tqU81RdM12qHePPzg"}
+            ]
+          },
+          {
+            "name": "Боли в шее и между лопаток / Лицо / ВНЧС",
+            "videos": [
+                {"id": "b9", "title": "Антихолка", "duration": 39, "link": "https://kinescope.io/embed/7PXRpFtjSRPwVQcwhLLX87"},
+                {"id": "b10", "title": "Мобильность грудной клетки и лопаток", "duration": 27, "link": "https://kinescope.io/embed/r11myCs8z6cWeH2qdzwGmU"},
+                {"id": "b11", "title": "Антихолка", "duration": 27, "link": "https://kinescope.io/embed/8sK5uzMyzojLzeDJLFt324"},
+                {"id": "b12", "title": "Пилатес", "duration": 51, "link": "https://kinescope.io/embed/7vXjZfCN3JXS491ThYWThL"},
+                {"id": "b13", "title": "От боли в спине", "duration": 26, "link": "https://kinescope.io/embed/4pjmjYrdqjSrSZz5yvJUkg"},
+                {"id": "b14", "title": "Шея", "duration": 25, "link": "https://kinescope.io/embed/0NzC1CUKkYnfMvXx8oMfQd"},
+                {"id": "b15", "title": "Мобильность грудной клетки", "duration": 34, "link": "https://kinescope.io/embed/axkSgkEYh8TXmPfEPk2FB4"},
+                {"id": "b16", "title": "Функциональные линии рук", "duration": 36, "link": "https://kinescope.io/embed/3R77jRvZ6JwT9B6Lc3F6rw"},
+                {"id": "b17", "title": "Комплекс после дороги", "duration": 31, "link": "https://kinescope.io/embed/wxE5capymHQdqpVpmL9QSi"},
+                {"id": "b18", "title": "Язык и ВНЧС", "duration": 19, "link": "https://kinescope.io/embed/gWbegbbnQes3m3MPyGSMXg"},
+                {"id": "b19", "title": "Свобода движения грудной клетки", "duration": 36, "link": "https://kinescope.io/embed/fSFm9LHUS48um63afRraGw"},
+                {"id": "b20", "title": "Отеки лица", "duration": 25, "link": "https://kinescope.io/embed/kLypXnYR61hMiLcM8N8Jy6"}
+              ]
+          }
+        ]
+      },
+    ]
+    
