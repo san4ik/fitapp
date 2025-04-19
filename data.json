@@ -835,5 +835,94 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Курс Силовой",
+    "videos": [
+      {
+        "id": "s1",
+        "title": "Силовая ягодицы и бедра",
+        "duration": 41,
+        "link": "https://kinescope.io/tYwZ12MT1B82zAExfVUwAF?autoplay=1"
+      },
+      {
+        "id": "s2",
+        "title": "Верхний плечевой пояс",
+        "duration": 51,
+        "link": "https://kinescope.io/36hGkZTsfWnF3EiJ9qgWsh?autoplay=1"
+      },
+      {
+        "id": "s3",
+        "title": "Круговая ягодицы - кор",
+        "duration": 23,
+        "link": "https://kinescope.io/wEXUsCVVJREp1JBbz48w4v?autoplay=1"
+      },
+      {
+        "id": "s4",
+        "title": "Ягодицы базовая",
+        "duration": 41,
+        "link": "https://kinescope.io/oxNMYQjARrtM5zR9vxR8mH?autoplay=1"
+      },
+      {
+        "id": "s5",
+        "title": "Внутренняя поверхность бедер и тазовое дно",
+        "duration": 36,
+        "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j?autoplay=1"
+      },
+      {
+        "id": "s6",
+        "title": "Силовая на верхний плечевой пояс",
+        "duration": 60,
+        "link": "https://kinescope.io/taZyyLvdj9URnqmNjWKuK4?autoplay=1"
+      },
+      {
+        "id": "s7",
+        "title": "Раскрытие, эластичность таза",
+        "duration": 20,
+        "link": "https://kinescope.io/d7tYVjPgfgBYkKtiSgx13x?autoplay=1"
+      },
+      {
+        "id": "s8",
+        "title": "Круговая «Ягодицы, КОР»",
+        "duration": 16,
+        "link": "https://kinescope.io/bhds1hpJR7WUtjQ4cNdfbJ?autoplay=1"
+      },
+      {
+        "id": "s9",
+        "title": "Коррекция эластичность бедер, раскрытие таза",
+        "duration": 21,
+        "link": "https://kinescope.io/5gmdKVwMUBLPvRCi8xUAp9?autoplay=1"
+      },
+      {
+        "id": "s10",
+        "title": "Силовая верхний плечевой",
+        "duration": 42,
+        "link": "https://kinescope.io/3f1vVVd93aRraHVJQNMp45?autoplay=1"
+      },
+      {
+        "id": "s11",
+        "title": "Круговая ягодичная",
+        "duration": 25,
+        "link": "https://kinescope.io/pYA2xfQSVU51Pwb9kiKwo1?autoplay=1"
+      },
+      {
+        "id": "s12",
+        "title": "Силовая ягодицы",
+        "duration": 32,
+        "link": "https://kinescope.io/vYmBbUwHwGvLfFJ4WyFSDc?autoplay=1"
+      },
+      {
+        "id": "s13",
+        "title": "Силовая верхний плечевой пояс",
+        "duration": 41,
+        "link": "https://kinescope.io/idivkK1VLRP1MZjJdzCEnW?autoplay=1"
+      },
+      {
+        "id": "s14",
+        "title": "Активация ягодиц и мобильность таза",
+        "duration": 24,
+        "link": "https://kinescope.io/f59mUFjzJ9NJh6vTNNGDGx?autoplay=1"
+      }
+    ]
   }
 ]
