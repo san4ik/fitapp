@@ -145,6 +145,197 @@
     ]
   },
   {
+    "name": "Зарядки",
+    "videos": [
+      {
+        "id": "z1",
+        "title": "Стоя на все тело",
+        "duration": 12,
+        "link": "https://kinescope.io/k2yAaogzMgZS69tC1pRArv?autoplay=1"
+      },
+      {
+        "id": "z2",
+        "title": "Кол между лопаток",
+        "duration": 17,
+        "link": "https://kinescope.io/wdrdWp7hnnkXLbuEXxECea?autoplay=1"
+      },
+      {
+        "id": "z3",
+        "title": "Мобильность в теле без инвентаря",
+        "duration": 16,
+        "link": "https://kinescope.io/mMJMCcCsP4fKFSqsmCTnUE?autoplay=1"
+      },
+      {
+        "id": "z4",
+        "title": "Дискомфорт в регионе таза и пояснице",
+        "duration": 15,
+        "link": "https://kinescope.io/ast11gQL3DbLHPzoHn5fNT?autoplay=1"
+      },
+      {
+        "id": "z5",
+        "title": "Всё тело с массажными мячами",
+        "duration": 15,
+        "link": "https://kinescope.io/9sDAvuKbZgKUWKGNFaEE7Y?autoplay=1"
+      },
+      {
+        "id": "z6",
+        "title": "Стоя на все случаи жизни",
+        "duration": 13,
+        "link": "https://kinescope.io/5BKgtGvhJGFyM7DN7TTyEd?autoplay=1"
+      },
+      {
+        "id": "z7",
+        "title": "Отеки лица и тела",
+        "duration": 15,
+        "link": "https://kinescope.io/wFmG9eCDHbnbi93xeV4QvC?autoplay=1"
+      },
+      {
+        "id": "z8",
+        "title": "Мягкая на всё тело от снятия напряжения",
+        "duration": 15,
+        "link": "https://kinescope.io/qkxXAQk6E3oXsAgANxGTge?autoplay=1"
+      },
+      {
+        "id": "z9",
+        "title": "Комплексная зарядка",
+        "duration": 14,
+        "link": "https://kinescope.io/aT5AHxjXgKEurruQknAheV?autoplay=1"
+      },
+      {
+        "id": "z10",
+        "title": "Мягкая зарядка с акцентом на район таза",
+        "duration": 14,
+        "link": "https://kinescope.io/97kLzue1j4qvqQ22cofaxr?autoplay=1"
+      },
+      {
+        "id": "z11",
+        "title": "Активная зарядка на все тело (подойдет для бега)",
+        "duration": 15,
+        "link": "https://kinescope.io/gF46RJgHodTGwswPXdvjKR?autoplay=1"
+      },
+      {
+        "id": "z12",
+        "title": "Дыхание перед сном",
+        "duration": 7,
+        "link": "https://kinescope.io/0SpwJQBs6pCUtnCNqRp3cG?autoplay=1"
+      },
+      {
+        "id": "z13",
+        "title": "При усталости ног, после длительной ходьбы",
+        "duration": 16,
+        "link": "https://kinescope.io/tKq6ZD9R1PgwMP9rTws1qv?autoplay=1"
+      },
+      {
+        "id": "z14",
+        "title": "От вздутия живота и улучшения работы ЖКТ",
+        "duration": 12,
+        "link": "https://kinescope.io/wEeL5SHUKhkXo99qAo1WZ5?autoplay=1"
+      },
+      {
+        "id": "z15",
+        "title": "Активная на всё тело без оборудования",
+        "duration": 12,
+        "link": "https://kinescope.io/khJ13PUpu3qvnuAwZ8QK5h?autoplay=1"
+      },
+      {
+        "id": "z16",
+        "title": "Активная стоя без оборудования",
+        "duration": 11,
+        "link": "https://kinescope.io/2rvBYWaPir1HQP2NERT9vC?autoplay=1"
+      },
+      {
+        "id": "z17",
+        "title": "Сидя в офисе",
+        "duration": 11,
+        "link": "https://kinescope.io/jFYrviFHvXhZS2cN53XWDq?autoplay=1"
+      },
+      {
+        "id": "z18",
+        "title": "Активная зарядка стоя",
+        "duration": 12,
+        "link": "https://kinescope.io/kEJkjDBVf7zfTQDkBMHeiw?autoplay=1"
+      },
+      {
+        "id": "z19",
+        "title": "От боли в пояснице во время менструации",
+        "duration": 12,
+        "link": "https://kinescope.io/c1UYqc2enSTG3UR6u1Mht6?autoplay=1"
+      },
+      {
+        "id": "z20",
+        "title": "Комплекс на все тело с мячами",
+        "duration": 14,
+        "link": "https://kinescope.io/nT8eLBVXofJArsnXnVJkBS?autoplay=1"
+      },
+      {
+        "id": "z21",
+        "title": "Колени",
+        "duration": 21,
+        "link": "https://kinescope.io/4Q9youw5HUnMsoeN1D2mWG?autoplay=1"
+      },
+      {
+        "id": "z22",
+        "title": "Лежа в кровати",
+        "duration": 10,
+        "link": "https://kinescope.io/vWEYdJqLyvBDjwaqP2KyCC?autoplay=1"
+      },
+      {
+        "id": "z23",
+        "title": "дыхание перед сном",
+        "duration": 12,
+        "link": "https://kinescope.io/dU1GyqzHJUeQbJNLMXZNWX?autoplay=1"
+      },
+      {
+        "id": "z24",
+        "title": "Пробуждавший комплекс для всего тела",
+        "duration": 12,
+        "link": "https://kinescope.io/ghjESAN24hHqBYvxTKxKGz?autoplay=1"
+      },
+      {
+        "id": "z25",
+        "title": "Зарядка с акцентом на таз (подойдет перед танцами)",
+        "duration": 18,
+        "link": "https://kinescope.io/jjD4GdYjfUPYrxutEDya12?autoplay=1"
+      },
+      {
+        "id": "z26",
+        "title": "Мобильность в теле",
+        "duration": 18,
+        "link": "https://kinescope.io/csLBZswZxwmCwcUnR4dJiM?autoplay=1"
+      },
+      {
+        "id": "z27",
+        "title": "Язык и ВНЧС",
+        "duration": 19,
+        "link": "https://kinescope.io/gWbegbbnQes3m3MPyGSMXg?autoplay=1"
+      },
+      {
+        "id": "z28",
+        "title": "Неврологическая зарядка",
+        "duration": 8,
+        "link": "https://kinescope.io/nnWFf9sh3HqYtUMMoTq96X?autoplay=1"
+      },
+      {
+        "id": "z29",
+        "title": "тренировка на стуле",
+        "duration": 21,
+        "link": "https://kinescope.io/hZupfNFG8sKhWxJVjDn2ox?autoplay=1"
+      },
+      {
+        "id": "z30",
+        "title": "Разминка с упором на грудной отдел",
+        "duration": 11,
+        "link": "https://kinescope.io/2a4MdEw7ev4bZSFbtr8tov?autoplay=1"
+      },
+      {
+        "id": "z31",
+        "title": "Боль в шее и голове",
+        "duration": 18,
+        "link": "https://kinescope.io/jWiVPtCF4g5EjLQp5Kk7Wj?autoplay=1"
+      }
+    ]
+  },
+  {
     "name": "Бонусные тренировки",
     "subcategories": [
       {
