@@ -1,5 +1,150 @@
 [
   {
+    "name": "Курс «Коррекция»",
+    "subcategories": [
+      {
+        "name": "1 неделя",
+        "videos": [
+          {
+            "id": "k1",
+            "title": "1. Дыхание для выравнивания тела. Отеки",
+            "duration": 34,
+            "link": "https://kinescope.io/embed/2RMXnsZe9BbUBKFvGDw6rf"
+          },
+          {
+            "id": "k2",
+            "title": "2. Королевская осанка",
+            "duration": 35,
+            "link": "https://kinescope.io/embed/7gReRwP7DyrceWjwD29nrK"
+          },
+          {
+            "id": "k3",
+            "title": "3. Проблемные зоны бедер",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/7gReRwP7DyrceWjwD29nrK"
+          },
+          {
+            "id": "k4",
+            "title": "4. Тазовое дно и диафрагма: партнерская работа",
+            "duration": 38,
+            "link": "https://kinescope.io/embed/pNKPfWDKRxCchXpWG97mU9"
+          },
+          {
+            "id": "k5",
+            "title": "5. Отечность в теле и проблемные зоны",
+            "duration": 34,
+            "link": "https://kinescope.io/embed/so6fJbbacRbNpRxx7Pttep"
+          }
+        ]
+      },
+      {
+        "name": "2 неделя",
+        "videos": [
+          {
+            "id": "k6",
+            "title": "1. Дыхание от отеков, болей, для плоского живота",
+            "duration": 34,
+            "link": "https://kinescope.io/embed/hBG7kKhtqzPRZYxejDy829"
+          },
+          {
+            "id": "k7",
+            "title": "2. Внутренняя поверхность бедер и тазовое дно",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/qujerQMZtsh7nQhC88U25j"
+          },
+          {
+            "id": "k8",
+            "title": "3. Отеки бедер, легкость ног",
+            "duration": 33,
+            "link": "https://kinescope.io/embed/qujerQMZtsh7nQhC88U25j"
+          },
+          {
+            "id": "k9",
+            "title": "4. Эластичность и упругость мышц тазового дна, мобильность таза",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/a2dNyNpay9C6xWZ6ToQcjA"
+          },
+          {
+            "id": "k10",
+            "title": "5. Холка",
+            "duration": 38,
+            "link": "https://kinescope.io/embed/nmFa3oYTnDmo5DXu4niX2x"
+          }
+        ]
+      },
+      {
+        "name": "3 неделя",
+        "videos": [
+          {
+            "id": "k11",
+            "title": "1. Отеки бедер, целлюлит",
+            "duration": 33,
+            "link": "https://kinescope.io/embed/3iTzyd15Ghz5D6UZeWZyqc"
+          },
+          {
+            "id": "k12",
+            "title": "2. Тазовое дно, внутренняя поверхность бедер",
+            "duration": 40,
+            "link": "https://kinescope.io/embed/3iTzyd15Ghz5D6UZeWZyqc"
+          },
+          {
+            "id": "k13",
+            "title": "3. Мышцы пресса",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/0h3r4J3PZw1xBw7nMK8boT"
+          },
+          {
+            "id": "k14",
+            "title": "4. Холка, осанка, боли в шее",
+            "duration": 23,
+            "link": "https://kinescope.io/embed/bGJQA7D9VB6qQHVbz4JhJC"
+          },
+          {
+            "id": "k15",
+            "title": "5. Активация ягодиц",
+            "duration": 33,
+            "link": "https://kinescope.io/embed/2nxiZsiVnj4FsT2YuWeirj"
+          }
+        ]
+      },
+      {
+        "name": "4 неделя",
+        "videos": [
+          {
+            "id": "k16",
+            "title": "1. Снятие напряжения с грушевидных мышц",
+            "duration": 35,
+            "link": "https://kinescope.io/embed/g9kmsTwhHPwXPvUGm3gUB6"
+          },
+          {
+            "id": "k17",
+            "title": "2. Внутренняя поверхность бедер, отеки",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/x3ZLujpYmr8zXWP45m43SN"
+          },
+          {
+            "id": "k18",
+            "title": "3. Тазовое дно - от расслабления к упругости",
+            "duration": 37,
+            "link": "https://kinescope.io/embed/5M4MrLjDkX2boNASTp9qzY"
+          },
+          {
+            "id": "k19",
+            "title": "4. Мышцы брюшного пресса",
+            "duration": 24,
+            "link": "https://kinescope.io/embed/dbVDVhgfiYdYT75Bqz1M5K"
+          },
+          {
+            "id": "k20",
+            "title": "5. Вздутие живота",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/t2zq14zEEECW94WgJZGa2T"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Бонусные тренировки",
     "subcategories": [
       {
