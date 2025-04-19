@@ -1,137 +1,503 @@
 [
-   {
-      "name":"Бонусные тренировки",
-      "subcategories":[
-         {
-            "name":"Дыхание",
-            "videos":[
-               {
-                  "id":"b1",
-                  "title":"Дыхание как основа",
-                  "duration":32,
-                  "link":"https://kinescope.io/embed/ihWf671hiPGrZooNUVJXW8"
-               },
-               {
-                  "id":"b2",
-                  "title":"Дыхание для расслабления и снятие отеков",
-                  "duration":26,
-                  "link":"https://kinescope.io/embed/p3GLjb1hAke8DBau42ezBL"
-               },
-               {
-                  "id":"b3",
-                  "title":"Дыхание и снятие отеков",
-                  "duration":17,
-                  "link":"https://kinescope.io/embed/fHxGjrhc8HF42f7kGWZ4tf"
-               },
-               {
-                  "id":"b4",
-                  "title":"Расслабляющее дыхание",
-                  "duration":25,
-                  "link":"https://kinescope.io/embed/6dpttcAbXoPSJ9vvcWe8iy"
-               },
-               {
-                  "id":"b5",
-                  "title":"Грудобрюшная и тазовая диафрагма, как партнеры",
-                  "duration":29,
-                  "link":"https://kinescope.io/embed/mkC5rLxBraAyyb8a4AjUf4"
-               },
-               {
-                  "id":"b6",
-                  "title":"Дыхание для снятия отечности",
-                  "duration":29,
-                  "link":"https://kinescope.io/embed/tz7JwxnzsLcr1NPRngUEZK"
-               },
-               {
-                  "id":"b7",
-                  "title":"Дыхание для расслабления",
-                  "duration":31,
-                  "link":"https://kinescope.io/embed/sptHYnof8opyW1rMuERfhc"
-               },
-               {
-                  "id":"b8",
-                  "title":"Дыхание - снятие отечности и уменьшений болей",
-                  "duration":38,
-                  "link":"https://kinescope.io/embed/trDT6tqU81RdM12qHePPzg"
-               }
-            ]
-         },
-         {
-            "name":"Боли в шее и между лопаток / Лицо / ВНЧС",
-            "videos":[
-               {
-                  "id":"b9",
-                  "title":"Антихолка",
-                  "duration":39,
-                  "link":"https://kinescope.io/embed/7PXRpFtjSRPwVQcwhLLX87"
-               },
-               {
-                  "id":"b10",
-                  "title":"Мобильность грудной клетки и лопаток",
-                  "duration":27,
-                  "link":"https://kinescope.io/embed/r11myCs8z6cWeH2qdzwGmU"
-               },
-               {
-                  "id":"b11",
-                  "title":"Антихолка",
-                  "duration":27,
-                  "link":"https://kinescope.io/embed/8sK5uzMyzojLzeDJLFt324"
-               },
-               {
-                  "id":"b12",
-                  "title":"Пилатес",
-                  "duration":51,
-                  "link":"https://kinescope.io/embed/7vXjZfCN3JXS491ThYWThL"
-               },
-               {
-                  "id":"b13",
-                  "title":"От боли в спине",
-                  "duration":26,
-                  "link":"https://kinescope.io/embed/4pjmjYrdqjSrSZz5yvJUkg"
-               },
-               {
-                  "id":"b14",
-                  "title":"Шея",
-                  "duration":25,
-                  "link":"https://kinescope.io/embed/0NzC1CUKkYnfMvXx8oMfQd"
-               },
-               {
-                  "id":"b15",
-                  "title":"Мобильность грудной клетки",
-                  "duration":34,
-                  "link":"https://kinescope.io/embed/axkSgkEYh8TXmPfEPk2FB4"
-               },
-               {
-                  "id":"b16",
-                  "title":"Функциональные линии рук",
-                  "duration":36,
-                  "link":"https://kinescope.io/embed/3R77jRvZ6JwT9B6Lc3F6rw"
-               },
-               {
-                  "id":"b17",
-                  "title":"Комплекс после дороги",
-                  "duration":31,
-                  "link":"https://kinescope.io/embed/wxE5capymHQdqpVpmL9QSi"
-               },
-               {
-                  "id":"b18",
-                  "title":"Язык и ВНЧС",
-                  "duration":19,
-                  "link":"https://kinescope.io/embed/gWbegbbnQes3m3MPyGSMXg"
-               },
-               {
-                  "id":"b19",
-                  "title":"Свобода движения грудной клетки",
-                  "duration":36,
-                  "link":"https://kinescope.io/embed/fSFm9LHUS48um63afRraGw"
-               },
-               {
-                  "id":"b20",
-                  "title":"Отеки лица",
-                  "duration":25,
-                  "link":"https://kinescope.io/embed/kLypXnYR61hMiLcM8N8Jy6"
-               }
-            ]
-         }
-      ]
-   }
+  {
+    "name": "Бонусные тренировки",
+    "subcategories": [
+      {
+        "name": "Дыхание",
+        "videos": [
+          {
+            "id": "b1",
+            "title": "Дыхание как основа",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/ihWf671hiPGrZooNUVJXW8"
+          },
+          {
+            "id": "b2",
+            "title": "Дыхание для расслабления и снятие отеков",
+            "duration": 26,
+            "link": "https://kinescope.io/embed/p3GLjb1hAke8DBau42ezBL"
+          },
+          {
+            "id": "b3",
+            "title": "Дыхание и снятие отеков",
+            "duration": 17,
+            "link": "https://kinescope.io/embed/fHxGjrhc8HF42f7kGWZ4tf"
+          },
+          {
+            "id": "b4",
+            "title": "Расслабляющее дыхание",
+            "duration": 25,
+            "link": "https://kinescope.io/embed/6dpttcAbXoPSJ9vvcWe8iy"
+          },
+          {
+            "id": "b5",
+            "title": "Грудобрюшная и тазовая диафрагма, как партнеры",
+            "duration": 29,
+            "link": "https://kinescope.io/embed/mkC5rLxBraAyyb8a4AjUf4"
+          },
+          {
+            "id": "b6",
+            "title": "Дыхание для снятия отечности",
+            "duration": 29,
+            "link": "https://kinescope.io/embed/tz7JwxnzsLcr1NPRngUEZK"
+          },
+          {
+            "id": "b7",
+            "title": "Дыхание для расслабления",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/sptHYnof8opyW1rMuERfhc"
+          },
+          {
+            "id": "b8",
+            "title": "Дыхание - снятие отечности и уменьшений болей",
+            "duration": 38,
+            "link": "https://kinescope.io/embed/trDT6tqU81RdM12qHePPzg"
+          }
+        ]
+      },
+      {
+        "name": "Боли в шее и между лопаток / Лицо / ВНЧС",
+        "videos": [
+          {
+            "id": "b9",
+            "title": "Антихолка",
+            "duration": 39,
+            "link": "https://kinescope.io/embed/7PXRpFtjSRPwVQcwhLLX87"
+          },
+          {
+            "id": "b10",
+            "title": "Мобильность грудной клетки и лопаток",
+            "duration": 27,
+            "link": "https://kinescope.io/embed/r11myCs8z6cWeH2qdzwGmU"
+          },
+          {
+            "id": "b11",
+            "title": "Антихолка",
+            "duration": 27,
+            "link": "https://kinescope.io/embed/8sK5uzMyzojLzeDJLFt324"
+          },
+          {
+            "id": "b12",
+            "title": "Пилатес",
+            "duration": 51,
+            "link": "https://kinescope.io/embed/7vXjZfCN3JXS491ThYWThL"
+          },
+          {
+            "id": "b13",
+            "title": "От боли в спине",
+            "duration": 26,
+            "link": "https://kinescope.io/embed/4pjmjYrdqjSrSZz5yvJUkg"
+          },
+          {
+            "id": "b14",
+            "title": "Шея",
+            "duration": 25,
+            "link": "https://kinescope.io/embed/0NzC1CUKkYnfMvXx8oMfQd"
+          },
+          {
+            "id": "b15",
+            "title": "Мобильность грудной клетки",
+            "duration": 34,
+            "link": "https://kinescope.io/embed/axkSgkEYh8TXmPfEPk2FB4"
+          },
+          {
+            "id": "b16",
+            "title": "Функциональные линии рук",
+            "duration": 36,
+            "link": "https://kinescope.io/embed/3R77jRvZ6JwT9B6Lc3F6rw"
+          },
+          {
+            "id": "b17",
+            "title": "Комплекс после дороги",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/wxE5capymHQdqpVpmL9QSi"
+          },
+          {
+            "id": "b18",
+            "title": "Язык и ВНЧС",
+            "duration": 19,
+            "link": "https://kinescope.io/embed/gWbegbbnQes3m3MPyGSMXg"
+          },
+          {
+            "id": "b19",
+            "title": "Свобода движения грудной клетки",
+            "duration": 36,
+            "link": "https://kinescope.io/embed/fSFm9LHUS48um63afRraGw"
+          },
+          {
+            "id": "b20",
+            "title": "Отеки лица",
+            "duration": 25,
+            "link": "https://kinescope.io/embed/kLypXnYR61hMiLcM8N8Jy6"
+          }
+        ]
+      },
+      {
+        "name": "Боли в районе таза и поясницы",
+        "videos": [
+          {
+            "id": "b21",
+            "title": "Алгоритмы . Таз",
+            "duration": 15,
+            "link": "https://kinescope.io/embed/nvX4xjpskMz2q2bd9DoLst"
+          },
+          {
+            "id": "b22",
+            "title": "Напряжение в пояснице и отечность бедер",
+            "duration": 26,
+            "link": "https://kinescope.io/embed/0MMNmbJbSyn79bvoev3t22"
+          },
+          {
+            "id": "b23",
+            "title": "Мягкая практика на всё тело",
+            "duration": 26,
+            "link": "https://kinescope.io/embed/kCywRFFokvAGyPSC8BMRhB"
+          },
+          {
+            "id": "b24",
+            "title": "Свободный крестец и легкая поясница",
+            "duration": 20,
+            "link": "https://kinescope.io/embed/cPCMVg3SpAwicHzbDANgKG"
+          },
+          {
+            "id": "b25",
+            "title": "Снятие напряжения с ног , работа с тазом",
+            "duration": 20,
+            "link": "https://kinescope.io/embed/6p2ipCBbYZNNYva8f1Uprz"
+          },
+          {
+            "id": "b26",
+            "title": "Комплекс после дороги",
+            "duration": 51,
+            "link": "https://kinescope.io/embed/wxE5capymHQdqpVpmL9QSi"
+          },
+          {
+            "id": "b27",
+            "title": "Снятие напряжения с поясницы и крестца",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/xyUakQpdVeSVGBojoKBgmX"
+          },
+          {
+            "id": "b28",
+            "title": "Мобильность таза , отсутствие галифе",
+            "duration": 34,
+            "link": "https://kinescope.io/embed/gCSa3mJZWX6W5MZs8TziPg"
+          },
+          {
+            "id": "b29",
+            "title": "Снятие напряжения с региона таза и бедер",
+            "duration": 36,
+            "link": "https://kinescope.io/embed/a5oR4ympkPADZTdeXb46nd"
+          }
+        ]
+      },
+      {
+        "name": "Живот, тазовое дно",
+        "videos": [
+          {
+            "id": "b30",
+            "title": "Пробуждение МТД",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/btkEEqnqz37ATY1xrZenzm"
+          },
+          {
+            "id": "b31",
+            "title": "Комплекс по работе с мышцами кора",
+            "duration": 35,
+            "link": "https://kinescope.io/embed/qFcSVXiLxqYQMRp7rf7Rbz"
+          },
+          {
+            "id": "b32",
+            "title": "Плоский живот, мобилизация кишечника",
+            "duration": 27,
+            "link": "https://kinescope.io/embed/sCxkWmhLqUjULEyLfA2gsV"
+          },
+          {
+            "id": "b33",
+            "title": "Плоский живот и активная работа всего кора",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/cPuDyRquBU67BGCw6BPcB6"
+          },
+          {
+            "id": "b34",
+            "title": "Пробуждение мышц тазового дна",
+            "duration": 41,
+            "link": "https://kinescope.io/embed/3hSohwmb3ynLD4y8AWt4Jx"
+          },
+          {
+            "id": "b35",
+            "title": "К плоскому животу через дыхание и глубинную линию",
+            "duration": 27,
+            "link": "https://kinescope.io/embed/rSrtir1fXmEdg6j3C7bPeM"
+          },
+          {
+            "id": "b36",
+            "title": "Согласованная работа грудной клетки и таза",
+            "duration": 33,
+            "link": "https://kinescope.io/embed/nK1h2dQ5Tat5sDobPSAGWK"
+          },
+          {
+            "id": "b37",
+            "title": "Боли и вздутие живота, мобилизация кишечника",
+            "duration": 34,
+            "link": "https://kinescope.io/embed/63PSquGwjN8mUmE7kL9Uc6"
+          },
+          {
+            "id": "b38",
+            "title": "Гибкий позвоночник: плоский живот и свобода движения",
+            "duration": 36,
+            "link": "https://kinescope.io/embed/on5fzfFaZsBxdm9vhdZc7P"
+          },
+          {
+            "id": "b39",
+            "title": "Плоский живот",
+            "duration": 55,
+            "link": "https://kinescope.io/embed/3a645LdTqeQybi2P4aUDYj"
+          },
+          {
+            "id": "b40",
+            "title": "Пробуждение тазового региона",
+            "duration": 33,
+            "link": "https://kinescope.io/embed/tTcQyXgtn31vU1YgYHa3JB"
+          },
+          {
+            "id": "b41",
+            "title": "Работа КОPa",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/dV8bDAfMK9hR8VXCKG8xMc"
+          }
+        ]
+      },
+      {
+        "name": "Галифе, отеки бедер",
+        "videos": [
+          {
+            "id": "b42",
+            "title": "От галифе и отеков бедер",
+            "duration": 42,
+            "link": "https://kinescope.io/embed/wdJA3U32d4QTpafUZosGe5"
+          },
+          {
+            "id": "b43",
+            "title": "От отечности бёдер , галифе - активация ягодиц",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/w6XVqqzABRZA6rLoLxmXSn"
+          },
+          {
+            "id": "b44",
+            "title": "Мобильность таза прощаемся с галифе",
+            "duration": 35,
+            "link": "https://kinescope.io/embed/gCSa3mJZWX6W5MZs8TziPg"
+          },
+          {
+            "id": "b45",
+            "title": "Снятие напряжения с таза , устранение отечности",
+            "duration": 36,
+            "link": "https://kinescope.io/embed/a5oR4ympkPADZTdeXb46nd"
+          },
+          {
+            "id": "b46",
+            "title": "Свободный таз , отсутствие галифе и болей в ТБС",
+            "duration": 40,
+            "link": "https://kinescope.io/embed/4WZpvRJfVympjP2iUP4Ujf"
+          },
+          {
+            "id": "b47",
+            "title": "Задняя поверхность бедра , целлюлит",
+            "duration": 26,
+            "link": "https://kinescope.io/embed/0MMNmbJbSyn79bvoev3t22"
+          },
+          {
+            "id": "b48",
+            "title": "Свободный таз",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/nh8U3btUzWenCD9Xjbt3Mb"
+          },
+          {
+            "id": "b49",
+            "title": "Свобода таза , поясницы и бедер",
+            "duration": 35,
+            "link": "https://kinescope.io/embed/17YgwuMEFmJHqaoiHr3ysv"
+          },
+          {
+            "id": "b50",
+            "title": "Активация ягодиц , галифе , дряхлость",
+            "duration": 32,
+            "link": "https://kinescope.io/embed/8gKtMfC9VxiQU6G8TQjaL1"
+          }
+        ]
+      },
+      {
+        "name": "Стопы, колени",
+        "videos": [
+          {
+            "id": "b51",
+            "title": "Колени, стопы",
+            "duration": 21,
+            "link": "https://kinescope.io/embed/4Q9youw5HUnMsoeN1D2mWG"
+          },
+          {
+            "id": "b52",
+            "title": "МФР и упражнения для стоп",
+            "duration": 24,
+            "link": "https://kinescope.io/embed/9CBEQyFCs9rwMCLpNcRooo"
+          },
+          {
+            "id": "b53",
+            "title": "Про стопы",
+            "duration": 10,
+            "link": "https://kinescope.io/embed/5D6ap6nLuQaYgn3oAQyQWh"
+          },
+          {
+            "id": "b54",
+            "title": "Снятие напряжения с ног, свобода движения коленей",
+            "duration": 35,
+            "link": "https://kinescope.io/embed/pk8Tz5cJuSEYGPqrrj9RYH"
+          }
+        ]
+      },
+      {
+        "name": "На все тело",
+        "videos": [
+          {
+            "id": "b55",
+            "title": "Мягкая практика на всё тело",
+            "duration": 26,
+            "link": "https://kinescope.io/embed/kCywRFFokvAGyPSC8BMRhB"
+          },
+          {
+            "id": "b56",
+            "title": "Комплекс после дороги",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/wxE5capymHQdqpVpmL9QSi"
+          },
+          {
+            "id": "b57",
+            "title": "Пилатес",
+            "duration": 31,
+            "link": "https://kinescope.io/embed/7vXjZfCN3JXS491ThYWThL"
+          },
+          {
+            "id": "b58",
+            "title": "Согласованность грудной клетки и таза для красивой осанки",
+            "duration": 34,
+            "link": "https://kinescope.io/embed/qYCqRQzRTbAV9tQZrWC1jj"
+          },
+          {
+            "id": "b59",
+            "title": "Снятие напряжения со всего тела",
+            "duration": 27,
+            "link": "https://kinescope.io/embed/br9H8jCG88dZsKZjBEZcbK"
+          },
+          {
+            "id": "b60",
+            "title": "Снятие напряжения в конце дня",
+            "duration": 33,
+            "link": "https://kinescope.io/embed/sVpW5bNctyjR5wBi9EcG6p"
+          },
+          {
+            "id": "b61",
+            "title": "Активный антиотечный комплекс",
+            "duration": 30,
+            "link": "https://kinescope.io/embed/jtuLqQMeWypTWYgdDgYy7s"
+          },
+          {
+            "id": "b62",
+            "title": "Активная на все тело",
+            "duration": 24,
+            "link": "https://kinescope.io/embed/6PMbEHoTUK2JPkfyUeM3zA"
+          }
+        ]
+      },
+      {
+        "name": "МФР и тейпирование",
+        "videos": [
+          {
+            "id": "b63",
+            "title": "Релиз МТД",
+            "duration": 2,
+            "link": "https://kinescope.io/embed/pYVsFGE1vpr1UgE36JwBVT"
+          },
+          {
+            "id": "b64",
+            "title": "Отработка шрамов (кесарево, эпизио)",
+            "duration": 10,
+            "link": "https://kinescope.io/embed/hHwxNKB8WpPDfzu6HVWLhy"
+          },
+          {
+            "id": "b65",
+            "title": "Диастаз, лимфодренаж, кесарево, шрамы, год",
+            "duration": 18,
+            "link": "https://kinescope.io/embed/pPsQZpC6yQffWzYB1vBiQA"
+          },
+          {
+            "id": "b66",
+            "title": "Тейпирование КС, шрама",
+            "duration": 6,
+            "link": "https://kinescope.io/embed/tL28f4kF8U1DsCwpmENbGb"
+          },
+          {
+            "id": "b67",
+            "title": "Вздутие, боли в животе",
+            "duration": 3,
+            "link": "https://kinescope.io/embed/tKc95yJXrQNi1bvZZE1n27"
+          },
+          {
+            "id": "b68",
+            "title": "Тейпирование, база",
+            "duration": 5,
+            "link": "https://kinescope.io/embed/xhHqVacjBboZYsRpmPYhKz"
+          },
+          {
+            "id": "b69",
+            "title": "Снятие напряжения с ног, свобода движения коленей",
+            "duration": 35,
+            "link": "https://kinescope.io/embed/jjZguzsT5wN8x4FCJDpUdH"
+          },
+          {
+            "id": "b70",
+            "title": "МФР всего тела с оборудованием",
+            "duration": 30,
+            "link": "https://kinescope.io/embed/hNjTvsSSx1itw7znxrd7JE"
+          },
+          {
+            "id": "b71",
+            "title": "МФР и упражнения для стоп",
+            "duration": 24,
+            "link": "https://kinescope.io/embed/9CBEQyFCs9rwMCLpNcRooo"
+          },
+          {
+            "id": "b72",
+            "title": "Снятие напряжения с верхнего плечевого пояса",
+            "duration": 10,
+            "link": "https://kinescope.io/embed/abSRbmhfh2d5sgiLQpqA1S"
+          },
+          {
+            "id": "b73",
+            "title": "Комплекс по МФР с полотенцем",
+            "duration": 26,
+            "link": "https://kinescope.io/embed/wS8p2PihHHQUwa3zZQWQxg"
+          },
+          {
+            "id": "b74",
+            "title": "Отечность ниже пупка",
+            "duration": 2,
+            "link": "https://kinescope.io/embed/9AEVCpQeF8XMmmedfGPqeB"
+          },
+          {
+            "id": "b75",
+            "title": "Bonus 1",
+            "duration": 12,
+            "link": "https://kinescope.io/embed/kuzh9MQ7DNswMhfZpTEMiD"
+          },
+          {
+            "id": "b76",
+            "title": "Bonus 2",
+            "duration": 6,
+            "link": "https://kinescope.io/embed/8PwzW4fHDZNCB2H1vqsR5C"
+          }
+        ]
+      }
+    ]
+  }
 ]
