@@ -1,280 +1,377 @@
-    /* Basic Reset & Font */
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
+/* Basic Reset & Font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+html, body {
+    height: 100%; /* Ensure html and body take full height */
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333;
+    line-height: 1.6;
+}
+
+body {
+    padding: 0; /* Remove body padding if app-container handles it */
+    display: flex; /* Added for centering app-container potentially or managing full height */
+    flex-direction: column; /* Ensure footer is below if body is flex */
+}
+
+/* Main application container */
+.app-container {
+    max-width: 1400px;
+    margin: 0 auto; /* Centering app-container */
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 0; /* Full width/height, so radius might not be desired here */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    flex-grow: 1; /* Allow app-container to grow and fill space if body is flex */
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Make app-container take full viewport height */
+}
+
+/* Header styling */
+header {
+    text-align: center;
+    margin-bottom: 20px; /* Reduced margin */
+    padding-bottom: 15px; /* Reduced padding */
+    border-bottom: 1px solid #eee;
+    flex-shrink: 0; /* Prevent header from shrinking */
+}
+
+header h1 {
+    color: #4a4a4a;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+header p {
+    color: #777;
+    font-size: 1.1em;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    margin-top: auto; /* Push footer to the bottom if app-container is flex column */
+    padding: 15px 0; /* Adjusted padding */
+    border-top: 1px solid #eee;
+    color: #aaa;
+    font-size: 0.9em;
+    flex-shrink: 0; /* Prevent footer from shrinking */
+}
+
+/* Loading/No Results Message styling */
+.loading-message,
+.no-results-message {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 40px 20px;
+    color: #6c757d;
+    font-size: 1.1em;
+    width: 100%;
+}
+
+/* Main Layout: Filters on Left, Grid on Right */
+.controls-container {
+    display: flex;
+    gap: 20px; /* Reduced gap */
+    align-items: stretch; /* Stretch items to fill container height */
+    flex-grow: 1; /* Allow this container to fill remaining space */
+    overflow-y: hidden; /* Prevent unnecessary scrollbars on this container */
+    min-height: 0; /* Fix for flex item overflow */
+}
+
+/* Filters Area (Left Sidebar) */
+.filters {
+    width: 300px; /* Slightly increased width for better readability */
+    flex-shrink: 0;
+    padding: 20px;
+    background-color: #f1f3f5;
+    border-radius: 8px;
+    display: flex; /* Added for internal layout */
+    flex-direction: column; /* Stack filter sections vertically */
+    overflow-y: auto; /* Allow scrolling within filters if content exceeds height */
+    height: 100%; /* Ensure filters panel itself tries to take full height of its parent */
+}
+
+.filters h2 {
+    font-size: 1.15em; /* Slightly adjusted */
+    margin-bottom: 12px; /* Adjusted */
+    padding-bottom: 8px; /* Adjusted */
+    border-bottom: 1px solid #ddd;
+    color: #333;
+    flex-shrink: 0;
+}
+
+.filters h2:not(:first-child) {
+    margin-top: 20px; /* Adjusted */
+}
+
+/* Category Tree Styling */
+#category-tree-container {
+    flex-grow: 1; /* Allow tree container to take available vertical space */
+    overflow-y: auto;
+    margin-bottom: 20px;
+    padding-right: 5px; /* Space for scrollbar */
+    min-height: 100px; /* Ensure it has some height */
+}
+
+#category-tree ul {
+    list-style: none;
+    padding-left: 0; /* Remove default padding, control with li or item padding */
+}
+
+#category-tree li {
+    margin-bottom: 3px;
+}
+
+#category-tree li.has-subcategories > .category-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: #e9ecef; Optional: slight background for parent categories */
+    /* border-radius: 4px; */
+    /* margin-bottom: 2px; */
+}
+
+#category-tree span.category-name {
+    cursor: pointer;
+    padding: 5px 8px; /* Adjusted padding */
+    border-radius: 4px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    display: block; /* Make clickable area span full width available to it */
+    word-wrap: break-word;
+    flex-grow: 1; /* Allow name to take space */
+}
+
+#category-tree span.category-name:hover {
+    background-color: #e0e0e0;
+}
+
+#category-tree span.category-name.active {
+    background-color: #007bff;
+    color: white;
+    font-weight: 500;
+}
+
+.toggle-icon {
+    cursor: pointer;
+    padding: 5px 10px; /* Make it a bit easier to click */
+    font-size: 0.9em;
+    user-select: none; /* Prevent text selection */
+    margin-left: 5px; /* Space between name and icon */
+    border-radius: 4px;
+}
+.toggle-icon:hover {
+    background-color: #d0d0d0;
+}
+
+.subcategory-list {
+    /* display: none; /* Initial state set by JS via inline style */
+    padding-left: 20px; /* Indent subcategories further */
+    /* border-left: 1px solid #ccc; */
+    /* margin-left: 8px; */
+    /* margin-top: 3px; */
+}
+
+/* Filter Group (Duration select, Reset Button) Styling */
+.filter-group {
+    margin-bottom: 20px; /* Increased margin */
+    flex-shrink: 0;
+}
+
+.filter-group label {
+    display: block;
+    margin-bottom: 8px; /* Increased margin */
+    font-weight: 500;
+    color: #555;
+}
+
+/* Duration Toggle Buttons Styling */
+.duration-toggle-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 5px;
+}
+
+.duration-toggle-btn {
+    padding: 8px 10px; /* Adjusted padding */
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.85em; /* Adjusted font size */
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.duration-toggle-btn:hover {
+    background-color: #e9ecef;
+    border-color: #adb5bd;
+}
+
+.duration-toggle-btn.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+    font-weight: 500;
+}
+
+/* Reset button styling */
+#reset-filters {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #6c757d;
+    border-radius: 6px;
+    background-color: #6c757d;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.95em;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+    font-weight: 500;
+    margin-top: auto; /* Push reset button to the bottom of filters panel */
+}
+
+#reset-filters:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+#reset-filters:focus {
+    outline: none;
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+
+/* Video Grid Area (Right Side) */
+.video-grid {
+    flex-grow: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px; /* Adjusted gap */
+    min-height: 100px;
+    overflow-y: auto; /* Allow scrolling for video grid content */
+    padding: 5px; /* Small padding so scrollbar doesn't overlap content too much */
+    height: 100%; /* Take full height of its parent in controls-container */
+}
+
+/* Video Tile Styling */
+.video-tile {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.video-tile:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.video-tile a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 15px; /* Adjusted padding */
+}
+
+.video-tile h3 {
+    font-size: 1.05em; /* Slightly adjusted */
+    font-weight: 600;
+    color: #343a40;
+    margin-bottom: 10px;
+    flex-grow: 1;
+}
+
+.video-tile .details {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85em; /* Adjusted font size */
+    color: #6c757d;
+}
+
+.video-tile .category {
+    background-color: #e9ecef;
+    color: #495057;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    font-weight: 500;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 60%;
+}
+
+.video-tile .duration {
+    font-weight: 500;
+}
+
+
+/* Responsive Adjustments */
+@media (max-width: 992px) {
     body {
-        font-family: 'Montserrat', sans-serif;
-        background-color: #f8f9fa; /* Light gray background */
-        color: #333;
-        line-height: 1.6;
-        padding: 20px;
+        padding: 0; /* Remove padding if app-container handles it */
     }
-
-    /* Main application container */
     .app-container {
-        max-width: 1400px; /* Allow wider content */
-        margin: 20px auto;
-        padding: 20px;
-        background-color: #ffffff; /* White background for content area */
-        border-radius: 10px;
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        height: auto; /* Allow height to be determined by content on smaller screens */
+        min-height: 100vh; /* Still try to fill viewport */
+        border-radius: 0;
     }
-
-    /* Header styling */
-    header {
-        text-align: center;
-        margin-bottom: 30px;
-        padding-bottom: 20px;
-        border-bottom: 1px solid #eee;
-    }
-
-    header h1 {
-        color: #4a4a4a;
-        font-weight: 600;
-        margin-bottom: 5px;
-    }
-
-    header p {
-        color: #777;
-        font-size: 1.1em;
-    }
-
-    /* Footer styling */
-    footer {
-        text-align: center;
-        margin-top: 40px;
-        padding-top: 20px;
-        border-top: 1px solid #eee;
-        color: #aaa;
-        font-size: 0.9em;
-    }
-
-    /* Loading/No Results Message styling */
-    .loading-message,
-    .no-results-message {
-        grid-column: 1 / -1; /* Span across all grid columns if grid is active */
-        text-align: center;
-        padding: 40px 20px;
-        color: #6c757d;
-        font-size: 1.1em;
-        width: 100%; /* Ensure it takes width even if grid isn't ready */
-    }
-
-    /* Main Layout: Filters on Left, Grid on Right */
     .controls-container {
-        display: flex;
-        gap: 30px; /* Space between filters sidebar and video grid */
-        align-items: flex-start; /* Align items to the top */
-    }
-
-    /* Filters Area (Left Sidebar) */
-    .filters {
-        width: 280px; /* Fixed width for the filters sidebar */
-        flex-shrink: 0; /* Prevent the sidebar from shrinking */
-        padding: 20px;
-        background-color: #f1f3f5; /* Light background for the sidebar */
-        border-radius: 8px;
-    }
-
-    .filters h2 {
-        font-size: 1.2em;
-        margin-bottom: 15px;
-        padding-bottom: 10px;
-        border-bottom: 1px solid #ddd;
-        color: #333;
-    }
-
-    .filters h2:not(:first-child) {
-        margin-top: 25px; /* Space between "Категории" and "Фильтры" sections */
-    }
-
-    /* Category Tree Styling */
-    #category-tree-container {
-        max-height: 400px; /* Limit height and make scrollable */
-        overflow-y: auto; /* Add vertical scrollbar if content exceeds max-height */
-        margin-bottom: 20px; /* Space below the tree */
-        padding-right: 5px; /* Space for scrollbar */
-    }
-
-    #category-tree ul {
-        list-style: none; /* Remove default bullet points */
-        padding-left: 15px; /* Indentation for nested levels */
-    }
-
-    #category-tree li {
-        margin-bottom: 5px; /* Space between category items */
-    }
-
-    /* Style for the clickable category name */
-    #category-tree span.category-name {
-        cursor: pointer;
-        padding: 4px 6px;
-        border-radius: 4px;
-        transition: background-color 0.2s ease, color 0.2s ease;
-        display: block; /* Make the clickable area span the full width */
-        word-wrap: break-word; /* Wrap long category names */
-    }
-
-    #category-tree span.category-name:hover {
-        background-color: #e0e0e0; /* Highlight on hover */
-    }
-
-    /* Style for the currently selected category */
-    #category-tree span.category-name.active {
-        background-color: #007bff; /* Blue background for active category */
-        color: white;
-        font-weight: 500;
-    }
-
-    /* Filter Group (Duration select, Reset Button) Styling */
-    .filter-group {
-        margin-bottom: 15px;
-    }
-
-    .filter-group label {
-        display: block; /* Place label on its own line */
-        margin-bottom: 5px;
-        font-weight: 500;
-        color: #555;
-    }
-
-    .filters select,
-    .filters button {
-        width: 100%; /* Make select dropdown and button take full width */
-        padding: 10px 12px;
-        border: 1px solid #ced4da;
-        border-radius: 6px;
-        background-color: #fff;
-        font-family: 'Montserrat', sans-serif;
-        font-size: 0.95em;
-        cursor: pointer;
-        transition: border-color 0.2s ease, box-shadow 0.2s ease;
-    }
-
-    .filters select:focus,
-    .filters button:focus {
-        outline: none;
-        border-color: #80bdff; /* Highlight border on focus */
-        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Add focus ring */
-    }
-
-    /* Specific styling for the reset button */
-    #reset-filters {
-        background-color: #6c757d; /* Gray background */
-        color: white;
-        border-color: #6c757d;
-        font-weight: 500;
-        margin-top: 10px; /* Space above the reset button */
-    }
-
-    #reset-filters:hover {
-        background-color: #5a6268; /* Darker gray on hover */
-        border-color: #545b62;
-    }
-
-    /* Video Grid Area (Right Side) */
-    .video-grid {
-        flex-grow: 1; /* Allow the grid to take up the remaining horizontal space */
-        display: grid;
-        /* Responsive grid columns: Fill available space, min width 280px */
-        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-        gap: 25px; /* Spacing between video tiles */
-        min-height: 100px; /* Ensure it has some height even when empty */
-    }
-
-    /* Video Tile Styling */
-    .video-tile {
-        background-color: #ffffff;
-        border-radius: 10px;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-        overflow: hidden; /* Hide content that overflows */
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        display: flex;
-        flex-direction: column; /* Stack content vertically */
-    }
-
-    .video-tile:hover {
-        transform: translateY(-5px); /* Slight lift effect on hover */
-        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12); /* Stronger shadow on hover */
-    }
-
-    .video-tile a {
-        text-decoration: none; /* Remove underline from links */
-        color: inherit; /* Use the default text color */
-        display: flex;
         flex-direction: column;
-        height: 100%; /* Make the link fill the entire tile */
-        padding: 20px;
+        overflow-y: visible; /* Allow content to scroll with the page */
     }
-
-    .video-tile h3 {
-        font-size: 1.1em;
-        font-weight: 600;
-        color: #343a40;
-        margin-bottom: 10px;
-        flex-grow: 1; /* Allow title to take available vertical space */
+    .filters {
+        width: 100%;
+        margin-bottom: 20px;
+        height: auto; /* Allow filters to size based on content */
+        max-height: 50vh; /* Example: Limit height and make it scrollable if too much */
+        overflow-y: auto;
     }
-
-    /* Details section at the bottom of the tile */
-    .video-tile .details {
-        margin-top: auto; /* Push details to the bottom */
-        display: flex;
-        justify-content: space-between; /* Space out duration and category */
-        align-items: center;
-        font-size: 0.9em;
-        color: #6c757d; /* Muted color for details */
+    #category-tree-container {
+        /* max-height: 250px; /* You might want to adjust this for mobile */
+        /* flex-grow: 0; /* Disable grow if max-height is set */
     }
-
-    /* Category badge styling */
-    .video-tile .category {
-        background-color: #e9ecef; /* Light badge background */
-        color: #495057;
-        padding: 3px 8px;
-        border-radius: 4px;
-        font-size: 0.8em;
-        font-weight: 500;
-        white-space: nowrap; /* Prevent category name from wrapping */
-        text-overflow: ellipsis; /* Add '...' if name is too long */
-        overflow: hidden; /* Hide overflowing text */
-        max-width: 60%; /* Limit width to prevent overlap with duration */
+    .video-grid {
+        height: auto; /* Allow grid to define its own height based on content */
+        /* overflow-y: visible; Let the page scroll */
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
     }
-
-    .video-tile .duration {
-        font-weight: 500;
+    #reset-filters {
+        margin-top: 20px; /* Ensure space if it's not pushed by flex:auto */
     }
+}
 
-
-    /* Responsive Adjustments */
-    @media (max-width: 992px) {
-        /* Stack filters above grid on medium/tablet screens */
-        .controls-container {
-            flex-direction: column;
-        }
-        .filters {
-            width: 100%; /* Filters take full width */
-            margin-bottom: 30px; /* Space between filters and grid */
-        }
-        #category-tree-container {
-            max-height: 250px; /* Reduce tree height */
-        }
-         /* Adjust grid columns for medium screens if needed */
-        .video-grid {
-            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-        }
+@media (max-width: 600px) {
+    .app-container {
+        padding: 10px;
     }
-
-    @media (max-width: 600px) {
-        /* Single column layout on small/mobile screens */
-        body { padding: 10px; }
-        .app-container { padding: 15px; }
-        .video-grid {
-            grid-template-columns: 1fr; /* Single column */
-            gap: 15px;
-        }
-         .video-tile h3 { font-size: 1em; }
-         header p { font-size: 1em; }
+    .filters {
+        padding: 15px;
     }
-    
+    .video-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+     .video-tile h3 { font-size: 1em; }
+     header p { font-size: 1em; }
+     .filters h2 { font-size: 1.1em; }
+     .duration-toggle-btn { font-size: 0.8em; padding: 6px 8px;}
+}
