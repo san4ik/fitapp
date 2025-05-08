@@ -924,5 +924,216 @@
         "link": "https://kinescope.io/f59mUFjzJ9NJh6vTNNGDGx"
       }
     ]
+  },
+  {
+    "name": "Питание и образ жизни",
+    "subcategories": [
+      {
+        "name": "Питание и питьевой режим",
+        "videos": [
+          {
+            "id": "pl_pp1",
+            "title": "Про белок",
+            "duration": 53,
+            "link": "https://kinescope.io/jz18mNZXEwCyKYAzf1NYxm?autoplay=1"
+          },
+          {
+            "id": "pl_pp2",
+            "title": "Жиры",
+            "duration": 31,
+            "link": "https://kinescope.io/0ntAcji8AdFdXoX8rnht3C?autoplay=1"
+          },
+          {
+            "id": "pl_pp3",
+            "title": "Углеводы",
+            "duration": 41,
+            "link": "https://kinescope.io/7paTjoQeeDkZJsPa11JMxL?autoplay=1"
+          },
+          {
+            "id": "pl_pp4",
+            "title": "Рацион",
+            "duration": 10,
+            "link": "https://kinescope.io/psEw1HMm6eZyjUoaDGc3qX?autoplay=1"
+          },
+          {
+            "id": "pl_pp5",
+            "title": "Тяга к сладкому",
+            "duration": 35,
+            "link": "https://kinescope.io/mii7q9TKP4yZxvBpbGRfnZ?autoplay=1"
+          },
+          {
+            "id": "pl_pp6",
+            "title": "Похудение",
+            "duration": 39,
+            "link": "https://kinescope.io/kkwQrYi5JzUKGWWCZ2NCMD?autoplay=1"
+          },
+          {
+            "id": "pl_pp7",
+            "title": "Стресс и сон",
+            "duration": 28,
+            "link": "https://kinescope.io/oQvdgBxgk8HGR1195goctq?autoplay=1"
+          },
+          {
+            "id": "pl_pp8",
+            "title": "Сон Часть 1",
+            "duration": 69,
+            "link": "https://kinescope.io/i2riMJR5wQvrWQs4qANHA1?autoplay=1"
+          },
+          {
+            "id": "pl_pp9",
+            "title": "Эфир о Теплой воде Как просто избавиться от отеков и сложностей с жкт",
+            "duration": 22,
+            "link": "https://kinescope.io/5zm6GMrbsVoti3NGMkbwFT?autoplay=1"
+          },
+          {
+            "id": "pl_pp10",
+            "title": "Питьевой режим",
+            "duration": 26,
+            "link": "https://kinescope.io/n1yDX42kSrCDqkmyxbE5H6?autoplay=1"
+          },
+          {
+            "id": "pl_pp11",
+            "title": "Тренируем насмотренность",
+            "duration": 12,
+            "link": "https://kinescope.io/tWYnXYJnV4ETvvqmQ1MUqb?autoplay=1"
+          }
+        ]
+      },
+      {
+        "name": "Женское здоровье",
+        "videos": [
+          {
+            "id": "pl_wz1",
+            "title": "Гипотериоз",
+            "duration": 46,
+            "link": "https://kinescope.io/embed/o135E2We5gjp8vRrqWK9ou?autoplay=1"
+          },
+          {
+            "id": "pl_wz2",
+            "title": "Железо дефицит Full",
+            "duration": 120,
+            "link": "https://kinescope.io/e5eB9FnunAYsmpie7k6Zk7?autoplay=1"
+          },
+          {
+            "id": "pl_wz3",
+            "title": "женское здоровье",
+            "duration": 86,
+            "link": "https://kinescope.io/aYhS44ysbY4tFFc8dvZowW?autoplay=1"
+          },
+          {
+            "id": "pl_wz4",
+            "title": "Отёки",
+            "duration": 42,
+            "link": "https://kinescope.io/o6P8zsvHhDt3xgih5RAudT?autoplay=1"
+          }
+        ]
+      },
+      {
+        "name": "Образ жизни",
+        "videos": [
+          {
+            "id": "pl_oz1",
+            "title": "Лайфхаки для жизни",
+            "duration": 19,
+            "link": "https://kinescope.io/p49RpzLMexen9HjMDy3jKn?autoplay=1"
+          },
+          {
+            "id": "pl_oz2",
+            "title": "Комплекс и результат",
+            "duration": 22,
+            "link": "https://kinescope.io/5RVurWj1VdrjG6Zd38tP1U?autoplay=1"
+          },
+          {
+            "id": "pl_oz3",
+            "title": "Комплексный подход",
+            "duration": 38,
+            "link": "https://kinescope.io/pKDpzdWho7qchBR2EZnZii?autoplay=1"
+          },
+          {
+            "id": "pl_oz4",
+            "title": "Как не переедать в праздники и помочь себе после",
+            "duration": 22,
+            "link": "https://kinescope.io/pitdWmySmuexc8HNYCeRVV?autoplay=1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Советы: как получить от курса максимум",
+    "videos": [
+      {
+        "id": "sv1",
+        "title": "Строение таза и техника тазовых часов",
+        "duration": 22,
+        "link": "https://kinescope.io/oPTc3psBfXk9h9gUkLaeDp?autoplay=1"
+      },
+      {
+        "id": "sv2",
+        "title": "Как найти мышцы тазового дна?",
+        "duration": 17,
+        "link": "https://kinescope.io/f3QZgkfLzArAV9tj2iH1pz?autoplay=1"
+      },
+      {
+        "id": "sv3",
+        "title": "Уровни сложности, кому и зачем ?",
+        "duration": 8,
+        "link": "https://kinescope.io/jkL65mukmTZ7ca3aEwv9zM?autoplay=1"
+      },
+      {
+        "id": "sv4",
+        "title": "Что такое «домик»",
+        "duration": 13,
+        "link": "https://kinescope.io/bmHCNw89Fb8Tt56hRMUyta?autoplay=1"
+      },
+      {
+        "id": "sv5",
+        "title": "Разбор BRIDGING",
+        "duration": 12,
+        "link": "https://kinescope.io/itntnraMScRjGCGQTpo1no?autoplay=1"
+      },
+      {
+        "id": "sv6",
+        "title": "Разбор четырёхугольника",
+        "duration": 8,
+        "link": "https://kinescope.io/3pZ63qR19moqPfoAL8WhE4?autoplay=1"
+      },
+      {
+        "id": "sv7",
+        "title": "Положение зет-седа и техника русалки",
+        "duration": 9,
+        "link": "https://kinescope.io/smrZNgy5XgWMX9895QGqTQ?autoplay=1"
+      },
+      {
+        "id": "sv8",
+        "title": "Как заниматься во время и после беременности?",
+        "duration": 14,
+        "link": "https://kinescope.io/6JpsrQnZrjJPB1TTrqGq65?autoplay=1"
+      },
+      {
+        "id": "sv9",
+        "title": "Как найти время для занятий, как не бросить",
+        "duration": 24,
+        "link": "https://kinescope.io/wFgnfMcS7phNaWN9mNg3Rp?autoplay=1"
+      },
+      {
+        "id": "sv10",
+        "title": "Когда будет результат? Моя цель - похудеть",
+        "duration": 17,
+        "link": "https://kinescope.io/655WAmPTmDbpg1e6TNFAuc?autoplay=1"
+      },
+      {
+        "id": "sv11",
+        "title": "Когда будет результат? Моя цель - набор мышечной массы",
+        "duration": 16,
+        "link": "https://kinescope.io/i6oZ56MAqp214c29JYWFin?autoplay=1"
+      },
+      {
+        "id": "sv12",
+        "title": "Как заниматься, если были роды",
+        "duration": 10,
+        "link": "https://kinescope.io/kHC2JkeNUmwCJhG55GdEet?autoplay=1"
+      }
+    ]
   }
 ]
