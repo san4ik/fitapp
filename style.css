@@ -6,40 +6,41 @@
 }
 
 html, body {
-    height: 100%; /* Ensure html and body take full height */
+    height: 100%;
     font-family: 'Montserrat', sans-serif;
-    background-color: #f8f9fa; /* Light gray background */
+    background-color: #f8f9fa;
     color: #333;
     line-height: 1.6;
 }
 
 body {
-    padding: 0; /* Remove body padding if app-container handles it */
-    display: flex; /* Added for centering app-container potentially or managing full height */
-    flex-direction: column; /* Ensure footer is below if body is flex */
+    padding: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Main application container */
 .app-container {
     max-width: 1400px;
-    margin: 0 auto; /* Centering app-container */
+    margin: 0 auto;
     padding: 20px;
     background-color: #ffffff;
-    border-radius: 0; /* Full width/height, so radius might not be desired here */
+    border-radius: 0;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
-    flex-grow: 1; /* Allow app-container to grow and fill space if body is flex */
+    flex-grow: 1;
     display: flex;
     flex-direction: column;
-    height: 100%; /* Make app-container take full viewport height */
+    height: 100%;
+    overflow: hidden; /* Prevent app-container itself from causing page scroll if children are sized to 100% height */
 }
 
 /* Header styling */
 header {
     text-align: center;
-    margin-bottom: 20px; /* Reduced margin */
-    padding-bottom: 15px; /* Reduced padding */
+    margin-bottom: 20px;
+    padding-bottom: 15px;
     border-bottom: 1px solid #eee;
-    flex-shrink: 0; /* Prevent header from shrinking */
+    flex-shrink: 0;
 }
 
 header h1 {
@@ -56,12 +57,12 @@ header p {
 /* Footer styling */
 footer {
     text-align: center;
-    margin-top: auto; /* Push footer to the bottom if app-container is flex column */
-    padding: 15px 0; /* Adjusted padding */
+    margin-top: auto;
+    padding: 15px 0;
     border-top: 1px solid #eee;
     color: #aaa;
     font-size: 0.9em;
-    flex-shrink: 0; /* Prevent footer from shrinking */
+    flex-shrink: 0;
 }
 
 /* Loading/No Results Message styling */
@@ -78,51 +79,51 @@ footer {
 /* Main Layout: Filters on Left, Grid on Right */
 .controls-container {
     display: flex;
-    gap: 20px; /* Reduced gap */
-    align-items: stretch; /* Stretch items to fill container height */
-    flex-grow: 1; /* Allow this container to fill remaining space */
-    overflow-y: hidden; /* Prevent unnecessary scrollbars on this container */
-    min-height: 0; /* Fix for flex item overflow */
+    gap: 20px;
+    align-items: stretch;
+    flex-grow: 1;
+    overflow: hidden; /* Changed from overflow-y: hidden to overflow: hidden for both axes */
+    min-height: 0;
 }
 
 /* Filters Area (Left Sidebar) */
 .filters {
-    width: 300px; /* Slightly increased width for better readability */
+    width: 300px;
     flex-shrink: 0;
     padding: 20px;
     background-color: #f1f3f5;
     border-radius: 8px;
-    display: flex; /* Added for internal layout */
-    flex-direction: column; /* Stack filter sections vertically */
-    overflow-y: auto; /* Allow scrolling within filters if content exceeds height */
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll; /* Changed from auto to scroll to reserve space for scrollbar track */
     height: 100%; /* Ensure filters panel itself tries to take full height of its parent */
 }
 
 .filters h2 {
-    font-size: 1.15em; /* Slightly adjusted */
-    margin-bottom: 12px; /* Adjusted */
-    padding-bottom: 8px; /* Adjusted */
+    font-size: 1.15em;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
     border-bottom: 1px solid #ddd;
     color: #333;
     flex-shrink: 0;
 }
 
 .filters h2:not(:first-child) {
-    margin-top: 20px; /* Adjusted */
+    margin-top: 20px;
 }
 
 /* Category Tree Styling */
 #category-tree-container {
-    flex-grow: 1; /* Allow tree container to take available vertical space */
-    overflow-y: auto;
+    flex-grow: 1;
+    overflow-y: auto; /* This will be nested scroll if content in tree overflows. The parent .filters handles its own overall scroll. */
     margin-bottom: 20px;
-    padding-right: 5px; /* Space for scrollbar */
-    min-height: 100px; /* Ensure it has some height */
+    padding-right: 0; /* Removed padding-right as parent .filters now has overflow:scroll */
+    min-height: 100px;
 }
 
 #category-tree ul {
     list-style: none;
-    padding-left: 0; /* Remove default padding, control with li or item padding */
+    padding-left: 0;
 }
 
 #category-tree li {
@@ -133,19 +134,16 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* background-color: #e9ecef; Optional: slight background for parent categories */
-    /* border-radius: 4px; */
-    /* margin-bottom: 2px; */
 }
 
 #category-tree span.category-name {
     cursor: pointer;
-    padding: 5px 8px; /* Adjusted padding */
+    padding: 5px 8px;
     border-radius: 4px;
     transition: background-color 0.2s ease, color 0.2s ease;
-    display: block; /* Make clickable area span full width available to it */
+    display: block;
     word-wrap: break-word;
-    flex-grow: 1; /* Allow name to take space */
+    flex-grow: 1;
 }
 
 #category-tree span.category-name:hover {
@@ -160,10 +158,10 @@ footer {
 
 .toggle-icon {
     cursor: pointer;
-    padding: 5px 10px; /* Make it a bit easier to click */
+    padding: 5px 10px;
     font-size: 0.9em;
-    user-select: none; /* Prevent text selection */
-    margin-left: 5px; /* Space between name and icon */
+    user-select: none;
+    margin-left: 5px;
     border-radius: 4px;
 }
 .toggle-icon:hover {
@@ -171,22 +169,18 @@ footer {
 }
 
 .subcategory-list {
-    /* display: none; /* Initial state set by JS via inline style */
-    padding-left: 20px; /* Indent subcategories further */
-    /* border-left: 1px solid #ccc; */
-    /* margin-left: 8px; */
-    /* margin-top: 3px; */
+    padding-left: 20px;
 }
 
-/* Filter Group (Duration select, Reset Button) Styling */
+/* Filter Group Styling */
 .filter-group {
-    margin-bottom: 20px; /* Increased margin */
+    margin-bottom: 20px;
     flex-shrink: 0;
 }
 
 .filter-group label {
     display: block;
-    margin-bottom: 8px; /* Increased margin */
+    margin-bottom: 8px;
     font-weight: 500;
     color: #555;
 }
@@ -200,12 +194,12 @@ footer {
 }
 
 .duration-toggle-btn {
-    padding: 8px 10px; /* Adjusted padding */
+    padding: 8px 10px;
     border: 1px solid #ced4da;
     border-radius: 6px;
     background-color: #fff;
     font-family: 'Montserrat', sans-serif;
-    font-size: 0.85em; /* Adjusted font size */
+    font-size: 0.85em;
     cursor: pointer;
     transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
     flex-grow: 1;
@@ -237,7 +231,7 @@ footer {
     cursor: pointer;
     transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
     font-weight: 500;
-    margin-top: auto; /* Push reset button to the bottom of filters panel */
+    margin-top: auto;
 }
 
 #reset-filters:hover {
@@ -251,17 +245,16 @@ footer {
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
 
-
 /* Video Grid Area (Right Side) */
 .video-grid {
     flex-grow: 1;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 20px; /* Adjusted gap */
-    min-height: 100px;
-    overflow-y: auto; /* Allow scrolling for video grid content */
-    padding: 5px; /* Small padding so scrollbar doesn't overlap content too much */
-    height: 100%; /* Take full height of its parent in controls-container */
+    gap: 20px;
+    overflow-y: auto;
+    height: 100%;
+    min-width: 0; /* Crucial for flex children that might otherwise not shrink */
+    padding: 2px; /* Minimal padding, adjust if scrollbar looks off */
 }
 
 /* Video Tile Styling */
@@ -273,6 +266,7 @@ footer {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     display: flex;
     flex-direction: column;
+    min-width: 0; /* Helps prevent content from breaking tile width */
 }
 
 .video-tile:hover {
@@ -286,15 +280,25 @@ footer {
     display: flex;
     flex-direction: column;
     height: 100%;
-    padding: 15px; /* Adjusted padding */
+    padding: 15px;
+    min-width: 0; /* For safety */
 }
 
 .video-tile h3 {
-    font-size: 1.05em; /* Slightly adjusted */
+    font-size: 1.05em;
     font-weight: 600;
     color: #343a40;
     margin-bottom: 10px;
     flex-grow: 1;
+    /* Handling long titles */
+    overflow-wrap: break-word;
+    /* If you prefer ellipsis for single/double line:
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; number of lines to show
+    -webkit-box-orient: vertical;
+    */
 }
 
 .video-tile .details {
@@ -302,7 +306,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 0.85em; /* Adjusted font size */
+    font-size: 0.85em;
     color: #6c757d;
 }
 
@@ -316,46 +320,41 @@ footer {
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
-    max-width: 60%;
+    max-width: 60%; /* Or adjust based on typical category name lengths */
 }
 
 .video-tile .duration {
     font-weight: 500;
 }
 
-
 /* Responsive Adjustments */
 @media (max-width: 992px) {
-    body {
-        padding: 0; /* Remove padding if app-container handles it */
-    }
     .app-container {
-        height: auto; /* Allow height to be determined by content on smaller screens */
-        min-height: 100vh; /* Still try to fill viewport */
-        border-radius: 0;
+        height: auto;
+        min-height: 100vh;
+        overflow: visible; /* Allow page to scroll naturally */
     }
     .controls-container {
         flex-direction: column;
-        overflow-y: visible; /* Allow content to scroll with the page */
+        overflow: visible; /* Allow page to scroll naturally */
     }
     .filters {
         width: 100%;
         margin-bottom: 20px;
-        height: auto; /* Allow filters to size based on content */
-        max-height: 50vh; /* Example: Limit height and make it scrollable if too much */
-        overflow-y: auto;
+        height: auto;
+        max-height: 50vh; /* Example: Limit height of filters and make it scrollable if too much content */
+        overflow-y: auto; /* Change back to auto for responsive, as 'scroll' might look odd if not needed */
     }
     #category-tree-container {
-        /* max-height: 250px; /* You might want to adjust this for mobile */
-        /* flex-grow: 0; /* Disable grow if max-height is set */
+        /* Adjust if needed for mobile, e.g., reduce max-height */
+        /* padding-right: 5px; /* Add back if .filters is overflow:auto */
     }
     .video-grid {
-        height: auto; /* Allow grid to define its own height based on content */
-        /* overflow-y: visible; Let the page scroll */
+        height: auto; /* Grid takes height based on its content */
         grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
     }
     #reset-filters {
-        margin-top: 20px; /* Ensure space if it's not pushed by flex:auto */
+        margin-top: 20px;
     }
 }
 
@@ -365,9 +364,10 @@ footer {
     }
     .filters {
         padding: 15px;
+        max-height: 60vh; /* Potentially more height for filters on small screens */
     }
     .video-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; /* Single column */
         gap: 15px;
     }
      .video-tile h3 { font-size: 1em; }
