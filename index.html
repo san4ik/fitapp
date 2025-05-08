@@ -11,27 +11,22 @@
 </head>
 <body>
     <div class="app-container">
-        <header>
-            <h1>Фитнес Видео Каталог</h1>
-            <p>Найдите идеальную тренировку для себя</p>
-        </header>
         <div class="controls-container">
              <div class="filters">
-                <h2>Категории</h2>
+                <h5>Категории</h5>
                 <div id="category-tree-container">
                      <div id="category-tree">
                         <p>Загрузка категорий...</p>
                     </div>
                  </div>
                  <div class="filter-group">
-                    <h2>Фильтры</h2>
-                    <label for="duration-toggle-buttons">Длительность</label>
-                    <div id="duration-toggle-buttons" class="duration-toggle-group">
-                        <button type="button" class="duration-toggle-btn active" data-value="all">Любая</button>
-                        <button type="button" class="duration-toggle-btn" data-value="short">&lt; 20 мин</button>
-                        <button type="button" class="duration-toggle-btn" data-value="medium">20-35 мин</button>
-                        <button type="button" class="duration-toggle-btn" data-value="long">&gt; 35 мин</button>
-                    </div>
+                    <h5>Длительность</h5>
+                    <select id="duration-filter">
+                        <option value="all">Любая</option>
+                        <option value="short">&lt; 20 мин</option>
+                        <option value="medium">20-35 мин</option>
+                        <option value="long">&gt; 35 мин</option>
+                    </select>
                 </div>
                 <button id="reset-filters">Сбросить все фильтры</button>
             </div>
