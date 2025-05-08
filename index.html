@@ -1,47 +1,51 @@
-    <!DOCTYPE html>
-    <html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Фитнес Видео</title>
-        <link rel="stylesheet" href="style.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
-    </head>
-    <body>
-        <div class="app-container">
-            <div class="controls-container">
-                 <div class="filters">
-                    <h5>Категории</h5>
-                    <div id="category-tree-container">
-                         <div id="category-tree">
-                            <p>Загрузка категорий...</p>
-                        </div>
-                     </div>
-                     <div class="filter-group">
-                        <h5>Длительность</h5>
-                        <select id="duration-filter">
-                            <option value="all">Любая</option>
-                            <option value="short">&lt; 20 мин</option>
-                            <option value="medium">20-35 мин</option>
-                            <option value="long">&gt; 35 мин</option>
-                        </select>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фитнес Видео</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Фитнес Видео Каталог</h1>
+            <p>Найдите идеальную тренировку для себя</p>
+        </header>
+        <div class="controls-container">
+             <div class="filters">
+                <h2>Категории</h2>
+                <div id="category-tree-container">
+                     <div id="category-tree">
+                        <p>Загрузка категорий...</p>
                     </div>
-                    <button id="reset-filters">Сбросить все фильтры</button>
+                 </div>
+                 <div class="filter-group">
+                    <h2>Фильтры</h2>
+                    <label for="duration-toggle-buttons">Длительность</label>
+                    <div id="duration-toggle-buttons" class="duration-toggle-group">
+                        <button type="button" class="duration-toggle-btn active" data-value="all">Любая</button>
+                        <button type="button" class="duration-toggle-btn" data-value="short">&lt; 20 мин</button>
+                        <button type="button" class="duration-toggle-btn" data-value="medium">20-35 мин</button>
+                        <button type="button" class="duration-toggle-btn" data-value="long">&gt; 35 мин</button>
+                    </div>
                 </div>
+                <button id="reset-filters">Сбросить все фильтры</button>
+            </div>
 
-                <div id="video-grid" class="video-grid">
-                    <p class="loading-message">Загрузка видео...</p>
-                </div>
+            <div id="video-grid" class="video-grid">
+                <p class="loading-message">Загрузка видео...</p>
             </div>
         </div>
+    </div>
 
-        <footer>
-            <p>Создано с ❤️</p>
-        </footer>
+    <footer>
+        <p>Создано с ❤️</p>
+    </footer>
 
-        <script src="script.js"></script>
-    </body>
-    </html>
-    
+    <script src="script.js"></script>
+</body>
+</html>
