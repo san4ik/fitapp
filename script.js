@@ -178,8 +178,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Check if the clicked element is a category name span
         if (target.classList.contains('category-name')) {
-            // Find the currently active category, if any
-            const currentActive = categoryTreeContainer.querySelector('.category-name.active');
+            // Find all currently active categories (should normally be one)
+            const currentActiveElements = categoryTreeContainer.querySelectorAll('.category-name.active');
 
             // Get the path array from the clicked element's data attribute
             const pathString = target.getAttribute('data-path');
@@ -192,16 +192,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // If clicking the already active category, deselect it
-            if (currentActive === target) {
-                selectedCategoryPath = null; // Clear selection
-                target.classList.remove('active'); // Remove highlight
+            if (currentActiveElements.length === 1 && currentActiveElements[0] === target) {
+                // Clicking the already active category -> deselect
+                selectedCategoryPath = null;
+                target.classList.remove('active');
             } else {
-                // If clicking a different category
-                if (currentActive) {
-                    currentActive.classList.remove('active'); // Remove highlight from previous
-                }
-                selectedCategoryPath = clickedPath; // Set new selection
-                target.classList.add('active'); // Highlight clicked category
+                // Deselect any existing active categories
+                currentActiveElements.forEach(el => el.classList.remove('active'));
+                // Set new selection
+                selectedCategoryPath = clickedPath;
+                target.classList.add('active');
             }
 
             // Re-filter and render videos based on the new selection
@@ -216,10 +216,9 @@ document.addEventListener('DOMContentLoaded', () => {
     function resetFilters() {
         // Clear category selection
         selectedCategoryPath = null;
-        const currentActive = categoryTreeContainer.querySelector('.category-name.active');
-        if (currentActive) {
-            currentActive.classList.remove('active');
-        }
+        // Remove highlight from any active categories
+        const activeNodes = categoryTreeContainer.querySelectorAll('.category-name.active');
+        activeNodes.forEach(node => node.classList.remove('active'));
 
         // Reset duration dropdown
         durationFilter.value = 'all';
