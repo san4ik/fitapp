@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -7,33 +8,42 @@
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="app-container">
-        <div class="controls-container">
-             <div class="filters">
-                <h5>Категории</h5>
-                <div id="category-tree-container">
-                     <div id="category-tree">
+        <div class="top-navigation">
+            <div class="tabs-container">
+                <div class="tabs-wrapper">
+                    <div id="tabs" class="tabs">
                         <p>Загрузка категорий...</p>
                     </div>
-                 </div>
-                 <div class="filter-group">
-                    <h5>Длительность</h5>
+                </div>
+            </div>
+            
+            <div class="filters-row">
+                <div class="chips-container">
+                    <div id="chips" class="chips">
+                        <!-- Chips will be populated dynamically -->
+                    </div>
+                </div>
+                
+                <div class="duration-filter">
                     <select id="duration-filter">
-                        <option value="all">Любая</option>
+                        <option value="all">Длительность</option>
                         <option value="short">&lt; 20 мин</option>
                         <option value="medium">20-35 мин</option>
                         <option value="long">&gt; 35 мин</option>
                     </select>
+                    <svg class="dropdown-arrow" width="12" height="8" viewBox="0 0 12 8">
+                        <path d="M1 1L6 6L11 1" stroke="currentColor" stroke-width="2" fill="none"/>
+                    </svg>
                 </div>
-                <button id="reset-filters">Сбросить все фильтры</button>
             </div>
+        </div>
 
-            <div id="video-grid" class="video-grid">
-                <p class="loading-message">Загрузка видео...</p>
-            </div>
+        <div id="video-grid" class="video-grid">
+            <p class="loading-message">Загрузка видео...</p>
         </div>
     </div>
 
