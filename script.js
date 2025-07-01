@@ -549,7 +549,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Copy to clipboard
         if (navigator.clipboard && navigator.clipboard.writeText) {
             navigator.clipboard.writeText(exportString).then(() => {
-                alert(`Экспортировано ${favorites.size} ID в буфер обмена`);
+                alert(`Скопировано ${favorites.size} ID`);
             }).catch(() => {
                 // Fallback for clipboard
                 showExportModal(exportString);
