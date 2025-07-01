@@ -1,1260 +1,1648 @@
-[
-  {
-    "name": "Зарядки",
-    "videos": [
-      {
-        "id": "z1",
-        "title": "Стоя на все тело",
-        "duration": 12,
-        "link": "https://kinescope.io/k2yAaogzMgZS69tC1pRArv"
-      },
-      {
-        "id": "z2",
-        "title": "Кол между лопаток",
-        "duration": 17,
-        "link": "https://kinescope.io/wdrdWp7hnnkXLbuEXxECea"
-      },
-      {
-        "id": "z3",
-        "title": "Мобильность в теле без инвентаря",
-        "duration": 16,
-        "link": "https://kinescope.io/mMJMCcCsP4fKFSqsmCTnUE"
-      },
-      {
-        "id": "z4",
-        "title": "Дискомфорт в регионе таза и пояснице",
-        "duration": 15,
-        "link": "https://kinescope.io/ast11gQL3DbLHPzoHn5fNT"
-      },
-      {
-        "id": "z5",
-        "title": "Всё тело с массажными мячами",
-        "duration": 15,
-        "link": "https://kinescope.io/9sDAvuKbZgKUWKGNFaEE7Y"
-      },
-      {
-        "id": "z6",
-        "title": "Стоя на все случаи жизни",
-        "duration": 13,
-        "link": "https://kinescope.io/5BKgtGvhJGFyM7DN7TTyEd"
-      },
-      {
-        "id": "z7",
-        "title": "Отеки лица и тела",
-        "duration": 15,
-        "link": "https://kinescope.io/wFmG9eCDHbnbi93xeV4QvC"
-      },
-      {
-        "id": "z8",
-        "title": "Мягкая на всё тело от снятия напряжения",
-        "duration": 15,
-        "link": "https://kinescope.io/qkxXAQk6E3oXsAgANxGTge"
-      },
-      {
-        "id": "z9",
-        "title": "Комплексная зарядка",
-        "duration": 14,
-        "link": "https://kinescope.io/aT5AHxjXgKEurruQknAheV"
-      },
-      {
-        "id": "z10",
-        "title": "Мягкая зарядка с акцентом на район таза",
-        "duration": 14,
-        "link": "https://kinescope.io/97kLzue1j4qvqQ22cofaxr"
-      },
-      {
-        "id": "z11",
-        "title": "Активная зарядка на все тело (подойдет для бега)",
-        "duration": 15,
-        "link": "https://kinescope.io/gF46RJgHodTGwswPXdvjKR"
-      },
-      {
-        "id": "z12",
-        "title": "Дыхание перед сном",
-        "duration": 7,
-        "link": "https://kinescope.io/0SpwJQBs6pCUtnCNqRp3cG"
-      },
-      {
-        "id": "z13",
-        "title": "При усталости ног, после длительной ходьбы",
-        "duration": 16,
-        "link": "https://kinescope.io/tKq6ZD9R1PgwMP9rTws1qv"
-      },
-      {
-        "id": "z14",
-        "title": "От вздутия живота и улучшения работы ЖКТ",
-        "duration": 12,
-        "link": "https://kinescope.io/wEeL5SHUKhkXo99qAo1WZ5"
-      },
-      {
-        "id": "z15",
-        "title": "Активная на всё тело без оборудования",
-        "duration": 12,
-        "link": "https://kinescope.io/khJ13PUpu3qvnuAwZ8QK5h"
-      },
-      {
-        "id": "z16",
-        "title": "Активная стоя без оборудования",
-        "duration": 11,
-        "link": "https://kinescope.io/2rvBYWaPir1HQP2NERT9vC"
-      },
-      {
-        "id": "z17",
-        "title": "Сидя в офисе",
-        "duration": 11,
-        "link": "https://kinescope.io/jFYrviFHvXhZS2cN53XWDq"
-      },
-      {
-        "id": "z18",
-        "title": "Активная зарядка стоя",
-        "duration": 12,
-        "link": "https://kinescope.io/kEJkjDBVf7zfTQDkBMHeiw"
-      },
-      {
-        "id": "z19",
-        "title": "От боли в пояснице во время менструации",
-        "duration": 12,
-        "link": "https://kinescope.io/c1UYqc2enSTG3UR6u1Mht6"
-      },
-      {
-        "id": "z20",
-        "title": "Комплекс на все тело с мячами",
-        "duration": 14,
-        "link": "https://kinescope.io/nT8eLBVXofJArsnXnVJkBS"
-      },
-      {
-        "id": "z21",
-        "title": "Колени",
-        "duration": 21,
-        "link": "https://kinescope.io/4Q9youw5HUnMsoeN1D2mWG"
-      },
-      {
-        "id": "z22",
-        "title": "Лежа в кровати",
-        "duration": 10,
-        "link": "https://kinescope.io/vWEYdJqLyvBDjwaqP2KyCC"
-      },
-      {
-        "id": "z23",
-        "title": "дыхание перед сном",
-        "duration": 12,
-        "link": "https://kinescope.io/dU1GyqzHJUeQbJNLMXZNWX"
-      },
-      {
-        "id": "z24",
-        "title": "Пробуждавший комплекс для всего тела",
-        "duration": 12,
-        "link": "https://kinescope.io/ghjESAN24hHqBYvxTKxKGz"
-      },
-      {
-        "id": "z25",
-        "title": "Зарядка с акцентом на таз (подойдет перед танцами)",
-        "duration": 18,
-        "link": "https://kinescope.io/jjD4GdYjfUPYrxutEDya12"
-      },
-      {
-        "id": "z26",
-        "title": "Мобильность в теле",
-        "duration": 18,
-        "link": "https://kinescope.io/csLBZswZxwmCwcUnR4dJiM"
-      },
-      {
-        "id": "z27",
-        "title": "Язык и ВНЧС",
-        "duration": 19,
-        "link": "https://kinescope.io/gWbegbbnQes3m3MPyGSMXg"
-      },
-      {
-        "id": "z28",
-        "title": "Неврологическая зарядка",
-        "duration": 8,
-        "link": "https://kinescope.io/nnWFf9sh3HqYtUMMoTq96X"
-      },
-      {
-        "id": "z29",
-        "title": "тренировка на стуле",
-        "duration": 21,
-        "link": "https://kinescope.io/hZupfNFG8sKhWxJVjDn2ox"
-      },
-      {
-        "id": "z30",
-        "title": "Разминка с упором на грудной отдел",
-        "duration": 11,
-        "link": "https://kinescope.io/2a4MdEw7ev4bZSFbtr8tov"
-      },
-      {
-        "id": "z31",
-        "title": "Боль в шее и голове",
-        "duration": 18,
-        "link": "https://kinescope.io/jWiVPtCF4g5EjLQp5Kk7Wj"
-      }
-    ]
-  },
-  {
-    "name": "Бонусные тренировки",
-    "subcategories": [
-      {
-        "name": "Дыхание",
-        "videos": [
-          {
-            "id": "b1",
-            "title": "Дыхание как основа",
-            "duration": 32,
-            "link": "https://kinescope.io/ihWf671hiPGrZooNUVJXW8"
-          },
-          {
-            "id": "b2",
-            "title": "Дыхание для расслабления и снятие отеков",
-            "duration": 26,
-            "link": "https://kinescope.io/p3GLjb1hAke8DBau42ezBL"
-          },
-          {
-            "id": "b3",
-            "title": "Дыхание и снятие отеков",
-            "duration": 17,
-            "link": "https://kinescope.io/fHxGjrhc8HF42f7kGWZ4tf"
-          },
-          {
-            "id": "b4",
-            "title": "Расслабляющее дыхание",
-            "duration": 25,
-            "link": "https://kinescope.io/6dpttcAbXoPSJ9vvcWe8iy"
-          },
-          {
-            "id": "b5",
-            "title": "Грудобрюшная и тазовая диафрагма, как партнеры",
-            "duration": 29,
-            "link": "https://kinescope.io/mkC5rLxBraAyyb8a4AjUf4"
-          },
-          {
-            "id": "b6",
-            "title": "Дыхание для снятия отечности",
-            "duration": 29,
-            "link": "https://kinescope.io/tz7JwxnzsLcr1NPRngUEZK"
-          },
-          {
-            "id": "b7",
-            "title": "Дыхание для расслабления",
-            "duration": 31,
-            "link": "https://kinescope.io/sptHYnof8opyW1rMuERfhc"
-          },
-          {
-            "id": "b8",
-            "title": "Дыхание - снятие отечности и уменьшений болей",
-            "duration": 38,
-            "link": "https://kinescope.io/trDT6tqU81RdM12qHePPzg"
-          },
-          {
-            "id": "b77",
-            "title": "1. Дыхание для выравнивания тела. Отеки",
-            "duration": 34,
-            "link": "https://kinescope.io/2RMXnsZe9BbUBKFvGDw6rf"
-          },
-          {
-            "id": "b82",
-            "title": "1. Дыхание от отеков, болей, для плоского живота",
-            "duration": 34,
-            "link": "https://kinescope.io/hBG7kKhtqzPRZYxejDy829"
-          }
-        ]
-      },
-      {
-        "name": "Боли в шее и между лопаток / Лицо / ВНЧС",
-        "videos": [
-          {
-            "id": "b9",
-            "title": "Антихолка",
-            "duration": 39,
-            "link": "https://kinescope.io/7PXRpFtjSRPwVQcwhLLX87"
-          },
-          {
-            "id": "b10",
-            "title": "Мобильность грудной клетки и лопаток",
-            "duration": 27,
-            "link": "https://kinescope.io/r11myCs8z6cWeH2qdzwGmU"
-          },
-          {
-            "id": "b11",
-            "title": "Антихолка",
-            "duration": 27,
-            "link": "https://kinescope.io/8sK5uzMyzojLzeDJLFt324"
-          },
-          {
-            "id": "b12",
-            "title": "Пилатес",
-            "duration": 51,
-            "link": "https://kinescope.io/7vXjZfCN3JXS491ThYWThL"
-          },
-          {
-            "id": "b13",
-            "title": "От боли в спине",
-            "duration": 26,
-            "link": "https://kinescope.io/4pjmjYrdqjSrSZz5yvJUkg"
-          },
-          {
-            "id": "b14",
-            "title": "Шея",
-            "duration": 25,
-            "link": "https://kinescope.io/0NzC1CUKkYnfMvXx8oMfQd"
-          },
-          {
-            "id": "b15",
-            "title": "Мобильность грудной клетки",
-            "duration": 34,
-            "link": "https://kinescope.io/axkSgkEYh8TXmPfEPk2FB4"
-          },
-          {
-            "id": "b16",
-            "title": "Функциональные линии рук",
-            "duration": 36,
-            "link": "https://kinescope.io/3R77jRvZ6JwT9B6Lc3F6rw"
-          },
-          {
-            "id": "b17",
-            "title": "Комплекс после дороги",
-            "duration": 31,
-            "link": "https://kinescope.io/wxE5capymHQdqpVpmL9QSi"
-          },
-          {
-            "id": "b18",
-            "title": "Язык и ВНЧС",
-            "duration": 19,
-            "link": "https://kinescope.io/gWbegbbnQes3m3MPyGSMXg"
-          },
-          {
-            "id": "b19",
-            "title": "Свобода движения грудной клетки",
-            "duration": 36,
-            "link": "https://kinescope.io/fSFm9LHUS48um63afRraGw"
-          },
-          {
-            "id": "b20",
-            "title": "Отеки лица",
-            "duration": 25,
-            "link": "https://kinescope.io/kLypXnYR61hMiLcM8N8Jy6"
-          },
-          {
-            "id": "b86",
-            "title": "5. Холка",
-            "duration": 38,
-            "link": "https://kinescope.io/nmFa3oYTnDmo5DXu4niX2x"
-          },
-          {
-            "id": "b90",
-            "title": "4. Холка, осанка, боли в шее",
-            "duration": 23,
-            "link": "https://kinescope.io/bGJQA7D9VB6qQHVbz4JhJC"
-          }
-        ]
-      },
-      {
-        "name": "Боли в районе таза и поясницы",
-        "videos": [
-          {
-            "id": "b21",
-            "title": "Алгоритмы . Таз",
-            "duration": 15,
-            "link": "https://kinescope.io/nvX4xjpskMz2q2bd9DoLst"
-          },
-          {
-            "id": "b22",
-            "title": "Напряжение в пояснице и отечность бедер",
-            "duration": 26,
-            "link": "https://kinescope.io/0MMNmbJbSyn79bvoev3t22"
-          },
-          {
-            "id": "b23",
-            "title": "Мягкая практика на всё тело",
-            "duration": 26,
-            "link": "https://kinescope.io/kCywRFFokvAGyPSC8BMRhB"
-          },
-          {
-            "id": "b24",
-            "title": "Свободный крестец и легкая поясница",
-            "duration": 20,
-            "link": "https://kinescope.io/cPCMVg3SpAwicHzbDANgKG"
-          },
-          {
-            "id": "b25",
-            "title": "Снятие напряжения с ног , работа с тазом",
-            "duration": 20,
-            "link": "https://kinescope.io/6p2ipCBbYZNNYva8f1Uprz"
-          },
-          {
-            "id": "b26",
-            "title": "Комплекс после дороги",
-            "duration": 51,
-            "link": "https://kinescope.io/wxE5capymHQdqpVpmL9QSi"
-          },
-          {
-            "id": "b27",
-            "title": "Снятие напряжения с поясницы и крестца",
-            "duration": 32,
-            "link": "https://kinescope.io/xyUakQpdVeSVGBojoKBgmX"
-          },
-          {
-            "id": "b28",
-            "title": "Мобильность таза , отсутствие галифе",
-            "duration": 34,
-            "link": "https://kinescope.io/gCSa3mJZWX6W5MZs8TziPg"
-          },
-          {
-            "id": "b29",
-            "title": "Снятие напряжения с региона таза и бедер",
-            "duration": 36,
-            "link": "https://kinescope.io/a5oR4ympkPADZTdeXb46nd"
-          }
-        ]
-      },
-      {
-        "name": "Живот, тазовое дно",
-        "videos": [
-          {
-            "id": "b30",
-            "title": "Пробуждение МТД",
-            "duration": 32,
-            "link": "https://kinescope.io/btkEEqnqz37ATY1xrZenzm"
-          },
-          {
-            "id": "b31",
-            "title": "Комплекс по работе с мышцами кора",
-            "duration": 35,
-            "link": "https://kinescope.io/qFcSVXiLxqYQMRp7rf7Rbz"
-          },
-          {
-            "id": "b32",
-            "title": "Плоский живот, мобилизация кишечника",
-            "duration": 27,
-            "link": "https://kinescope.io/sCxkWmhLqUjULEyLfA2gsV"
-          },
-          {
-            "id": "b33",
-            "title": "Плоский живот и активная работа всего кора",
-            "duration": 31,
-            "link": "https://kinescope.io/cPuDyRquBU67BGCw6BPcB6"
-          },
-          {
-            "id": "b34",
-            "title": "Пробуждение мышц тазового дна",
-            "duration": 41,
-            "link": "https://kinescope.io/3hSohwmb3ynLD4y8AWt4Jx"
-          },
-          {
-            "id": "b35",
-            "title": "К плоскому животу через дыхание и глубинную линию",
-            "duration": 27,
-            "link": "https://kinescope.io/rSrtir1fXmEdg6j3C7bPeM"
-          },
-          {
-            "id": "b36",
-            "title": "Согласованная работа грудной клетки и таза",
-            "duration": 33,
-            "link": "https://kinescope.io/nK1h2dQ5Tat5sDobPSAGWK"
-          },
-          {
-            "id": "b37",
-            "title": "Боли и вздутие живота, мобилизация кишечника",
-            "duration": 34,
-            "link": "https://kinescope.io/63PSquGwjN8mUmE7kL9Uc6"
-          },
-          {
-            "id": "b38",
-            "title": "Гибкий позвоночник: плоский живот и свобода движения",
-            "duration": 36,
-            "link": "https://kinescope.io/on5fzfFaZsBxdm9vhdZc7P"
-          },
-          {
-            "id": "b39",
-            "title": "Плоский живот",
-            "duration": 55,
-            "link": "https://kinescope.io/3a645LdTqeQybi2P4aUDYj"
-          },
-          {
-            "id": "b40",
-            "title": "Пробуждение тазового региона",
-            "duration": 33,
-            "link": "https://kinescope.io/tTcQyXgtn31vU1YgYHa3JB"
-          },
-          {
-            "id": "b41",
-            "title": "Работа КОPa",
-            "duration": 31,
-            "link": "https://kinescope.io/dV8bDAfMK9hR8VXCKG8xMc"
-          },
-          {
-            "id": "b80",
-            "title": "4. Тазовое дно и диафрагма: партнерская работа",
-            "duration": 38,
-            "link": "https://kinescope.io/pNKPfWDKRxCchXpWG97mU9"
-          },
-          {
-            "id": "b85",
-            "title": "4. Эластичность и упругость мышц тазового дна, мобильность таза",
-            "duration": 32,
-            "link": "https://kinescope.io/a2dNyNpay9C6xWZ6ToQcjA"
-          },
-          {
-            "id": "b88",
-            "title": "2. Тазовое дно, внутренняя поверхность бедер",
-            "duration": 40,
-            "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc"
-          },
-          {
-            "id": "b89",
-            "title": "3. Мышцы пресса",
-            "duration": 32,
-            "link": "https://kinescope.io/0h3r4J3PZw1xBw7nMK8boT"
-          },
-          {
-            "id": "b94",
-            "title": "3. Тазовое дно - от расслабления к упругости",
-            "duration": 37,
-            "link": "https://kinescope.io/5M4MrLjDkX2boNASTp9qzY"
-          },
-          {
-            "id": "b95",
-            "title": "4. Мышцы брюшного пресса",
-            "duration": 24,
-            "link": "https://kinescope.io/dbVDVhgfiYdYT75Bqz1M5K"
-          },
-          {
-            "id": "b96",
-            "title": "5. Вздутие живота",
-            "duration": 31,
-            "link": "https://kinescope.io/t2zq14zEEECW94WgJZGa2T"
-          }
-        ]
-      },
-      {
-        "name": "Галифе, отеки бедер",
-        "videos": [
-          {
-            "id": "b42",
-            "title": "От галифе и отеков бедер",
-            "duration": 42,
-            "link": "https://kinescope.io/wdJA3U32d4QTpafUZosGe5"
-          },
-          {
-            "id": "b43",
-            "title": "От отечности бёдер , галифе - активация ягодиц",
-            "duration": 31,
-            "link": "https://kinescope.io/w6XVqqzABRZA6rLoLxmXSn"
-          },
-          {
-            "id": "b44",
-            "title": "Мобильность таза прощаемся с галифе",
-            "duration": 35,
-            "link": "https://kinescope.io/gCSa3mJZWX6W5MZs8TziPg"
-          },
-          {
-            "id": "b45",
-            "title": "Снятие напряжения с таза , устранение отечности",
-            "duration": 36,
-            "link": "https://kinescope.io/a5oR4ympkPADZTdeXb46nd"
-          },
-          {
-            "id": "b46",
-            "title": "Свободный таз , отсутствие галифе и болей в ТБС",
-            "duration": 40,
-            "link": "https://kinescope.io/4WZpvRJfVympjP2iUP4Ujf"
-          },
-          {
-            "id": "b47",
-            "title": "Задняя поверхность бедра , целлюлит",
-            "duration": 26,
-            "link": "https://kinescope.io/0MMNmbJbSyn79bvoev3t22"
-          },
-          {
-            "id": "b48",
-            "title": "Свободный таз",
-            "duration": 31,
-            "link": "https://kinescope.io/nh8U3btUzWenCD9Xjbt3Mb"
-          },
-          {
-            "id": "b49",
-            "title": "Свобода таза , поясницы и бедер",
-            "duration": 35,
-            "link": "https://kinescope.io/17YgwuMEFmJHqaoiHr3ysv"
-          },
-          {
-            "id": "b50",
-            "title": "Активация ягодиц , галифе , дряхлость",
-            "duration": 32,
-            "link": "https://kinescope.io/8gKtMfC9VxiQU6G8TQjaL1"
-          },
-          {
-            "id": "b79",
-            "title": "3. Проблемные зоны бедер",
-            "duration": 31,
-            "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK"
-          },
-          {
-            "id": "b83",
-            "title": "2. Внутренняя поверхность бедер и тазовое дно",
-            "duration": 32,
-            "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j"
-          },
-          {
-            "id": "b84",
-            "title": "3. Отеки бедер, легкость ног",
-            "duration": 33,
-            "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j"
-          },
-          {
-            "id": "b87",
-            "title": "1. Отеки бедер, целлюлит",
-            "duration": 33,
-            "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc"
-          },
-          {
-            "id": "b91",
-            "title": "5. Активация ягодиц",
-            "duration": 33,
-            "link": "https://kinescope.io/2nxiZsiVnj4FsT2YuWeirj"
-          },
-          {
-            "id": "b92",
-            "title": "1. Снятие напряжения с грушевидных мышц",
-            "duration": 35,
-            "link": "https://kinescope.io/g9kmsTwhHPwXPvUGm3gUB6"
-          },
-          {
-            "id": "b93",
-            "title": "2. Внутренняя поверхность бедер, отеки",
-            "duration": 32,
-            "link": "https://kinescope.io/x3ZLujpYmr8zXWP45m43SN"
-          }
-        ]
-      },
-      {
-        "name": "Стопы, колени",
-        "videos": [
-          {
-            "id": "b51",
-            "title": "Колени, стопы",
-            "duration": 21,
-            "link": "https://kinescope.io/4Q9youw5HUnMsoeN1D2mWG"
-          },
-          {
-            "id": "b52",
-            "title": "МФР и упражнения для стоп",
-            "duration": 24,
-            "link": "https://kinescope.io/9CBEQyFCs9rwMCLpNcRooo"
-          },
-          {
-            "id": "b53",
-            "title": "Про стопы",
-            "duration": 10,
-            "link": "https://kinescope.io/5D6ap6nLuQaYgn3oAQyQWh"
-          },
-          {
-            "id": "b54",
-            "title": "Снятие напряжения с ног, свобода движения коленей",
-            "duration": 35,
-            "link": "https://kinescope.io/pk8Tz5cJuSEYGPqrrj9RYH"
-          }
-        ]
-      },
-      {
-        "name": "На все тело",
-        "videos": [
-          {
-            "id": "b55",
-            "title": "Мягкая практика на всё тело",
-            "duration": 26,
-            "link": "https://kinescope.io/kCywRFFokvAGyPSC8BMRhB"
-          },
-          {
-            "id": "b56",
-            "title": "Комплекс после дороги",
-            "duration": 31,
-            "link": "https://kinescope.io/wxE5capymHQdqpVpmL9QSi"
-          },
-          {
-            "id": "b57",
-            "title": "Пилатес",
-            "duration": 31,
-            "link": "https://kinescope.io/7vXjZfCN3JXS491ThYWThL"
-          },
-          {
-            "id": "b58",
-            "title": "Согласованность грудной клетки и таза для красивой осанки",
-            "duration": 34,
-            "link": "https://kinescope.io/qYCqRQzRTbAV9tQZrWC1jj"
-          },
-          {
-            "id": "b59",
-            "title": "Снятие напряжения со всего тела",
-            "duration": 27,
-            "link": "https://kinescope.io/br9H8jCG88dZsKZjBEZcbK"
-          },
-          {
-            "id": "b60",
-            "title": "Снятие напряжения в конце дня",
-            "duration": 33,
-            "link": "https://kinescope.io/sVpW5bNctyjR5wBi9EcG6p"
-          },
-          {
-            "id": "b61",
-            "title": "Активный антиотечный комплекс",
-            "duration": 30,
-            "link": "https://kinescope.io/jtuLqQMeWypTWYgdDgYy7s"
-          },
-          {
-            "id": "b62",
-            "title": "Активная на все тело",
-            "duration": 24,
-            "link": "https://kinescope.io/6PMbEHoTUK2JPkfyUeM3zA"
-          },
-          {
-            "id": "b78",
-            "title": "2. Королевская осанка",
-            "duration": 35,
-            "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK"
-          },
-          {
-            "id": "b81",
-            "title": "5. Отечность в теле и проблемные зоны",
-            "duration": 34,
-            "link": "https://kinescope.io/so6fJbbacRbNpRxx7Pttep"
-          }
-        ]
-      },
-      {
-        "name": "МФР и тейпирование",
-        "videos": [
-          {
-            "id": "b63",
-            "title": "Релиз МТД",
-            "duration": 2,
-            "link": "https://kinescope.io/pYVsFGE1vpr1UgE36JwBVT"
-          },
-          {
-            "id": "b64",
-            "title": "Отработка шрамов (кесарево, эпизио)",
-            "duration": 10,
-            "link": "https://kinescope.io/hHwxNKB8WpPDfzu6HVWLhy"
-          },
-          {
-            "id": "b65",
-            "title": "Диастаз, лимфодренаж, кесарево, шрамы, год",
-            "duration": 18,
-            "link": "https://kinescope.io/pPsQZpC6yQffWzYB1vBiQA"
-          },
-          {
-            "id": "b66",
-            "title": "Тейпирование КС, шрама",
-            "duration": 6,
-            "link": "https://kinescope.io/tL28f4kF8U1DsCwpmENbGb"
-          },
-          {
-            "id": "b67",
-            "title": "Вздутие, боли в животе",
-            "duration": 3,
-            "link": "https://kinescope.io/tKc95yJXrQNi1bvZZE1n27"
-          },
-          {
-            "id": "b68",
-            "title": "Тейпирование, база",
-            "duration": 5,
-            "link": "https://kinescope.io/xhHqVacjBboZYsRpmPYhKz"
-          },
-          {
-            "id": "b69",
-            "title": "Снятие напряжения с ног, свобода движения коленей",
-            "duration": 35,
-            "link": "https://kinescope.io/jjZguzsT5wN8x4FCJDpUdH"
-          },
-          {
-            "id": "b70",
-            "title": "МФР всего тела с оборудованием",
-            "duration": 30,
-            "link": "https://kinescope.io/hNjTvsSSx1itw7znxrd7JE"
-          },
-          {
-            "id": "b71",
-            "title": "МФР и упражнения для стоп",
-            "duration": 24,
-            "link": "https://kinescope.io/9CBEQyFCs9rwMCLpNcRooo"
-          },
-          {
-            "id": "b72",
-            "title": "Снятие напряжения с верхнего плечевого пояса",
-            "duration": 10,
-            "link": "https://kinescope.io/abSRbmhfh2d5sgiLQpqA1S"
-          },
-          {
-            "id": "b73",
-            "title": "Комплекс по МФР с полотенцем",
-            "duration": 26,
-            "link": "https://kinescope.io/wS8p2PihHHQUwa3zZQWQxg"
-          },
-          {
-            "id": "b74",
-            "title": "Отечность ниже пупка",
-            "duration": 2,
-            "link": "https://kinescope.io/9AEVCpQeF8XMmmedfGPqeB"
-          },
-          {
-            "id": "b75",
-            "title": "Bonus 1",
-            "duration": 12,
-            "link": "https://kinescope.io/kuzh9MQ7DNswMhfZpTEMiD"
-          },
-          {
-            "id": "b76",
-            "title": "Bonus 2",
-            "duration": 6,
-            "link": "https://kinescope.io/8PwzW4fHDZNCB2H1vqsR5C"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Питание и образ жизни",
-    "subcategories": [
-      {
-        "name": "Питание и питьевой режим",
-        "videos": [
-          {
-            "id": "pl_pp1",
-            "title": "Про белок",
-            "duration": 53,
-            "link": "https://kinescope.io/jz18mNZXEwCyKYAzf1NYxm?autoplay=1"
-          },
-          {
-            "id": "pl_pp2",
-            "title": "Жиры",
-            "duration": 31,
-            "link": "https://kinescope.io/0ntAcji8AdFdXoX8rnht3C?autoplay=1"
-          },
-          {
-            "id": "pl_pp3",
-            "title": "Углеводы",
-            "duration": 41,
-            "link": "https://kinescope.io/7paTjoQeeDkZJsPa11JMxL?autoplay=1"
-          },
-          {
-            "id": "pl_pp4",
-            "title": "Рацион",
-            "duration": 10,
-            "link": "https://kinescope.io/psEw1HMm6eZyjUoaDGc3qX?autoplay=1"
-          },
-          {
-            "id": "pl_pp5",
-            "title": "Тяга к сладкому",
-            "duration": 35,
-            "link": "https://kinescope.io/mii7q9TKP4yZxvBpbGRfnZ?autoplay=1"
-          },
-          {
-            "id": "pl_pp6",
-            "title": "Похудение",
-            "duration": 39,
-            "link": "https://kinescope.io/kkwQrYi5JzUKGWWCZ2NCMD?autoplay=1"
-          },
-          {
-            "id": "pl_pp7",
-            "title": "Стресс и сон",
-            "duration": 28,
-            "link": "https://kinescope.io/oQvdgBxgk8HGR1195goctq?autoplay=1"
-          },
-          {
-            "id": "pl_pp8",
-            "title": "Сон Часть 1",
-            "duration": 69,
-            "link": "https://kinescope.io/i2riMJR5wQvrWQs4qANHA1?autoplay=1"
-          },
-          {
-            "id": "pl_pp9",
-            "title": "Эфир о Теплой воде Как просто избавиться от отеков и сложностей с жкт",
-            "duration": 22,
-            "link": "https://kinescope.io/5zm6GMrbsVoti3NGMkbwFT?autoplay=1"
-          },
-          {
-            "id": "pl_pp10",
-            "title": "Питьевой режим",
-            "duration": 26,
-            "link": "https://kinescope.io/n1yDX42kSrCDqkmyxbE5H6?autoplay=1"
-          },
-          {
-            "id": "pl_pp11",
-            "title": "Тренируем насмотренность",
-            "duration": 12,
-            "link": "https://kinescope.io/tWYnXYJnV4ETvvqmQ1MUqb?autoplay=1"
-          }
-        ]
-      },
-      {
-        "name": "Женское здоровье",
-        "videos": [
-          {
-            "id": "pl_wz1",
-            "title": "Гипотериоз",
-            "duration": 46,
-            "link": "https://kinescope.io/embed/o135E2We5gjp8vRrqWK9ou?autoplay=1"
-          },
-          {
-            "id": "pl_wz2",
-            "title": "Железо дефицит Full",
-            "duration": 120,
-            "link": "https://kinescope.io/e5eB9FnunAYsmpie7k6Zk7?autoplay=1"
-          },
-          {
-            "id": "pl_wz3",
-            "title": "женское здоровье",
-            "duration": 86,
-            "link": "https://kinescope.io/aYhS44ysbY4tFFc8dvZowW?autoplay=1"
-          },
-          {
-            "id": "pl_wz4",
-            "title": "Отёки",
-            "duration": 42,
-            "link": "https://kinescope.io/o6P8zsvHhDt3xgih5RAudT?autoplay=1"
-          }
-        ]
-      },
-      {
-        "name": "Образ жизни",
-        "videos": [
-          {
-            "id": "pl_oz1",
-            "title": "Лайфхаки для жизни",
-            "duration": 19,
-            "link": "https://kinescope.io/p49RpzLMexen9HjMDy3jKn?autoplay=1"
-          },
-          {
-            "id": "pl_oz2",
-            "title": "Комплекс и результат",
-            "duration": 22,
-            "link": "https://kinescope.io/5RVurWj1VdrjG6Zd38tP1U?autoplay=1"
-          },
-          {
-            "id": "pl_oz3",
-            "title": "Комплексный подход",
-            "duration": 38,
-            "link": "https://kinescope.io/pKDpzdWho7qchBR2EZnZii?autoplay=1"
-          },
-          {
-            "id": "pl_oz4",
-            "title": "Как не переедать в праздники и помочь себе после",
-            "duration": 22,
-            "link": "https://kinescope.io/pitdWmySmuexc8HNYCeRVV?autoplay=1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Советы: как получить от курса максимум",
-    "videos": [
-      {
-        "id": "sv1",
-        "title": "Строение таза и техника тазовых часов",
-        "duration": 22,
-        "link": "https://kinescope.io/oPTc3psBfXk9h9gUkLaeDp?autoplay=1"
-      },
-      {
-        "id": "sv2",
-        "title": "Как найти мышцы тазового дна?",
-        "duration": 17,
-        "link": "https://kinescope.io/f3QZgkfLzArAV9tj2iH1pz?autoplay=1"
-      },
-      {
-        "id": "sv3",
-        "title": "Уровни сложности, кому и зачем ?",
-        "duration": 8,
-        "link": "https://kinescope.io/jkL65mukmTZ7ca3aEwv9zM?autoplay=1"
-      },
-      {
-        "id": "sv4",
-        "title": "Что такое «домик»",
-        "duration": 13,
-        "link": "https://kinescope.io/bmHCNw89Fb8Tt56hRMUyta?autoplay=1"
-      },
-      {
-        "id": "sv5",
-        "title": "Разбор BRIDGING",
-        "duration": 12,
-        "link": "https://kinescope.io/itntnraMScRjGCGQTpo1no?autoplay=1"
-      },
-      {
-        "id": "sv6",
-        "title": "Разбор четырёхугольника",
-        "duration": 8,
-        "link": "https://kinescope.io/3pZ63qR19moqPfoAL8WhE4?autoplay=1"
-      },
-      {
-        "id": "sv7",
-        "title": "Положение зет-седа и техника русалки",
-        "duration": 9,
-        "link": "https://kinescope.io/smrZNgy5XgWMX9895QGqTQ?autoplay=1"
-      },
-      {
-        "id": "sv8",
-        "title": "Как заниматься во время и после беременности?",
-        "duration": 14,
-        "link": "https://kinescope.io/6JpsrQnZrjJPB1TTrqGq65?autoplay=1"
-      },
-      {
-        "id": "sv9",
-        "title": "Как найти время для занятий, как не бросить",
-        "duration": 24,
-        "link": "https://kinescope.io/wFgnfMcS7phNaWN9mNg3Rp?autoplay=1"
-      },
-      {
-        "id": "sv10",
-        "title": "Когда будет результат? Моя цель - похудеть",
-        "duration": 17,
-        "link": "https://kinescope.io/655WAmPTmDbpg1e6TNFAuc?autoplay=1"
-      },
-      {
-        "id": "sv11",
-        "title": "Когда будет результат? Моя цель - набор мышечной массы",
-        "duration": 16,
-        "link": "https://kinescope.io/i6oZ56MAqp214c29JYWFin?autoplay=1"
-      },
-      {
-        "id": "sv12",
-        "title": "Как заниматься, если были роды",
-        "duration": 10,
-        "link": "https://kinescope.io/kHC2JkeNUmwCJhG55GdEet?autoplay=1"
-      }
-    ]
-  },
+{
+  "categories": [
     {
-    "name": "Курс «Коррекция»",
-    "subcategories": [
-      {
-        "name": "1 неделя",
-        "videos": [
-          {
-            "id": "k1",
-            "title": "1. Дыхание для выравнивания тела. Отеки",
-            "duration": 34,
-            "link": "https://kinescope.io/2RMXnsZe9BbUBKFvGDw6rf"
-          },
-          {
-            "id": "k2",
-            "title": "2. Королевская осанка",
-            "duration": 35,
-            "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK"
-          },
-          {
-            "id": "k3",
-            "title": "3. Проблемные зоны бедер",
-            "duration": 31,
-            "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK"
-          },
-          {
-            "id": "k4",
-            "title": "4. Тазовое дно и диафрагма: партнерская работа",
-            "duration": 38,
-            "link": "https://kinescope.io/pNKPfWDKRxCchXpWG97mU9"
-          },
-          {
-            "id": "k5",
-            "title": "5. Отечность в теле и проблемные зоны",
-            "duration": 34,
-            "link": "https://kinescope.io/so6fJbbacRbNpRxx7Pttep"
-          }
-        ]
-      },
-      {
-        "name": "2 неделя",
-        "videos": [
-          {
-            "id": "k6",
-            "title": "1. Дыхание от отеков, болей, для плоского живота",
-            "duration": 34,
-            "link": "https://kinescope.io/hBG7kKhtqzPRZYxejDy829"
-          },
-          {
-            "id": "k7",
-            "title": "2. Внутренняя поверхность бедер и тазовое дно",
-            "duration": 32,
-            "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j"
-          },
-          {
-            "id": "k8",
-            "title": "3. Отеки бедер, легкость ног",
-            "duration": 33,
-            "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j"
-          },
-          {
-            "id": "k9",
-            "title": "4. Эластичность и упругость мышц тазового дна, мобильность таза",
-            "duration": 32,
-            "link": "https://kinescope.io/a2dNyNpay9C6xWZ6ToQcjA"
-          },
-          {
-            "id": "k10",
-            "title": "5. Холка",
-            "duration": 38,
-            "link": "https://kinescope.io/nmFa3oYTnDmo5DXu4niX2x"
-          }
-        ]
-      },
-      {
-        "name": "3 неделя",
-        "videos": [
-          {
-            "id": "k11",
-            "title": "1. Отеки бедер, целлюлит",
-            "duration": 33,
-            "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc"
-          },
-          {
-            "id": "k12",
-            "title": "2. Тазовое дно, внутренняя поверхность бедер",
-            "duration": 40,
-            "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc"
-          },
-          {
-            "id": "k13",
-            "title": "3. Мышцы пресса",
-            "duration": 32,
-            "link": "https://kinescope.io/0h3r4J3PZw1xBw7nMK8boT"
-          },
-          {
-            "id": "k14",
-            "title": "4. Холка, осанка, боли в шее",
-            "duration": 23,
-            "link": "https://kinescope.io/bGJQA7D9VB6qQHVbz4JhJC"
-          },
-          {
-            "id": "k15",
-            "title": "5. Активация ягодиц",
-            "duration": 33,
-            "link": "https://kinescope.io/2nxiZsiVnj4FsT2YuWeirj"
-          }
-        ]
-      },
-      {
-        "name": "4 неделя",
-        "videos": [
-          {
-            "id": "k16",
-            "title": "1. Снятие напряжения с грушевидных мышц",
-            "duration": 35,
-            "link": "https://kinescope.io/g9kmsTwhHPwXPvUGm3gUB6"
-          },
-          {
-            "id": "k17",
-            "title": "2. Внутренняя поверхность бедер, отеки",
-            "duration": 32,
-            "link": "https://kinescope.io/x3ZLujpYmr8zXWP45m43SN"
-          },
-          {
-            "id": "k18",
-            "title": "3. Тазовое дно - от расслабления к упругости",
-            "duration": 37,
-            "link": "https://kinescope.io/5M4MrLjDkX2boNASTp9qzY"
-          },
-          {
-            "id": "k19",
-            "title": "4. Мышцы брюшного пресса",
-            "duration": 24,
-            "link": "https://kinescope.io/dbVDVhgfiYdYT75Bqz1M5K"
-          },
-          {
-            "id": "k20",
-            "title": "5. Вздутие живота",
-            "duration": 31,
-            "link": "https://kinescope.io/t2zq14zEEECW94WgJZGa2T"
-          }
-        ]
-      }
-    ]
-  },
- {
-    "name": "Курс Силовой",
-    "videos": [
-      {
-        "id": "s1",
-        "title": "Силовая ягодицы и бедра",
-        "duration": 41,
-        "link": "https://kinescope.io/tYwZ12MT1B82zAExfVUwAF"
-      },
-      {
-        "id": "s2",
-        "title": "Верхний плечевой пояс",
-        "duration": 51,
-        "link": "https://kinescope.io/36hGkZTsfWnF3EiJ9qgWsh"
-      },
-      {
-        "id": "s3",
-        "title": "Круговая ягодицы - кор",
-        "duration": 23,
-        "link": "https://kinescope.io/wEXUsCVVJREp1JBbz48w4v"
-      },
-      {
-        "id": "s4",
-        "title": "Ягодицы базовая",
-        "duration": 41,
-        "link": "https://kinescope.io/oxNMYQjARrtM5zR9vxR8mH"
-      },
-      {
-        "id": "s5",
-        "title": "Внутренняя поверхность бедер и тазовое дно",
-        "duration": 36,
-        "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j"
-      },
-      {
-        "id": "s6",
-        "title": "Силовая на верхний плечевой пояс",
-        "duration": 60,
-        "link": "https://kinescope.io/taZyyLvdj9URnqmNjWKuK4"
-      },
-      {
-        "id": "s7",
-        "title": "Раскрытие, эластичность таза",
-        "duration": 20,
-        "link": "https://kinescope.io/d7tYVjPgfgBYkKtiSgx13x"
-      },
-      {
-        "id": "s8",
-        "title": "Круговая «Ягодицы, КОР»",
-        "duration": 16,
-        "link": "https://kinescope.io/bhds1hpJR7WUtjQ4cNdfbJ"
-      },
-      {
-        "id": "s9",
-        "title": "Коррекция эластичность бедер, раскрытие таза",
-        "duration": 21,
-        "link": "https://kinescope.io/5gmdKVwMUBLPvRCi8xUAp9"
-      },
-      {
-        "id": "s10",
-        "title": "Силовая верхний плечевой",
-        "duration": 42,
-        "link": "https://kinescope.io/3f1vVVd93aRraHVJQNMp45"
-      },
-      {
-        "id": "s11",
-        "title": "Круговая ягодичная",
-        "duration": 25,
-        "link": "https://kinescope.io/pYA2xfQSVU51Pwb9kiKwo1"
-      },
-      {
-        "id": "s12",
-        "title": "Силовая ягодицы",
-        "duration": 32,
-        "link": "https://kinescope.io/vYmBbUwHwGvLfFJ4WyFSDc"
-      },
-      {
-        "id": "s13",
-        "title": "Силовая верхний плечевой пояс",
-        "duration": 41,
-        "link": "https://kinescope.io/idivkK1VLRP1MZjJdzCEnW"
-      },
-      {
-        "id": "s14",
-        "title": "Активация ягодиц и мобильность таза",
-        "duration": 24,
-        "link": "https://kinescope.io/f59mUFjzJ9NJh6vTNNGDGx"
-      }
-    ]
+      "id": "zaryadki",
+      "name": "Зарядки",
+      "videos": [
+        {
+          "id": "z1",
+          "title": "Стоя на все тело",
+          "duration": 12,
+          "link": "https://kinescope.io/k2yAaogzMgZS69tC1pRArv",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7021c7da-9a26-440a-be1e-b4ea79dc7027/poster_sm/a518ae2b-352d-4d53-bc20-a616560ff93e.jpg"
+        },
+        {
+          "id": "z2",
+          "title": "Кол между лопаток",
+          "duration": 17,
+          "link": "https://kinescope.io/wdrdWp7hnnkXLbuEXxECea",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/e6cf651b-3569-45b6-8218-f2c1cd209714/poster_sm/a660e0c5-028c-4ee7-8273-c58234b79749.jpg"
+        },
+        {
+          "id": "z3",
+          "title": "Мобильность в теле без инвентаря",
+          "duration": 16,
+          "link": "https://kinescope.io/mMJMCcCsP4fKFSqsmCTnUE",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9d568db0-14e3-400a-ab3e-a91592297f1c/poster_sm/9b8d3423-6d13-459f-b9a7-ff4ca7b3d798.jpg"
+        },
+        {
+          "id": "z4",
+          "title": "Дискомфорт в регионе таза и пояснице",
+          "duration": 15,
+          "link": "https://kinescope.io/ast11gQL3DbLHPzoHn5fNT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/e38a0539-2fed-400c-ba12-fb741e963cfa/poster_sm/581d6e7e-e8ee-4d38-bd78-0ec99b2e1807.jpg"
+        },
+        {
+          "id": "z5",
+          "title": "Всё тело с массажными мячами",
+          "duration": 15,
+          "link": "https://kinescope.io/9sDAvuKbZgKUWKGNFaEE7Y",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/65894c32-dfe2-44e6-9059-4eff1792bf7c/poster_sm/8c5d7610-530c-4a45-97df-15d83b765da1.jpg"
+        },
+        {
+          "id": "z6",
+          "title": "Стоя на все случаи жизни",
+          "duration": 13,
+          "link": "https://kinescope.io/5BKgtGvhJGFyM7DN7TTyEd",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/82e8371f-f1cb-4c68-bb82-50708960e4b0/poster_sm/ecebdd60-0542-4d66-b390-d2b956c6ccc2.jpg"
+        },
+        {
+          "id": "z7",
+          "title": "Отеки лица и тела",
+          "duration": 15,
+          "link": "https://kinescope.io/wFmG9eCDHbnbi93xeV4QvC",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ecefc8cf-234e-4ba4-af1d-9f6c93b34006/poster_sm/4020d3ad-14e4-4dc6-b282-56fddeb6346b.jpg"
+        },
+        {
+          "id": "z8",
+          "title": "Мягкая на всё тело от снятия напряжения",
+          "duration": 15,
+          "link": "https://kinescope.io/qkxXAQk6E3oXsAgANxGTge",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2fb5404a-de90-4c83-ba8a-da78bbf2a4a2/poster_sm/c47f913b-bc45-4fac-8242-5a734c62cc41.jpg"
+        },
+        {
+          "id": "z9",
+          "title": "Комплексная зарядка",
+          "duration": 14,
+          "link": "https://kinescope.io/aT5AHxjXgKEurruQknAheV",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/15b01802-53f0-4955-908a-17c6c26e421b/poster_sm/98f00c4a-2617-4b45-ae3f-1de0f1072f97.jpg"
+        },
+        {
+          "id": "z10",
+          "title": "Мягкая зарядка с акцентом на район таза",
+          "duration": 14,
+          "link": "https://kinescope.io/97kLzue1j4qvqQ22cofaxr",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3413bb4b-ee9d-42bd-9d64-3eca7353d28f/poster_sm/d0e88bd1-f7c5-4ff2-afaf-6438d1a1ea50.jpg"
+        },
+        {
+          "id": "z11",
+          "title": "Активная зарядка на все тело (подойдет для бега)",
+          "duration": 15,
+          "link": "https://kinescope.io/gF46RJgHodTGwswPXdvjKR",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c544faf3-dc8f-4abb-b3f7-31528537d818/poster_sm/13786342-2ed5-47f3-9f05-cac6f1b9743a.jpg"
+        },
+        {
+          "id": "z12",
+          "title": "Дыхание перед сном",
+          "duration": 7,
+          "link": "https://kinescope.io/0SpwJQBs6pCUtnCNqRp3cG",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/933f9b34-1242-4113-9b8e-701da47c8ab1/poster_sm/fa12b479-3b2a-41d7-b9c0-2ffb691fff6a.jpg"
+        },
+        {
+          "id": "z13",
+          "title": "При усталости ног, после длительной ходьбы",
+          "duration": 16,
+          "link": "https://kinescope.io/tKq6ZD9R1PgwMP9rTws1qv",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7e7625aa-e290-4eb2-b046-880d807b438c/poster_sm/ceb57535-f12e-4763-9682-1836b02d1c30.jpg"
+        },
+        {
+          "id": "z14",
+          "title": "От вздутия живота и улучшения работы ЖКТ",
+          "duration": 12,
+          "link": "https://kinescope.io/wEeL5SHUKhkXo99qAo1WZ5",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7e8de364-419f-4969-b630-318078efa470/poster_sm/9ca32102-e5c9-4789-a708-ac5c251275e0.jpg"
+        },
+        {
+          "id": "z15",
+          "title": "Активная на всё тело без оборудования",
+          "duration": 12,
+          "link": "https://kinescope.io/khJ13PUpu3qvnuAwZ8QK5h",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3935421d-7993-4c57-8992-ba79ea163772/poster_sm/19807d48-55cf-4a14-b361-a54cb662d075.jpg"
+        },
+        {
+          "id": "z16",
+          "title": "Активная стоя без оборудования",
+          "duration": 11,
+          "link": "https://kinescope.io/2rvBYWaPir1HQP2NERT9vC",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/73ea3445-78ae-4cde-b712-835c2f6921ed/poster_sm/d1d3be86-91fe-4989-a3d2-6c5348493816.jpg"
+        },
+        {
+          "id": "z17",
+          "title": "Сидя в офисе",
+          "duration": 11,
+          "link": "https://kinescope.io/jFYrviFHvXhZS2cN53XWDq",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/4b011fa2-2dc7-4b97-80a6-9967e0b3d292/poster_sm/24275781-7f23-476d-9199-ec77733e767a.jpg"
+        },
+        {
+          "id": "z18",
+          "title": "Активная зарядка стоя",
+          "duration": 12,
+          "link": "https://kinescope.io/kEJkjDBVf7zfTQDkBMHeiw",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/e2efc134-fa90-410b-b2f0-28ce29c2fac0/poster_sm/79474836-eab5-4325-a4d1-82a4cf6fd113.jpg"
+        },
+        {
+          "id": "z19",
+          "title": "От боли в пояснице во время менструации",
+          "duration": 12,
+          "link": "https://kinescope.io/c1UYqc2enSTG3UR6u1Mht6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2d694f0d-990b-4966-85c9-ac374b43f27e/poster_sm/a878d1c5-8947-4054-ad29-5187f8c16b3c.jpg"
+        },
+        {
+          "id": "z20",
+          "title": "Комплекс на все тело с мячами",
+          "duration": 14,
+          "link": "https://kinescope.io/nT8eLBVXofJArsnXnVJkBS",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7c1f8d28-8976-4d7e-8a9b-a51c827b5151/poster_sm/a396e192-78c2-44b1-86d6-db554b9841ca.jpg"
+        },
+        {
+          "id": "z21",
+          "title": "Колени",
+          "duration": 21,
+          "link": "https://kinescope.io/4Q9youw5HUnMsoeN1D2mWG",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c7a0f9b1-3c96-4b3e-8faf-b174b5875e1c/poster_sm/f702912a-0737-4dae-a2e1-38ff3bb92675.jpg"
+        },
+        {
+          "id": "z22",
+          "title": "Лежа в кровати",
+          "duration": 10,
+          "link": "https://kinescope.io/vWEYdJqLyvBDjwaqP2KyCC",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0b610635-2094-4a45-8c97-4486b65be459/poster_sm/632c4ef7-1342-419b-b836-31fa68cd8b4c.jpg"
+        },
+        {
+          "id": "z23",
+          "title": "дыхание перед сном",
+          "duration": 12,
+          "link": "https://kinescope.io/dU1GyqzHJUeQbJNLMXZNWX",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/dd459e17-77bd-4111-98f2-07fb8d65baf7/poster_sm/f85e4444-6160-4a19-bb78-601a6aea3a49.jpg"
+        },
+        {
+          "id": "z24",
+          "title": "Пробуждавший комплекс для всего тела",
+          "duration": 12,
+          "link": "https://kinescope.io/ghjESAN24hHqBYvxTKxKGz",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/09639790-30b8-41fd-a7b3-772a6d2f988e/poster_sm/a8205074-437f-4e10-a150-da5ef0105aed.jpg"
+        },
+        {
+          "id": "z25",
+          "title": "Зарядка с акцентом на таз (подойдет перед танцами)",
+          "duration": 18,
+          "link": "https://kinescope.io/jjD4GdYjfUPYrxutEDya12",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7ef0b896-9d83-40bf-97a0-9502a013c9e1/poster_sm/48f36455-986b-4954-8e85-bebe73a5a6e5.jpg"
+        },
+        {
+          "id": "z26",
+          "title": "Мобильность в теле",
+          "duration": 18,
+          "link": "https://kinescope.io/csLBZswZxwmCwcUnR4dJiM",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9f91872a-a0d9-4c8e-957b-98b6b672edf7/poster_sm/d862b906-4060-41e7-a7d0-cea51cf4281d.jpg"
+        },
+        {
+          "id": "z27",
+          "title": "Язык и ВНЧС",
+          "duration": 19,
+          "link": "https://kinescope.io/gWbegbbnQes3m3MPyGSMXg",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ce90bb12-416d-442d-bc12-c31dcfb86a2f/poster_sm/3865194b-b735-441f-b418-f7b97cfaa478.jpg"
+        },
+        {
+          "id": "z28",
+          "title": "Неврологическая зарядка",
+          "duration": 8,
+          "link": "https://kinescope.io/nnWFf9sh3HqYtUMMoTq96X",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c030bbcb-d8f4-46e3-b54c-a0d225ab8ecf/poster_sm/9052f92a-ee91-47ba-95c8-104c714aa68b.jpg"
+        },
+        {
+          "id": "z29",
+          "title": "тренировка на стуле",
+          "duration": 21,
+          "link": "https://kinescope.io/hZupfNFG8sKhWxJVjDn2ox",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/86562ab4-025c-46b4-a479-bdd1c67b0bd0/poster_sm/f1a37aa0-fa23-4b6a-84db-c76b3ab6f458.jpg"
+        },
+        {
+          "id": "z30",
+          "title": "Разминка с упором на грудной отдел",
+          "duration": 11,
+          "link": "https://kinescope.io/2a4MdEw7ev4bZSFbtr8tov",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c23c9898-7843-4a27-86f2-854cc3c2e20f/poster_sm/e1c4418b-ead9-4d4e-b920-256dba6c407d.jpg"
+        },
+        {
+          "id": "z31",
+          "title": "Боль в шее и голове",
+          "duration": 18,
+          "link": "https://kinescope.io/jWiVPtCF4g5EjLQp5Kk7Wj",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/4b12e64d-6080-40d7-8720-adfdcb800250/poster_sm/dde0ba82-201f-4212-b7a7-e405941bb289.jpg"
+        }
+      ]
+    },
+    {
+      "id": "breathing",
+      "name": "Дыхание",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b1",
+          "title": "Дыхание как основа",
+          "duration": 32,
+          "link": "https://kinescope.io/ihWf671hiPGrZooNUVJXW8",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/afd553ca-89a0-4072-99a3-e3e220b14c87/poster_sm/ab892823-9763-4a16-a991-5c79b609e724.jpg"
+        },
+        {
+          "id": "b2",
+          "title": "Дыхание для расслабления и снятие отеков",
+          "duration": 26,
+          "link": "https://kinescope.io/p3GLjb1hAke8DBau42ezBL",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/95abb352-2472-4144-9548-d32b667b6513/poster_sm/2ab1c4f2-99c1-4a98-9ef9-69acc63ca24c.jpg"
+        },
+        {
+          "id": "b3",
+          "title": "Дыхание и снятие отеков",
+          "duration": 17,
+          "link": "https://kinescope.io/fHxGjrhc8HF42f7kGWZ4tf",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/99052236-3f99-47ec-a12b-76d5d6df38a4/poster_sm/b33ea1fc-003b-4d22-90f5-b0949090943c.jpg"
+        },
+        {
+          "id": "b4",
+          "title": "Расслабляющее дыхание",
+          "duration": 25,
+          "link": "https://kinescope.io/6dpttcAbXoPSJ9vvcWe8iy",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/de562e07-b96d-4dc2-86ce-a7f45a7ae9fb/poster_sm/c42d502a-86cf-490b-addc-6676cfff1285.jpg"
+        },
+        {
+          "id": "b5",
+          "title": "Грудобрюшная и тазовая диафрагма, как партнеры",
+          "duration": 29,
+          "link": "https://kinescope.io/mkC5rLxBraAyyb8a4AjUf4",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2bb04a09-0edd-4c4a-b3bc-04bacb23eae9/poster_sm/672a2d87-cc8e-4e17-b5a1-1a00c7a417ac.jpg"
+        },
+        {
+          "id": "b6",
+          "title": "Дыхание для снятия отечности",
+          "duration": 29,
+          "link": "https://kinescope.io/tz7JwxnzsLcr1NPRngUEZK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/66f0e270-df06-4018-8c62-bf54383cda1e/poster_sm/7a641f63-20f6-4d60-8937-19d9442fe406.jpg"
+        },
+        {
+          "id": "b7",
+          "title": "Дыхание для расслабления",
+          "duration": 31,
+          "link": "https://kinescope.io/sptHYnof8opyW1rMuERfhc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d9873994-611b-42cf-a390-d76d4b60b4f2/poster_sm/4aa671fd-0c8e-4040-a2c5-6145e051d345.jpg"
+        },
+        {
+          "id": "b8",
+          "title": "Дыхание - снятие отечности и уменьшений болей",
+          "duration": 38,
+          "link": "https://kinescope.io/trDT6tqU81RdM12qHePPzg",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/e6726a7c-6b53-4c98-9cc7-206d6f61480d/poster_sm/1ebe3bfb-790a-4649-8d91-38928100b5d6.jpg"
+        },
+        {
+          "id": "b77",
+          "title": "1. Дыхание для выравнивания тела. Отеки",
+          "duration": 34,
+          "link": "https://kinescope.io/2RMXnsZe9BbUBKFvGDw6rf",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/06037940-9dc6-451e-a79e-8120ad0eb946/poster_sm/8bff3867-de2b-4e3c-9ae8-dbba7dd8b355.jpg"
+        },
+        {
+          "id": "b82",
+          "title": "1. Дыхание от отеков, болей, для плоского живота",
+          "duration": 34,
+          "link": "https://kinescope.io/hBG7kKhtqzPRZYxejDy829",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2ad2783a-1b6c-4016-932c-a083546fc9ba/poster_sm/a3245e46-d58b-4014-a242-007025f301b8.jpg"
+        }
+      ]
+    },
+    {
+      "id": "neck_shoulders",
+      "name": "Боли в шее и между лопаток / Лицо / ВНЧС",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b9",
+          "title": "Антихолка",
+          "duration": 39,
+          "link": "https://kinescope.io/7PXRpFtjSRPwVQcwhLLX87",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9e0cde89-f904-40fe-a5b4-23e5ef719ba1/poster_sm/5bf78a86-6c5d-4522-a55c-4caf1125c724.jpg"
+        },
+        {
+          "id": "b10",
+          "title": "Мобильность грудной клетки и лопаток",
+          "duration": 27,
+          "link": "https://kinescope.io/r11myCs8z6cWeH2qdzwGmU",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d4b6cd64-dbd1-4a75-99f7-3bec9c18c948/poster_sm/0699cdee-9415-4f74-bca2-b4f851985173.jpg"
+        },
+        {
+          "id": "b11",
+          "title": "Антихолка",
+          "duration": 27,
+          "link": "https://kinescope.io/8sK5uzMyzojLzeDJLFt324",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/caad5430-91dd-4e11-ab44-2846370060bb/poster_sm/8c1e1268-81c6-4ec7-8a48-fc1597931e8d.jpg"
+        },
+        {
+          "id": "b12",
+          "title": "Пилатес",
+          "duration": 51,
+          "link": "https://kinescope.io/7vXjZfCN3JXS491ThYWThL",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/90c78a65-4f5f-433c-9bd6-6819fea52498/poster_sm/68b75b26-bf59-4733-8692-71fb78d0b834.jpg"
+        },
+        {
+          "id": "b13",
+          "title": "От боли в спине",
+          "duration": 26,
+          "link": "https://kinescope.io/4pjmjYrdqjSrSZz5yvJUkg",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3a5429ad-f45d-4334-9ca8-9bd11de195c0/poster_sm/0634621a-ec56-4926-bd1d-3f27e9004446.jpg"
+        },
+        {
+          "id": "b14",
+          "title": "Шея",
+          "duration": 25,
+          "link": "https://kinescope.io/0NzC1CUKkYnfMvXx8oMfQd",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ffd91c4f-59cd-4721-8049-6fb1bd3484aa/poster_sm/731b94f6-4e37-46c2-b6fc-30b93fe4f86c.jpg"
+        },
+        {
+          "id": "b15",
+          "title": "Мобильность грудной клетки",
+          "duration": 34,
+          "link": "https://kinescope.io/axkSgkEYh8TXmPfEPk2FB4",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ebf36296-08fd-4a8b-a7dd-f43a200066df/poster_sm/d7edaae7-b0e4-4547-be88-efd7de93f6ff.jpg"
+        },
+        {
+          "id": "b16",
+          "title": "Функциональные линии рук",
+          "duration": 36,
+          "link": "https://kinescope.io/3R77jRvZ6JwT9B6Lc3F6rw",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/413426d9-b18a-4f03-aec0-4f6359b906b1/poster_sm/9b879f0e-9c1e-41cb-b016-71c867be6210.jpg"
+        },
+        {
+          "id": "b17",
+          "title": "Комплекс после дороги",
+          "duration": 31,
+          "link": "https://kinescope.io/wxE5capymHQdqpVpmL9QSi",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/908f5c58-0151-400e-aae4-19447550eebf/poster_sm/7016aec5-b500-47b5-9c33-77871d60b3c5.jpg"
+        },
+        {
+          "id": "b18",
+          "title": "Язык и ВНЧС",
+          "duration": 19,
+          "link": "https://kinescope.io/gWbegbbnQes3m3MPyGSMXg",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ce90bb12-416d-442d-bc12-c31dcfb86a2f/poster_sm/3865194b-b735-441f-b418-f7b97cfaa478.jpg"
+        },
+        {
+          "id": "b19",
+          "title": "Свобода движения грудной клетки",
+          "duration": 36,
+          "link": "https://kinescope.io/fSFm9LHUS48um63afRraGw",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7bfbee5d-ee55-418f-98d2-73817ba99dc9/poster_sm/1c3b1d8a-343d-4fbb-96c9-fd0d2ccf5db1.jpg"
+        },
+        {
+          "id": "b20",
+          "title": "Отеки лица",
+          "duration": 25,
+          "link": "https://kinescope.io/kLypXnYR61hMiLcM8N8Jy6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ea5bc509-84ea-445a-a133-3f79d6b9821f/poster_sm/9106a115-5c52-42c6-953e-1e63adf4e04c.jpg"
+        },
+        {
+          "id": "b86",
+          "title": "5. Холка",
+          "duration": 38,
+          "link": "https://kinescope.io/nmFa3oYTnDmo5DXu4niX2x",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/024c1983-482d-4305-bd77-5e62baac0fbb/poster_sm/ad6d481a-c9a7-4752-9a5d-05202092c888.jpg"
+        },
+        {
+          "id": "b90",
+          "title": "4. Холка, осанка, боли в шее",
+          "duration": 23,
+          "link": "https://kinescope.io/bGJQA7D9VB6qQHVbz4JhJC",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3a0cc716-ada5-409f-9993-8392db07e3e2/poster_sm/eb849e6b-79df-467e-9db6-a098ea8fcd84.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pelvis_lower_back",
+      "name": "Боли в районе таза и поясницы",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b21",
+          "title": "Алгоритмы . Таз",
+          "duration": 15,
+          "link": "https://kinescope.io/nvX4xjpskMz2q2bd9DoLst",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/450ab1b5-5b44-4354-8f5a-f30429dab2f8/poster_sm/37afef16-3323-477b-adf3-70c63eecbc57.jpg"
+        },
+        {
+          "id": "b22",
+          "title": "Напряжение в пояснице и отечность бедер",
+          "duration": 26,
+          "link": "https://kinescope.io/0MMNmbJbSyn79bvoev3t22",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/89d74ea2-03cd-4386-8230-95bc08e99c8d/poster_sm/e78339f3-eef1-4260-b437-3c796a1df59c.jpg"
+        },
+        {
+          "id": "b23",
+          "title": "Мягкая практика на всё тело",
+          "duration": 26,
+          "link": "https://kinescope.io/kCywRFFokvAGyPSC8BMRhB",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fa147976-d641-4936-92cc-2667d3ade8fc/poster_sm/011423f6-8370-4e52-a180-a3eedeacbf20.jpg"
+        },
+        {
+          "id": "b24",
+          "title": "Свободный крестец и легкая поясница",
+          "duration": 20,
+          "link": "https://kinescope.io/cPCMVg3SpAwicHzbDANgKG",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/13802ada-1eda-4f9c-8e1f-3c33718920a8/poster_sm/e413968d-85bf-4712-ac7f-b221255a4f9f.jpg"
+        },
+        {
+          "id": "b25",
+          "title": "Снятие напряжения с ног , работа с тазом",
+          "duration": 20,
+          "link": "https://kinescope.io/6p2ipCBbYZNNYva8f1Uprz",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a6c566af-49dd-4ed6-80b3-9781aa8dd233/poster_sm/1e718682-eb6e-4d41-b6d2-a2daf0973f9d.jpg"
+        },
+        {
+          "id": "b26",
+          "title": "Комплекс после дороги",
+          "duration": 51,
+          "link": "https://kinescope.io/wxE5capymHQdqpVpmL9QSi",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/908f5c58-0151-400e-aae4-19447550eebf/poster_sm/7016aec5-b500-47b5-9c33-77871d60b3c5.jpg"
+        },
+        {
+          "id": "b27",
+          "title": "Снятие напряжения с поясницы и крестца",
+          "duration": 32,
+          "link": "https://kinescope.io/xyUakQpdVeSVGBojoKBgmX",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b022029f-5d8c-4209-b0e5-6acd04e91d9e/poster_sm/9d75a0b6-0750-4a8a-acbd-8520c4889659.jpg"
+        },
+        {
+          "id": "b28",
+          "title": "Мобильность таза , отсутствие галифе",
+          "duration": 34,
+          "link": "https://kinescope.io/gCSa3mJZWX6W5MZs8TziPg",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c80f2a05-b495-40b6-8b66-7f422c634451/poster_sm/4e33084b-cdde-4772-a183-e23c458652d5.jpg"
+        },
+        {
+          "id": "b29",
+          "title": "Снятие напряжения с региона таза и бедер",
+          "duration": 36,
+          "link": "https://kinescope.io/a5oR4ympkPADZTdeXb46nd",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/802d47d9-cd5c-4228-aa01-c5fe807bdaed/poster_sm/111c5a03-a80c-480e-a3de-ae6c9f12b359.jpg"
+        }
+      ]
+    },
+    {
+      "id": "abdomen_pelvic_floor",
+      "name": "Живот, тазовое дно",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b30",
+          "title": "Пробуждение МТД",
+          "duration": 32,
+          "link": "https://kinescope.io/btkEEqnqz37ATY1xrZenzm",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b25d13d2-3347-4e4f-9b59-0b4b717a1112/poster_sm/ad1ffa7b-592b-4a38-8935-3d63a70e3bae.jpg"
+        },
+        {
+          "id": "b31",
+          "title": "Комплекс по работе с мышцами кора",
+          "duration": 35,
+          "link": "https://kinescope.io/qFcSVXiLxqYQMRp7rf7Rbz",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2b7ba3df-43f3-4633-add3-b44a90104cdf/poster_sm/d6bea9b0-d45b-4552-afd9-88aee38f51a4.jpg"
+        },
+        {
+          "id": "b32",
+          "title": "Плоский живот, мобилизация кишечника",
+          "duration": 27,
+          "link": "https://kinescope.io/sCxkWmhLqUjULEyLfA2gsV",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ac7be74f-c746-4663-ad63-12e668c6372b/poster_sm/adba6890-4b17-4b2a-8087-2a8a743c2e5c.jpg"
+        },
+        {
+          "id": "b33",
+          "title": "Плоский живот и активная работа всего кора",
+          "duration": 31,
+          "link": "https://kinescope.io/cPuDyRquBU67BGCw6BPcB6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/08da0ece-cdf2-4438-b453-8859c4dedd99/poster_sm/e217db8f-58fd-4afe-994a-37f409f89e1f.jpg"
+        },
+        {
+          "id": "b34",
+          "title": "Пробуждение мышц тазового дна",
+          "duration": 41,
+          "link": "https://kinescope.io/3hSohwmb3ynLD4y8AWt4Jx",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d4b2f82c-1d6a-4179-b1f4-4118bb5eff65/poster_sm/e3b22587-484e-46f9-87c9-d006518b0a1e.jpg"
+        },
+        {
+          "id": "b35",
+          "title": "К плоскому животу через дыхание и глубинную линию",
+          "duration": 27,
+          "link": "https://kinescope.io/rSrtir1fXmEdg6j3C7bPeM",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/779dfab1-f305-4921-968a-128445dddc69/poster_sm/165120cf-4fb4-405e-b317-e14551aa6f71.jpg"
+        },
+        {
+          "id": "b36",
+          "title": "Согласованная работа грудной клетки и таза",
+          "duration": 33,
+          "link": "https://kinescope.io/nK1h2dQ5Tat5sDobPSAGWK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/13e373ba-8ab6-4503-aeb5-6bb56a9d4b46/poster_sm/1c8f896b-e561-481e-9a8f-d8aa20694220.jpg"
+        },
+        {
+          "id": "b37",
+          "title": "Боли и вздутие живота, мобилизация кишечника",
+          "duration": 34,
+          "link": "https://kinescope.io/63PSquGwjN8mUmE7kL9Uc6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/37afeb3b-31de-44a1-b1e0-0b2e5e89f704/poster_sm/c8983303-62fd-4cd1-bc7a-780104838208.jpg"
+        },
+        {
+          "id": "b38",
+          "title": "Гибкий позвоночник: плоский живот и свобода движения",
+          "duration": 36,
+          "link": "https://kinescope.io/on5fzfFaZsBxdm9vhdZc7P",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/06c0f067-7830-47ff-a5f7-b283bc652c1c/poster_sm/dbe402b0-124d-4f85-8674-f9d8ec7cd36b.jpg"
+        },
+        {
+          "id": "b39",
+          "title": "Плоский живот",
+          "duration": 55,
+          "link": "https://kinescope.io/3a645LdTqeQybi2P4aUDYj",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/48efa478-bfa5-48d1-b903-008aeb115cdb/poster_sm/eab0999b-5df5-4738-83ea-90679f54fd1f.jpg"
+        },
+        {
+          "id": "b40",
+          "title": "Пробуждение тазового региона",
+          "duration": 33,
+          "link": "https://kinescope.io/tTcQyXgtn31vU1YgYHa3JB",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6db4ef58-8014-406f-b7b3-3e638164c1aa/poster_sm/ce4407e2-db45-4020-bf49-c41b41898f9b.jpg"
+        },
+        {
+          "id": "b41",
+          "title": "Работа КОPa",
+          "duration": 31,
+          "link": "https://kinescope.io/dV8bDAfMK9hR8VXCKG8xMc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/644daa85-3b0c-4eb4-9983-eadbd7a75e7c/poster_sm/80bc7d4d-a9d2-4a1b-affd-f42d486dad17.jpg"
+        },
+        {
+          "id": "b80",
+          "title": "4. Тазовое дно и диафрагма: партнерская работа",
+          "duration": 38,
+          "link": "https://kinescope.io/pNKPfWDKRxCchXpWG97mU9",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/df44666f-6b5e-4999-ae4c-55bb817c9352/poster_sm/52e90a82-6d6b-44cd-8bc6-d5aef67b9bf3.jpg"
+        },
+        {
+          "id": "b85",
+          "title": "4. Эластичность и упругость мышц тазового дна, мобильность таза",
+          "duration": 32,
+          "link": "https://kinescope.io/a2dNyNpay9C6xWZ6ToQcjA",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b01f9c64-818a-4656-94cf-0497e94e1b61/poster_sm/33efc5e6-82e5-4b37-b652-5c73228f5c68.jpg"
+        },
+        {
+          "id": "b88",
+          "title": "2. Тазовое дно, внутренняя поверхность бедер",
+          "duration": 40,
+          "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/850e0ba5-6c7b-488a-b105-0bc8c317a741/poster_sm/2c89ba82-38ab-48f8-8a1b-af479ae38219.jpg"
+        },
+        {
+          "id": "b89",
+          "title": "3. Мышцы пресса",
+          "duration": 32,
+          "link": "https://kinescope.io/0h3r4J3PZw1xBw7nMK8boT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ded04e9a-63ee-4f38-b835-10e03b0d2731/poster_sm/f6803f92-b159-4cf7-ac0b-a35939719934.jpg"
+        },
+        {
+          "id": "b94",
+          "title": "3. Тазовое дно - от расслабления к упругости",
+          "duration": 37,
+          "link": "https://kinescope.io/5M4MrLjDkX2boNASTp9qzY",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2b13a44e-934d-4770-abec-310c1ac73830/poster_sm/5e5ac2da-5007-45d2-ab49-9ea12edb918b.jpg"
+        },
+        {
+          "id": "b95",
+          "title": "4. Мышцы брюшного пресса",
+          "duration": 24,
+          "link": "https://kinescope.io/dbVDVhgfiYdYT75Bqz1M5K",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3f2fc51f-259e-4aa1-8549-b43433fcd738/poster_sm/e903b15b-b953-4470-8179-3258f586426b.jpg"
+        },
+        {
+          "id": "b96",
+          "title": "5. Вздутие живота",
+          "duration": 31,
+          "link": "https://kinescope.io/t2zq14zEEECW94WgJZGa2T",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6f9cdc52-335f-412e-8eb8-c6161e8be11b/poster_sm/eeda4b34-da2f-4ba9-a606-092b5117598c.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hips_thighs",
+      "name": "Галифе, отеки бедер",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b42",
+          "title": "От галифе и отеков бедер",
+          "duration": 42,
+          "link": "https://kinescope.io/wdJA3U32d4QTpafUZosGe5",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/58c48e76-b811-4390-b70b-a88efe7cb56f/poster_sm/ebc2245f-b81a-4da8-84ac-22b323eba4d4.jpg"
+        },
+        {
+          "id": "b43",
+          "title": "От отечности бёдер , галифе - активация ягодиц",
+          "duration": 31,
+          "link": "https://kinescope.io/w6XVqqzABRZA6rLoLxmXSn",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c5873938-c4d7-4a92-be68-6944bc7a5775/poster_sm/4e50703a-053b-4342-992d-7cf4c9ef6dda.jpg"
+        },
+        {
+          "id": "b44",
+          "title": "Мобильность таза прощаемся с галифе",
+          "duration": 35,
+          "link": "https://kinescope.io/gCSa3mJZWX6W5MZs8TziPg",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c80f2a05-b495-40b6-8b66-7f422c634451/poster_sm/4e33084b-cdde-4772-a183-e23c458652d5.jpg"
+        },
+        {
+          "id": "b45",
+          "title": "Снятие напряжения с таза , устранение отечности",
+          "duration": 36,
+          "link": "https://kinescope.io/a5oR4ympkPADZTdeXb46nd",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/802d47d9-cd5c-4228-aa01-c5fe807bdaed/poster_sm/111c5a03-a80c-480e-a3de-ae6c9f12b359.jpg"
+        },
+        {
+          "id": "b46",
+          "title": "Свободный таз , отсутствие галифе и болей в ТБС",
+          "duration": 40,
+          "link": "https://kinescope.io/4WZpvRJfVympjP2iUP4Ujf",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/714b22d5-cd1d-4d68-94e5-e20037b6ad64/poster_sm/fa53b259-ab69-4468-bc18-17243f00e01f.jpg"
+        },
+        {
+          "id": "b47",
+          "title": "Задняя поверхность бедра , целлюлит",
+          "duration": 26,
+          "link": "https://kinescope.io/0MMNmbJbSyn79bvoev3t22",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/89d74ea2-03cd-4386-8230-95bc08e99c8d/poster_sm/e78339f3-eef1-4260-b437-3c796a1df59c.jpg"
+        },
+        {
+          "id": "b48",
+          "title": "Свободный таз",
+          "duration": 31,
+          "link": "https://kinescope.io/nh8U3btUzWenCD9Xjbt3Mb",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a799a0c3-41ef-42ba-b934-f96de962ce20/poster_sm/75e05566-f023-438d-94c4-9707107b8c13.jpg"
+        },
+        {
+          "id": "b49",
+          "title": "Свобода таза , поясницы и бедер",
+          "duration": 35,
+          "link": "https://kinescope.io/17YgwuMEFmJHqaoiHr3ysv",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/be3cd73c-a7d7-4424-bc69-e68947227bd2/poster_sm/1b299591-0cf5-469f-bcab-4707100a7f2b.jpg"
+        },
+        {
+          "id": "b50",
+          "title": "Активация ягодиц , галифе , дряхлость",
+          "duration": 32,
+          "link": "https://kinescope.io/8gKtMfC9VxiQU6G8TQjaL1",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7d0dc6cd-5042-4004-80ce-5f6f967aa57f/poster_sm/6506f5e2-ef9c-4348-93ed-82c01c4bb39d.jpg"
+        },
+        {
+          "id": "b79",
+          "title": "3. Проблемные зоны бедер",
+          "duration": 31,
+          "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ddb0db77-c6e6-448f-aa06-6873568ee171/poster_sm/18557d98-941c-4ac1-8f17-e4ff212d8504.jpg"
+        },
+        {
+          "id": "b83",
+          "title": "2. Внутренняя поверхность бедер и тазовое дно",
+          "duration": 32,
+          "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/01186e26-e543-4e79-b42f-c2f3d2e8184c/poster_sm/41e27046-68d3-4232-938d-11ad9f940613.jpg"
+        },
+        {
+          "id": "b84",
+          "title": "3. Отеки бедер, легкость ног",
+          "duration": 33,
+          "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/01186e26-e543-4e79-b42f-c2f3d2e8184c/poster_sm/41e27046-68d3-4232-938d-11ad9f940613.jpg"
+        },
+        {
+          "id": "b87",
+          "title": "1. Отеки бедер, целлюлит",
+          "duration": 33,
+          "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/850e0ba5-6c7b-488a-b105-0bc8c317a741/poster_sm/2c89ba82-38ab-48f8-8a1b-af479ae38219.jpg"
+        },
+        {
+          "id": "b91",
+          "title": "5. Активация ягодиц",
+          "duration": 33,
+          "link": "https://kinescope.io/2nxiZsiVnj4FsT2YuWeirj",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a7316812-e88d-4fcc-8d65-f9b2e0381b68/poster_sm/8ed900c4-e9fe-42c7-ae45-368e00eb6a38.jpg"
+        },
+        {
+          "id": "b92",
+          "title": "1. Снятие напряжения с грушевидных мышц",
+          "duration": 35,
+          "link": "https://kinescope.io/g9kmsTwhHPwXPvUGm3gUB6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1eca01f7-6cbb-45da-bf73-7d71f248c3e8/poster_sm/20d74131-c842-4241-8c3c-78265976a0c9.jpg"
+        },
+        {
+          "id": "b93",
+          "title": "2. Внутренняя поверхность бедер, отеки",
+          "duration": 32,
+          "link": "https://kinescope.io/x3ZLujpYmr8zXWP45m43SN",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/665f1dad-3851-4d24-9db4-814b3486e2c7/poster_sm/a816bb0f-74de-43ea-a84e-a8972b118dd4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "feet_knees",
+      "name": "Стопы, колени",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b51",
+          "title": "Колени, стопы",
+          "duration": 21,
+          "link": "https://kinescope.io/4Q9youw5HUnMsoeN1D2mWG",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c7a0f9b1-3c96-4b3e-8faf-b174b5875e1c/poster_sm/f702912a-0737-4dae-a2e1-38ff3bb92675.jpg"
+        },
+        {
+          "id": "b52",
+          "title": "МФР и упражнения для стоп",
+          "duration": 24,
+          "link": "https://kinescope.io/9CBEQyFCs9rwMCLpNcRooo",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/28a4a2d0-9ee6-4ee0-a3d7-a67739a2fc26/poster_sm/3e53703c-d156-4de0-ae5e-eb0a3d39d27a.jpg"
+        },
+        {
+          "id": "b53",
+          "title": "Про стопы",
+          "duration": 10,
+          "link": "https://kinescope.io/5D6ap6nLuQaYgn3oAQyQWh",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/75ab5e73-29d7-4fba-84f1-7a690b31f054/poster_sm/1ee66f6b-64c5-4a73-a0a5-4e801aea8b25.jpg"
+        },
+        {
+          "id": "b54",
+          "title": "Снятие напряжения с ног, свобода движения коленей",
+          "duration": 35,
+          "link": "https://kinescope.io/pk8Tz5cJuSEYGPqrrj9RYH",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/cd6e2086-d668-4e12-bfe8-b0830ac8036a/poster_sm/a6a3025a-df20-42c9-bdd8-699a8a861407.jpg"
+        }
+      ]
+    },
+    {
+      "id": "full_body",
+      "name": "На все тело",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b55",
+          "title": "Мягкая практика на всё тело",
+          "duration": 26,
+          "link": "https://kinescope.io/kCywRFFokvAGyPSC8BMRhB",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fa147976-d641-4936-92cc-2667d3ade8fc/poster_sm/011423f6-8370-4e52-a180-a3eedeacbf20.jpg"
+        },
+        {
+          "id": "b56",
+          "title": "Комплекс после дороги",
+          "duration": 31,
+          "link": "https://kinescope.io/wxE5capymHQdqpVpmL9QSi",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/908f5c58-0151-400e-aae4-19447550eebf/poster_sm/7016aec5-b500-47b5-9c33-77871d60b3c5.jpg"
+        },
+        {
+          "id": "b57",
+          "title": "Пилатес",
+          "duration": 31,
+          "link": "https://kinescope.io/7vXjZfCN3JXS491ThYWThL",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/90c78a65-4f5f-433c-9bd6-6819fea52498/poster_sm/68b75b26-bf59-4733-8692-71fb78d0b834.jpg"
+        },
+        {
+          "id": "b58",
+          "title": "Согласованность грудной клетки и таза для красивой осанки",
+          "duration": 34,
+          "link": "https://kinescope.io/qYCqRQzRTbAV9tQZrWC1jj",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ec1b87bd-da4c-429c-8c50-752e9a0f7038/poster_sm/68fb0d5b-f650-47ba-9a48-6811c3712cff.jpg"
+        },
+        {
+          "id": "b59",
+          "title": "Снятие напряжения со всего тела",
+          "duration": 27,
+          "link": "https://kinescope.io/br9H8jCG88dZsKZjBEZcbK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/20923aff-c766-41f4-a066-16ee4680d569/poster_sm/95c1d07c-3124-4788-bf0b-a439ab2d51c1.jpg"
+        },
+        {
+          "id": "b60",
+          "title": "Снятие напряжения в конце дня",
+          "duration": 33,
+          "link": "https://kinescope.io/sVpW5bNctyjR5wBi9EcG6p",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a577817e-6665-42f8-aebf-fab0a32d7172/poster_sm/e52f48f1-4ab3-4589-9489-7ef69120415c.jpg"
+        },
+        {
+          "id": "b61",
+          "title": "Активный антиотечный комплекс",
+          "duration": 30,
+          "link": "https://kinescope.io/jtuLqQMeWypTWYgdDgYy7s",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/77dd9273-f4e4-4c38-b361-c1c4c6291fa2/poster_sm/f87684b8-e17c-4c6f-b1ab-4783745474a1.jpg"
+        },
+        {
+          "id": "b62",
+          "title": "Активная на все тело",
+          "duration": 24,
+          "link": "https://kinescope.io/6PMbEHoTUK2JPkfyUeM3zA",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/8a2e2ef5-c7e5-4182-890d-0d34265c9635/poster_sm/037240d7-ae62-4f28-8e54-75186cd08dea.jpg"
+        },
+        {
+          "id": "b78",
+          "title": "2. Королевская осанка",
+          "duration": 35,
+          "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ddb0db77-c6e6-448f-aa06-6873568ee171/poster_sm/18557d98-941c-4ac1-8f17-e4ff212d8504.jpg"
+        },
+        {
+          "id": "b81",
+          "title": "5. Отечность в теле и проблемные зоны",
+          "duration": 34,
+          "link": "https://kinescope.io/so6fJbbacRbNpRxx7Pttep",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/cc893135-b7e5-4feb-ba00-7419134fae4b/poster_sm/c5b56d8c-c5b1-46c8-85d1-e4cd695d2d4a.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mfr_taping",
+      "name": "МФР и тейпирование",
+      "parent": "bonus",
+      "videos": [
+        {
+          "id": "b63",
+          "title": "Релиз МТД",
+          "duration": 2,
+          "link": "https://kinescope.io/pYVsFGE1vpr1UgE36JwBVT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/13f1c20a-4a76-4292-a017-a7c3287050ce/poster_sm/aac5f2de-04e5-4007-94b2-ad1d5de1248a.jpg"
+        },
+        {
+          "id": "b64",
+          "title": "Отработка шрамов (кесарево, эпизио)",
+          "duration": 10,
+          "link": "https://kinescope.io/hHwxNKB8WpPDfzu6HVWLhy",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/77d26a15-62a3-4bf9-bbc3-37fc9d0ae770/poster_sm/7af17bb2-97c4-4fc8-a9d2-a013ed6719d8.jpg"
+        },
+        {
+          "id": "b65",
+          "title": "Диастаз, лимфодренаж, кесарево, шрамы, год",
+          "duration": 18,
+          "link": "https://kinescope.io/pPsQZpC6yQffWzYB1vBiQA",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/e65abe6f-9781-44b7-b21b-b34b6ac9fd07/poster_sm/decefeaf-3f41-48fd-b4b2-0f02a2c8afd8.jpg"
+        },
+        {
+          "id": "b66",
+          "title": "Тейпирование КС, шрама",
+          "duration": 6,
+          "link": "https://kinescope.io/tL28f4kF8U1DsCwpmENbGb",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/58191ab6-5313-4e36-baeb-40eb0e643425/poster_sm/85932c9d-a1b0-4f73-bf9e-01f6adfedc6a.jpg"
+        },
+        {
+          "id": "b67",
+          "title": "Вздутие, боли в животе",
+          "duration": 3,
+          "link": "https://kinescope.io/tKc95yJXrQNi1bvZZE1n27",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/eaf1238e-12a7-4612-b5b5-819b9a32a89a/poster_sm/813c9f20-8161-4bd4-b85f-6d014585fec2.jpg"
+        },
+        {
+          "id": "b68",
+          "title": "Тейпирование, база",
+          "duration": 5,
+          "link": "https://kinescope.io/xhHqVacjBboZYsRpmPYhKz",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a60dab1c-4380-4a51-8bb9-fe08c9ec60e8/poster_sm/9eda4b97-90c1-47c5-b351-234daa9b3d74.jpg"
+        },
+        {
+          "id": "b69",
+          "title": "Снятие напряжения с ног, свобода движения коленей",
+          "duration": 35,
+          "link": "https://kinescope.io/jjZguzsT5wN8x4FCJDpUdH",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/5ec79f7e-7ea9-41bb-830e-6092832dad6c/poster_sm/da78ed94-7abd-436a-9414-49b648753ac7.jpg"
+        },
+        {
+          "id": "b70",
+          "title": "МФР всего тела с оборудованием",
+          "duration": 30,
+          "link": "https://kinescope.io/hNjTvsSSx1itw7znxrd7JE",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1d8652da-c2ef-4a42-9046-5c0b0272f347/poster_sm/fd1ee647-8162-40df-aa2e-52e52258df60.jpg"
+        },
+        {
+          "id": "b71",
+          "title": "МФР и упражнения для стоп",
+          "duration": 24,
+          "link": "https://kinescope.io/9CBEQyFCs9rwMCLpNcRooo",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/28a4a2d0-9ee6-4ee0-a3d7-a67739a2fc26/poster_sm/3e53703c-d156-4de0-ae5e-eb0a3d39d27a.jpg"
+        },
+        {
+          "id": "b72",
+          "title": "Снятие напряжения с верхнего плечевого пояса",
+          "duration": 10,
+          "link": "https://kinescope.io/abSRbmhfh2d5sgiLQpqA1S",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/944a17a9-03d4-4d7e-8b9f-b9d537ecc981/poster_sm/2e132e31-750e-4911-a721-5fa94c546c3c.jpg"
+        },
+        {
+          "id": "b73",
+          "title": "Комплекс по МФР с полотенцем",
+          "duration": 26,
+          "link": "https://kinescope.io/wS8p2PihHHQUwa3zZQWQxg",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ab5a89b1-ce05-486d-9cbc-81cbcee8af8d/poster_sm/7d7bf76a-70e0-43d5-8020-a62d4483cfc0.jpg"
+        },
+        {
+          "id": "b74",
+          "title": "Отечность ниже пупка",
+          "duration": 2,
+          "link": "https://kinescope.io/9AEVCpQeF8XMmmedfGPqeB",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/bf0e36c2-a19e-4527-8375-0cd1a659f17e/poster_sm/d7b4a1f5-1dea-486e-a0a8-0a0234d03416.jpg"
+        },
+        {
+          "id": "b75",
+          "title": "Bonus 1",
+          "duration": 12,
+          "link": "https://kinescope.io/kuzh9MQ7DNswMhfZpTEMiD",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/4cbfe76f-e536-4868-861b-d4e34a6aede0/poster_sm/04199bef-c693-4b68-9b13-bd2824be183b.jpg"
+        },
+        {
+          "id": "b76",
+          "title": "Bonus 2",
+          "duration": 6,
+          "link": "https://kinescope.io/8PwzW4fHDZNCB2H1vqsR5C",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9ea033c3-c03c-4d7a-83b3-bb69e7b728eb/poster_sm/977a67cb-1917-4061-95b4-6ff182c4a730.jpg"
+        }
+      ]
+    },
+    {
+      "id": "nutrition_diet",
+      "name": "Питание и питьевой режим",
+      "parent": "lifestyle",
+      "videos": [
+        {
+          "id": "pl_pp1",
+          "title": "Про белок",
+          "duration": 53,
+          "link": "https://kinescope.io/jz18mNZXEwCyKYAzf1NYxm",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/56fc8ae7-2d8b-4d23-98fa-531bcfac2229/poster_sm/c568449c-fac7-485a-b8a8-843ce9b8c074.jpg"
+        },
+        {
+          "id": "pl_pp2",
+          "title": "Жиры",
+          "duration": 31,
+          "link": "https://kinescope.io/0ntAcji8AdFdXoX8rnht3C",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0c86bd7c-1c9d-4af4-91f6-24f46ff5cb59/poster_sm/bcbce7cf-da74-4de3-97f4-65b069ffbc0b.jpg"
+        },
+        {
+          "id": "pl_pp3",
+          "title": "Углеводы",
+          "duration": 41,
+          "link": "https://kinescope.io/7paTjoQeeDkZJsPa11JMxL",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f2fc1499-a662-48c6-b13e-3f479921f001/poster_sm/c4103ce2-238c-4d39-8312-d8ea5ecd644c.jpg"
+        },
+        {
+          "id": "pl_pp4",
+          "title": "Рацион",
+          "duration": 10,
+          "link": "https://kinescope.io/psEw1HMm6eZyjUoaDGc3qX",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1a40be42-004a-4feb-a466-b6c7a564e44c/poster_sm/e0fe7846-c497-4851-9f04-6f5dea1a5468.jpg"
+        },
+        {
+          "id": "pl_pp5",
+          "title": "Тяга к сладкому",
+          "duration": 35,
+          "link": "https://kinescope.io/mii7q9TKP4yZxvBpbGRfnZ",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7a66f963-a2a3-4c98-b131-8e00473922b1/poster_sm/e10b6db6-337b-43d1-bb2c-f25bdc5a8aee.jpg"
+        },
+        {
+          "id": "pl_pp6",
+          "title": "Похудение",
+          "duration": 39,
+          "link": "https://kinescope.io/kkwQrYi5JzUKGWWCZ2NCMD",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9856ba31-3058-4503-8127-f1b155f8414e/poster_sm/35349142-15a2-498a-a8b2-1127fa2a85cf.jpg"
+        },
+        {
+          "id": "pl_pp7",
+          "title": "Стресс и сон",
+          "duration": 28,
+          "link": "https://kinescope.io/oQvdgBxgk8HGR1195goctq",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6872d3fd-1e4a-4c0f-bd68-68c54d873c94/poster_sm/f6126b0c-7bf4-4f31-8653-69cad086c5b0.jpg"
+        },
+        {
+          "id": "pl_pp8",
+          "title": "Сон Часть 1",
+          "duration": 69,
+          "link": "https://kinescope.io/i2riMJR5wQvrWQs4qANHA1",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2f7b941f-5bab-438a-949b-940fbfe3151f/poster_sm/cae8a41f-57ce-43d1-a978-24b05ba44dd1.jpg"
+        },
+        {
+          "id": "pl_pp9",
+          "title": "Эфир о Теплой воде Как просто избавиться от отеков и сложностей с жкт",
+          "duration": 22,
+          "link": "https://kinescope.io/5zm6GMrbsVoti3NGMkbwFT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/758751b3-7864-4dc8-af15-875c5f7690b6/poster_sm/14e5b8fe-90ca-4809-90e5-8ee587077feb.jpg"
+        },
+        {
+          "id": "pl_pp10",
+          "title": "Питьевой режим",
+          "duration": 26,
+          "link": "https://kinescope.io/n1yDX42kSrCDqkmyxbE5H6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fe1df0d6-7b29-4bb7-9ad2-5d4efc76f6af/poster_sm/1ec273f1-a443-4f7f-ae8e-8bf07b62cd9f.jpg"
+        },
+        {
+          "id": "pl_pp11",
+          "title": "Тренируем насмотренность",
+          "duration": 12,
+          "link": "https://kinescope.io/tWYnXYJnV4ETvvqmQ1MUqb",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/aafeb3f3-89f3-4f3a-a6d0-1cdf7c23079f/poster_sm/ce520878-3eb6-4137-8ec8-69d119fa2352.jpg"
+        }
+      ]
+    },
+    {
+      "id": "womens_health",
+      "name": "Женское здоровье",
+      "parent": "lifestyle",
+      "videos": [
+        {
+          "id": "pl_wz1",
+          "title": "Гипотериоз",
+          "duration": 46,
+          "link": "https://kinescope.io/o135E2We5gjp8vRrqWK9ou",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/59da5bd9-9021-4bae-84c6-03c4290bd630/poster_sm/6649350a-b04c-46b6-b6e1-5883497376bd.jpg"
+        },
+        {
+          "id": "pl_wz2",
+          "title": "Железо дефицит Full",
+          "duration": 120,
+          "link": "https://kinescope.io/e5eB9FnunAYsmpie7k6Zk7",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d2510e35-a5ce-48ed-91d9-16c55b743d4d/poster_sm/b79877c8-c13b-4f79-a034-dd7e2ebd3e57.jpg"
+        },
+        {
+          "id": "pl_wz3",
+          "title": "женское здоровье",
+          "duration": 86,
+          "link": "https://kinescope.io/aYhS44ysbY4tFFc8dvZowW",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a86ef7b6-2c88-4de5-9818-499f58d8ab1c/poster_sm/e96ffd9d-bd95-4d5d-a735-6df87a9a2313.jpg"
+        },
+        {
+          "id": "pl_wz4",
+          "title": "Отёки",
+          "duration": 42,
+          "link": "https://kinescope.io/o6P8zsvHhDt3xgih5RAudT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/49d4b5f1-9791-47bd-8938-f96e10e4bb8d/poster_sm/04e6de77-fa40-4c9b-b2e0-3d52f429fa16.jpg"
+        }
+      ]
+    },
+    {
+      "id": "lifestyle_general",
+      "name": "Образ жизни",
+      "parent": "lifestyle",
+      "videos": [
+        {
+          "id": "pl_oz1",
+          "title": "Лайфхаки для жизни",
+          "duration": 19,
+          "link": "https://kinescope.io/p49RpzLMexen9HjMDy3jKn",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/22f2d46b-e388-4300-8f84-e6b067b6ccff/poster_sm/728df507-6a78-480d-907f-60aeb37a9f3f.jpg"
+        },
+        {
+          "id": "pl_oz2",
+          "title": "Комплекс и результат",
+          "duration": 22,
+          "link": "https://kinescope.io/5RVurWj1VdrjG6Zd38tP1U",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ec279d3b-3f82-40ea-b841-3cefc3a9ca27/poster_sm/ac79296a-7dc7-4d35-ac0b-b288e1011310.jpg"
+        },
+        {
+          "id": "pl_oz3",
+          "title": "Комплексный подход",
+          "duration": 38,
+          "link": "https://kinescope.io/pKDpzdWho7qchBR2EZnZii",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6ea9e971-101b-489f-b5d4-2aa067b11733/poster_sm/7161603c-2d88-48ea-8b9c-2b50b2ec33ee.jpg"
+        },
+        {
+          "id": "pl_oz4",
+          "title": "Как не переедать в праздники и помочь себе после",
+          "duration": 22,
+          "link": "https://kinescope.io/pitdWmySmuexc8HNYCeRVV",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/df250d7f-97b5-4227-a7a3-dafb76f5df1c/poster_sm/4afe9c6c-0519-482e-947e-c46a0399fc4b.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tips",
+      "name": "Советы",
+      "videos": [
+        {
+          "id": "sv1",
+          "title": "Строение таза и техника тазовых часов",
+          "duration": 22,
+          "link": "https://kinescope.io/oPTc3psBfXk9h9gUkLaeDp",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f482659d-a3fe-4e71-9154-9a2e69fe817a/poster_sm/de2a22db-d7c5-4527-8901-1a4bd0448662.jpg"
+        },
+        {
+          "id": "sv2",
+          "title": "Как найти мышцы тазового дна?",
+          "duration": 17,
+          "link": "https://kinescope.io/f3QZgkfLzArAV9tj2iH1pz",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/75ec56fc-1059-4280-8afb-d4cd9703e43a/poster_sm/e9cd7e65-8d54-4998-b88f-f2ec1ed747f7.jpg"
+        },
+        {
+          "id": "sv3",
+          "title": "Уровни сложности, кому и зачем ?",
+          "duration": 8,
+          "link": "https://kinescope.io/jkL65mukmTZ7ca3aEwv9zM",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f608e184-696f-437b-9c1a-a8a4e7053f2d/poster_sm/61989b4a-6a66-45e1-9fce-e90e2ef60f91.jpg"
+        },
+        {
+          "id": "sv4",
+          "title": "Что такое «домик»",
+          "duration": 13,
+          "link": "https://kinescope.io/bmHCNw89Fb8Tt56hRMUyta",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/8eb71cad-20ec-4c13-9491-54140f224476/poster_sm/4d317fe2-17bf-4fa0-8179-3d1376a2f645.jpg"
+        },
+        {
+          "id": "sv5",
+          "title": "Разбор BRIDGING",
+          "duration": 12,
+          "link": "https://kinescope.io/itntnraMScRjGCGQTpo1no",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/641c5563-58ce-4fb3-bca8-1f8a4dc93fb2/poster_sm/80eaa27a-8e18-4937-ab6b-7b7097c66ef2.jpg"
+        },
+        {
+          "id": "sv6",
+          "title": "Разбор четырёхугольника",
+          "duration": 8,
+          "link": "https://kinescope.io/3pZ63qR19moqPfoAL8WhE4",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ab3269c4-5db3-438c-9819-79c2ac4dd5ab/poster_sm/d8fb1cf6-afb8-4bb1-a791-3be087fcefc9.jpg"
+        },
+        {
+          "id": "sv7",
+          "title": "Положение зет-седа и техника русалки",
+          "duration": 9,
+          "link": "https://kinescope.io/smrZNgy5XgWMX9895QGqTQ",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b0ee0dc5-1961-42f5-8ae2-6d104c4b76aa/poster_sm/1f7073fc-32af-47c1-b98a-ca47a55488b0.jpg"
+        },
+        {
+          "id": "sv8",
+          "title": "Как заниматься во время и после беременности?",
+          "duration": 14,
+          "link": "https://kinescope.io/6JpsrQnZrjJPB1TTrqGq65",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0fc1d02d-ef22-428f-bfdc-ee1c700a53aa/poster_sm/8b2b6455-9a9f-495f-92e4-819c46099dae.jpg"
+        },
+        {
+          "id": "sv9",
+          "title": "Как найти время для занятий, как не бросить",
+          "duration": 24,
+          "link": "https://kinescope.io/wFgnfMcS7phNaWN9mNg3Rp",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/06927614-b86d-4f78-8b60-e3ce97326623/poster_sm/20fe947d-aff5-4065-ac1a-adc9657906cf.jpg"
+        },
+        {
+          "id": "sv10",
+          "title": "Когда будет результат? Моя цель - похудеть",
+          "duration": 17,
+          "link": "https://kinescope.io/655WAmPTmDbpg1e6TNFAuc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b40bc70c-9988-430c-a8fe-4fbbdd4fc930/poster_sm/a7ec8443-f955-415b-bae7-c6073859b56b.jpg"
+        },
+        {
+          "id": "sv11",
+          "title": "Когда будет результат? Моя цель - набор мышечной массы",
+          "duration": 16,
+          "link": "https://kinescope.io/i6oZ56MAqp214c29JYWFin",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1fb156a3-17cd-4585-8378-3756af4e8572/poster_sm/4ca70cd9-c622-4469-8b9b-18e918598414.jpg"
+        },
+        {
+          "id": "sv12",
+          "title": "Как заниматься, если были роды",
+          "duration": 10,
+          "link": "https://kinescope.io/kHC2JkeNUmwCJhG55GdEet",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/5ea6cd7e-32e1-4eda-a9b0-43f3980186c5/poster_sm/f3126827-ea83-4f38-be81-1b10a59bbdad.jpg"
+        }
+      ]
+    },
+    {
+      "id": "correction_week1",
+      "name": "1 неделя",
+      "parent": "correction",
+      "videos": [
+        {
+          "id": "k1",
+          "title": "1. Дыхание для выравнивания тела. Отеки",
+          "duration": 34,
+          "link": "https://kinescope.io/2RMXnsZe9BbUBKFvGDw6rf",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/06037940-9dc6-451e-a79e-8120ad0eb946/poster_sm/8bff3867-de2b-4e3c-9ae8-dbba7dd8b355.jpg"
+        },
+        {
+          "id": "k2",
+          "title": "2. Королевская осанка",
+          "duration": 35,
+          "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ddb0db77-c6e6-448f-aa06-6873568ee171/poster_sm/18557d98-941c-4ac1-8f17-e4ff212d8504.jpg"
+        },
+        {
+          "id": "k3",
+          "title": "3. Проблемные зоны бедер",
+          "duration": 31,
+          "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ddb0db77-c6e6-448f-aa06-6873568ee171/poster_sm/18557d98-941c-4ac1-8f17-e4ff212d8504.jpg"
+        },
+        {
+          "id": "k4",
+          "title": "4. Тазовое дно и диафрагма: партнерская работа",
+          "duration": 38,
+          "link": "https://kinescope.io/pNKPfWDKRxCchXpWG97mU9",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/df44666f-6b5e-4999-ae4c-55bb817c9352/poster_sm/52e90a82-6d6b-44cd-8bc6-d5aef67b9bf3.jpg"
+        },
+        {
+          "id": "k5",
+          "title": "5. Отечность в теле и проблемные зоны",
+          "duration": 34,
+          "link": "https://kinescope.io/so6fJbbacRbNpRxx7Pttep",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/cc893135-b7e5-4feb-ba00-7419134fae4b/poster_sm/c5b56d8c-c5b1-46c8-85d1-e4cd695d2d4a.jpg"
+        }
+      ]
+    },
+    {
+      "id": "correction_week2",
+      "name": "2 неделя",
+      "parent": "correction",
+      "videos": [
+        {
+          "id": "k6",
+          "title": "1. Дыхание от отеков, болей, для плоского живота",
+          "duration": 34,
+          "link": "https://kinescope.io/hBG7kKhtqzPRZYxejDy829",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2ad2783a-1b6c-4016-932c-a083546fc9ba/poster_sm/a3245e46-d58b-4014-a242-007025f301b8.jpg"
+        },
+        {
+          "id": "k7",
+          "title": "2. Внутренняя поверхность бедер и тазовое дно",
+          "duration": 32,
+          "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/01186e26-e543-4e79-b42f-c2f3d2e8184c/poster_sm/41e27046-68d3-4232-938d-11ad9f940613.jpg"
+        },
+        {
+          "id": "k8",
+          "title": "3. Отеки бедер, легкость ног",
+          "duration": 33,
+          "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/01186e26-e543-4e79-b42f-c2f3d2e8184c/poster_sm/41e27046-68d3-4232-938d-11ad9f940613.jpg"
+        },
+        {
+          "id": "k9",
+          "title": "4. Эластичность и упругость мышц тазового дна, мобильность таза",
+          "duration": 32,
+          "link": "https://kinescope.io/a2dNyNpay9C6xWZ6ToQcjA",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b01f9c64-818a-4656-94cf-0497e94e1b61/poster_sm/33efc5e6-82e5-4b37-b652-5c73228f5c68.jpg"
+        },
+        {
+          "id": "k10",
+          "title": "5. Холка",
+          "duration": 38,
+          "link": "https://kinescope.io/nmFa3oYTnDmo5DXu4niX2x",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/024c1983-482d-4305-bd77-5e62baac0fbb/poster_sm/ad6d481a-c9a7-4752-9a5d-05202092c888.jpg"
+        }
+      ]
+    },
+    {
+      "id": "correction_week3",
+      "name": "3 неделя",
+      "parent": "correction",
+      "videos": [
+        {
+          "id": "k11",
+          "title": "1. Отеки бедер, целлюлит",
+          "duration": 33,
+          "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/850e0ba5-6c7b-488a-b105-0bc8c317a741/poster_sm/2c89ba82-38ab-48f8-8a1b-af479ae38219.jpg"
+        },
+        {
+          "id": "k12",
+          "title": "2. Тазовое дно, внутренняя поверхность бедер",
+          "duration": 40,
+          "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/850e0ba5-6c7b-488a-b105-0bc8c317a741/poster_sm/2c89ba82-38ab-48f8-8a1b-af479ae38219.jpg"
+        },
+        {
+          "id": "k13",
+          "title": "3. Мышцы пресса",
+          "duration": 32,
+          "link": "https://kinescope.io/0h3r4J3PZw1xBw7nMK8boT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ded04e9a-63ee-4f38-b835-10e03b0d2731/poster_sm/f6803f92-b159-4cf7-ac0b-a35939719934.jpg"
+        },
+        {
+          "id": "k14",
+          "title": "4. Холка, осанка, боли в шее",
+          "duration": 23,
+          "link": "https://kinescope.io/bGJQA7D9VB6qQHVbz4JhJC",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3a0cc716-ada5-409f-9993-8392db07e3e2/poster_sm/eb849e6b-79df-467e-9db6-a098ea8fcd84.jpg"
+        },
+        {
+          "id": "k15",
+          "title": "5. Активация ягодиц",
+          "duration": 33,
+          "link": "https://kinescope.io/2nxiZsiVnj4FsT2YuWeirj",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a7316812-e88d-4fcc-8d65-f9b2e0381b68/poster_sm/8ed900c4-e9fe-42c7-ae45-368e00eb6a38.jpg"
+        }
+      ]
+    },
+    {
+      "id": "correction_week4",
+      "name": "4 неделя",
+      "parent": "correction",
+      "videos": [
+        {
+          "id": "k16",
+          "title": "1. Снятие напряжения с грушевидных мышц",
+          "duration": 35,
+          "link": "https://kinescope.io/g9kmsTwhHPwXPvUGm3gUB6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1eca01f7-6cbb-45da-bf73-7d71f248c3e8/poster_sm/20d74131-c842-4241-8c3c-78265976a0c9.jpg"
+        },
+        {
+          "id": "k17",
+          "title": "2. Внутренняя поверхность бедер, отеки",
+          "duration": 32,
+          "link": "https://kinescope.io/x3ZLujpYmr8zXWP45m43SN",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/665f1dad-3851-4d24-9db4-814b3486e2c7/poster_sm/a816bb0f-74de-43ea-a84e-a8972b118dd4.jpg"
+        },
+        {
+          "id": "k18",
+          "title": "3. Тазовое дно - от расслабления к упругости",
+          "duration": 37,
+          "link": "https://kinescope.io/5M4MrLjDkX2boNASTp9qzY",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2b13a44e-934d-4770-abec-310c1ac73830/poster_sm/5e5ac2da-5007-45d2-ab49-9ea12edb918b.jpg"
+        },
+        {
+          "id": "k19",
+          "title": "4. Мышцы брюшного пресса",
+          "duration": 24,
+          "link": "https://kinescope.io/dbVDVhgfiYdYT75Bqz1M5K",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3f2fc51f-259e-4aa1-8549-b43433fcd738/poster_sm/e903b15b-b953-4470-8179-3258f586426b.jpg"
+        },
+        {
+          "id": "k20",
+          "title": "5. Вздутие живота",
+          "duration": 31,
+          "link": "https://kinescope.io/t2zq14zEEECW94WgJZGa2T",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6f9cdc52-335f-412e-8eb8-c6161e8be11b/poster_sm/eeda4b34-da2f-4ba9-a606-092b5117598c.jpg"
+        }
+      ]
+    },
+        {
+      "id": "correction_week2-1",
+      "name": "1 неделя",
+      "parent": "correction2",
+      "videos": [
+        {
+          "id": "k1-2",
+          "title": "5. Болезненные менструации",
+          "duration": 27,
+          "link": "https://kinescope.io/wivoSmfDzQVzQAELtoxRR6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ece98d6f-a8c9-4808-9c26-5e72845527ea/poster_sm/17ec04ae-17eb-47ce-9af0-112819abff70.jpg"
+        },
+        {
+          "id": "k2-2",
+          "title": "4. Мобильность грудной клетки, свобода шеи и лопаток",
+          "duration": 35,
+          "link": "https://kinescope.io/17fgDuUkm1cyLjitn68Ji9",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b448ff5c-7f52-47e4-9321-fea3933bd86f/poster_sm/6f733a7b-af47-497c-8ac5-e4088dfa805e.jpg"
+        },
+        {
+          "id": "k3-2",
+          "title": "3. Тазовое дно и диафрагма: партнерская работа",
+          "duration": 38,
+          "link": "https://kinescope.io/pNKPfWDKRxCchXpWG97mU9",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/df44666f-6b5e-4999-ae4c-55bb817c9352/poster_sm/52e90a82-6d6b-44cd-8bc6-d5aef67b9bf3.jpg"
+        },
+        {
+          "id": "k4-2",
+          "title": "2. Проблемные зоны бедер, ягодиц",
+          "duration": 36,
+          "link": "https://kinescope.io/mC4oQndNpk7XnTy5DDCsb5",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/17ef3355-7633-4ce0-b40e-d309d6e8969d/poster_sm/8d1ce985-a425-4db8-9b9a-9974076536e2.jpg"
+        },
+        {
+          "id": "k5-2",
+          "title": "1. Дыхание, как основа",
+          "duration": 31,
+          "link": "https://kinescope.io/9JHdNP9SvtQ2CrJ3UDkPbc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d1d2f95a-0530-4731-b555-1264564be8f8/poster_sm/64b36b71-d6bb-4a3d-bef6-03b0b2a77f3e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "correction_week2-2",
+      "name": "2 неделя",
+      "parent": "correction2",
+      "videos": [
+         {
+          "id": "k6-2",
+          "title": "5. Красивые руки",
+          "duration": 35,
+          "link": "https://kinescope.io/6F4hPkMuz1q3Y8eJftPnvT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/145d1f03-4485-47a1-8b5a-cf64f43b40b1/poster_sm/b4dbe432-1783-46a4-9859-8a962e05a678.jpg"
+        },
+        {
+          "id": "k7-2",
+          "title": "4. Внутренняя поверхность бедер и тазовое дно",
+          "duration": 35,
+          "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/01186e26-e543-4e79-b42f-c2f3d2e8184c/poster_sm/41e27046-68d3-4232-938d-11ad9f940613.jpg"
+        },
+        {
+          "id": "k8-2",
+          "title": "3. Осанка",
+          "duration": 35,
+          "link": "https://kinescope.io/7gReRwP7DyrceWjwD29nrK",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ddb0db77-c6e6-448f-aa06-6873568ee171/poster_sm/18557d98-941c-4ac1-8f17-e4ff212d8504.jpg"
+        },
+        {
+          "id": "k9-2",
+          "title": "2. Активация ягодиц, проблемные зоны",
+          "duration": 36,
+          "link": "https://kinescope.io/sxXUnPuNtMzsQmagnQjHJX",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fe6d08e9-1a2f-46b4-b842-1e875b38d14e/poster_sm/74c848a4-2657-46d2-9624-979dd101dacc.jpg"
+        },
+        {
+          "id": "k10-2",
+          "title": "1. Дыхание для выравнивания тела",
+          "duration": 34,
+          "link": "https://kinescope.io/2RMXnsZe9BbUBKFvGDw6rf",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/06037940-9dc6-451e-a79e-8120ad0eb946/poster_sm/8bff3867-de2b-4e3c-9ae8-dbba7dd8b355.jpg"
+        }
+      ]
+    },
+    {
+      "id": "correction_week2-3",
+      "name": "3 неделя",
+      "parent": "correction2",
+      "videos": [
+        {
+          "id": "k11-2",
+          "title": "5. Отеки всего тела",
+          "duration": 34,
+          "link": "https://kinescope.io/so6fJbbacRbNpRxx7Pttep",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/cc893135-b7e5-4feb-ba00-7419134fae4b/poster_sm/c5b56d8c-c5b1-46c8-85d1-e4cd695d2d4a.jpg"
+        },
+        {
+          "id": "k12-2",
+          "title": "4. Мышцы пресса",
+          "duration": 32,
+          "link": "https://kinescope.io/0h3r4J3PZw1xBw7nMK8boT",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ded04e9a-63ee-4f38-b835-10e03b0d2731/poster_sm/f6803f92-b159-4cf7-ac0b-a35939719934.jpg"
+        },
+        {
+          "id": "k13-2",
+          "title": "3. Коррекция таза: передний, задний наклон, перекосы таза",
+          "duration": 32,
+          "link": "https://kinescope.io/soWALiGqDWQVgD1V6j6RJt",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/11096643-d397-4c9c-9780-3ea47d810d72/poster_sm/5503344c-b2d5-46b4-938e-0c089f47fff8.jpg"
+        },
+        {
+          "id": "k14-2",
+          "title": "2. Отеки бедер, целлюлит",
+          "duration": 33,
+          "link": "https://kinescope.io/3iTzyd15Ghz5D6UZeWZyqc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/850e0ba5-6c7b-488a-b105-0bc8c317a741/poster_sm/2c89ba82-38ab-48f8-8a1b-af479ae38219.jpg"
+        },
+        {
+          "id": "k15-2",
+          "title": "1. Осанка",
+          "duration": 32,
+          "link": "https://kinescope.io/rjy9W1V3njfZmWk8VvBo2m",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1d3e1eb5-c820-4f86-9275-e2b9128cfbdf/poster_sm/84f41c0b-a930-47bf-a506-4e267bb17861.jpg"
+        }
+      ]
+    },
+    {
+      "id": "correction_week2-4",
+      "name": "4 неделя",
+      "parent": "correction2",
+      "videos": [
+        {
+          "id": "k16-2",
+          "title": "5. Гибкий позвоночник- красивая осанка, плоский живот",
+          "duration": 25,
+          "link": "https://kinescope.io/jzKyc3BsRA21mhBY92Lfrr",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/4c6b5817-1c69-44bd-88cc-76a6efdeb527/poster_sm/3cfa7904-e005-4574-bc27-4d7aa5a701da.jpg"
+        },
+        {
+          "id": "k17-2",
+          "title": "4. Мышцы тазового дна - от расслабления к упругости",
+          "duration": 37,
+          "link": "https://kinescope.io/5M4MrLjDkX2boNASTp9qzY",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2b13a44e-934d-4770-abec-310c1ac73830/poster_sm/5e5ac2da-5007-45d2-ab49-9ea12edb918b.jpg"
+        },
+        {
+          "id": "k18-2",
+          "title": "3. Пресс",
+          "duration": 25,
+          "link": "https://kinescope.io/sWqJ9YKamNi6fVktoTsZnF",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9e01950e-fe04-402f-88e6-8e8b59b34054/poster_sm/d34dbecc-de9c-4f3d-92e6-c400a9ff9e66.jpg"
+        },
+        {
+          "id": "k19-2",
+          "title": "2. Снятие напряжения с грушевидных мышц",
+          "duration": 35,
+          "link": "https://kinescope.io/g9kmsTwhHPwXPvUGm3gUB6",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1eca01f7-6cbb-45da-bf73-7d71f248c3e8/poster_sm/20d74131-c842-4241-8c3c-78265976a0c9.jpg"
+        },
+        {
+          "id": "k20-2",
+          "title": "1. тазовое дно, внутренняя поверхность бёдер",
+          "duration": 40,
+          "link": "https://kinescope.io/hZ48j7G6uqgQ5Yk6Yc6q8Z",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c8c2d511-f4ad-4e69-a12b-03e95c24e388/poster_sm/c15be5e3-20c3-41ed-9b70-e5ade85c1e52.jpg"
+        }
+      ]
+    },
+    {
+      "id": "strength",
+      "name": "Курс Силовой",
+      "videos": [
+        {
+          "id": "s1",
+          "title": "Силовая ягодицы и бедра",
+          "duration": 41,
+          "link": "https://kinescope.io/tYwZ12MT1B82zAExfVUwAF",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/5a747a80-8314-440a-96b3-9c84f8420529/poster_sm/fc61f30a-9b38-46c3-8e1a-efcf20375799.jpg"
+        },
+        {
+          "id": "s2",
+          "title": "Верхний плечевой пояс",
+          "duration": 51,
+          "link": "https://kinescope.io/36hGkZTsfWnF3EiJ9qgWsh",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6907bcf9-ac00-4e8b-9207-e2b005214426/poster_sm/f90e76b1-37c3-4b60-bb36-f39a4bb64e76.jpg"
+        },
+        {
+          "id": "s3",
+          "title": "Круговая ягодицы - кор",
+          "duration": 23,
+          "link": "https://kinescope.io/wEXUsCVVJREp1JBbz48w4v",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c64ff771-1388-42d4-b054-f3755b68714f/poster_sm/e07eab44-feda-48a8-bab4-6a0289fe1ee4.jpg"
+        },
+        {
+          "id": "s4",
+          "title": "Ягодицы базовая",
+          "duration": 41,
+          "link": "https://kinescope.io/oxNMYQjARrtM5zR9vxR8mH",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/3c904df6-9745-4068-8676-363c46e1e202/poster_sm/b6888168-ca95-41b0-877b-bb66440f318c.jpg"
+        },
+        {
+          "id": "s5",
+          "title": "Внутренняя поверхность бедер и тазовое дно",
+          "duration": 36,
+          "link": "https://kinescope.io/qujerQMZtsh7nQhC88U25j",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/01186e26-e543-4e79-b42f-c2f3d2e8184c/poster_sm/41e27046-68d3-4232-938d-11ad9f940613.jpg"
+        },
+        {
+          "id": "s6",
+          "title": "Силовая на верхний плечевой пояс",
+          "duration": 60,
+          "link": "https://kinescope.io/taZyyLvdj9URnqmNjWKuK4",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b2ca8e80-11a3-4759-bf72-57432e16931b/poster_sm/fa8a9201-65e7-491b-9d14-49bda386f8ef.jpg"
+        },
+        {
+          "id": "s7",
+          "title": "Раскрытие, эластичность таза",
+          "duration": 20,
+          "link": "https://kinescope.io/d7tYVjPgfgBYkKtiSgx13x",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f54aa3d6-e814-46d3-91cf-7e54812ec482/poster_sm/1a730f80-7ae3-4fbb-8619-1b69277a15e0.jpg"
+        },
+        {
+          "id": "s8",
+          "title": "Круговая «Ягодицы, КОР»",
+          "duration": 16,
+          "link": "https://kinescope.io/bhds1hpJR7WUtjQ4cNdfbJ",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/514e86dc-6a63-45f6-a683-211073d877b4/poster_sm/2dc5939b-180c-4499-bb64-d45932095de1.jpg"
+        },
+        {
+          "id": "s9",
+          "title": "Коррекция эластичность бедер, раскрытие таза",
+          "duration": 21,
+          "link": "https://kinescope.io/5gmdKVwMUBLPvRCi8xUAp9",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b5cb90a4-8fc8-44fb-9fcf-1d234985a7ca/poster_sm/0f503355-97cc-49c3-b4dc-ca8ce761831c.jpg"
+        },
+        {
+          "id": "s10",
+          "title": "Силовая верхний плечевой",
+          "duration": 42,
+          "link": "https://kinescope.io/3f1vVVd93aRraHVJQNMp45",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b16c9138-3e89-4516-a926-8f5bb086d63f/poster_sm/b08ae5ae-7c5b-4c2c-97ef-4a476cdfb16a.jpg"
+        },
+        {
+          "id": "s11",
+          "title": "Круговая ягодичная",
+          "duration": 25,
+          "link": "https://kinescope.io/pYA2xfQSVU51Pwb9kiKwo1",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fd452500-16fe-4cfe-879d-ae678551ff7b/poster_sm/ac15f43a-12ae-4b69-9a4a-416aee5d70e4.jpg"
+        },
+        {
+          "id": "s12",
+          "title": "Силовая ягодицы",
+          "duration": 32,
+          "link": "https://kinescope.io/vYmBbUwHwGvLfFJ4WyFSDc",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2cc7a63c-5de0-4c36-817c-a40c25af480e/poster_sm/9881b1ca-db34-4ea7-9625-4add5c5a9250.jpg"
+        },
+        {
+          "id": "s13",
+          "title": "Силовая верхний плечевой пояс",
+          "duration": 41,
+          "link": "https://kinescope.io/idivkK1VLRP1MZjJdzCEnW",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0a47d9ce-9e5f-4597-a982-aae75126bce9/poster_sm/902b72a9-a6d5-402d-9164-f092d429635d.jpg"
+        },
+        {
+          "id": "s14",
+          "title": "Активация ягодиц и мобильность таза",
+          "duration": 24,
+          "link": "https://kinescope.io/f59mUFjzJ9NJh6vTNNGDGx",
+          "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/988c7005-4412-4b04-adef-1a11c5b99547/poster_sm/3a33da27-6289-4b0a-91f7-10d6e768423e.jpg"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "version": "2.0",
+    "parent_groups": {
+      "bonus": "Тренировки",
+      "lifestyle": "Питание и образ жизни",
+      "correction": "«Коррекция» Май",
+      "correction2": "«Коррекция» Июнь"
+    }
   }
-
-]
+}
