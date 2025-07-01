@@ -7,6 +7,41 @@
             "videos":
             [
                 {
+                    "id": "z32",
+                    "title": "Язык",
+                    "link": "https://kinescope.io/gWbegbbnQes3m3MPyGSMXg",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ce90bb12-416d-442d-bc12-c31dcfb86a2f/poster_sm/3865194b-b735-441f-b418-f7b97cfaa478.jpg",
+                    "duration": 18
+                },
+                {
+                    "id": "z33",
+                    "title": "Колени",
+                    "link": "https://kinescope.io/4Q9youw5HUnMsoeN1D2mWG",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c7a0f9b1-3c96-4b3e-8faf-b174b5875e1c/poster_sm/f702912a-0737-4dae-a2e1-38ff3bb92675.jpg",
+                    "duration": 21
+                },
+                {
+                    "id": "z34",
+                    "title": "Напряжение в шее, спине (подходит для офиса)",
+                    "link": "https://kinescope.io/81raKUvpYvSvFWB59TYqgf",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fb25dd34-f59b-41e3-8a00-38e4736c4681/poster_sm/7b719dc6-501d-4fc2-8b2b-93902da3979d.jpg",
+                    "duration": 15
+                },
+                {
+                    "id": "z35",
+                    "title": "Все тело",
+                    "link": "https://kinescope.io/ext8ghCJa9X526bXuEbL6R",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/8f3fafe2-93af-48a3-962d-39064b7b349d/poster_sm/957ca951-fece-4177-b879-39112c1bdff9.jpg",
+                    "duration": 15
+                },
+                {
+                    "id": "z36",
+                    "title": "Мягкая зарядка на все тело",
+                    "link": "https://kinescope.io/6PgwUgr8JTtteQnGkZUQXc",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1ed3e8b3-5f49-457a-9656-e9ed50d0bee9/poster_sm/466c5749-6157-434e-a7dd-104047d19636.jpg",
+                    "duration": 15
+                },
+                {
                     "id": "z1",
                     "title": "Стоя на все тело",
                     "duration": 12,
@@ -232,6 +267,20 @@
             "videos":
             [
                 {
+                    "id": "bb5",
+                    "title": "Дыхание для выравнивания",
+                    "link": "https://kinescope.io/5uygqA8pzpyzWGie85mdv4",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/4d4452dc-83fc-4ba3-a76b-229957cfa4d6/poster_sm/70989f79-83e1-43a0-bd3e-0a1ad367aac7.jpg",
+                    "duration": 35
+                },
+                {
+                    "id": "bb6",
+                    "title": "Дыхание",
+                    "link": "https://kinescope.io/mrieosZUxYk1Vo38wyaViR",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/8a545075-e34f-4817-a4d6-60795ffa6489/poster_sm/be58153f-5c50-40f0-a9db-15d56583fd93.jpg",
+                    "duration": 38
+                },
+                {
                     "id": "b1",
                     "title": "Дыхание как основа",
                     "duration": 32,
@@ -305,10 +354,31 @@
         },
         {
             "id": "neck_shoulders",
-            "name": "Боли в шее и между лопаток / Лицо / ВНЧС",
+            "name": "Боли в шее / между лопаток / Лицо / ВНЧС",
             "parent": "bonus",
             "videos":
             [
+                {
+                    "id": "bb15",
+                    "title": "Мобильность грудной клетки, свобода шеи, лопаток",
+                    "link": "https://kinescope.io/5jpyvQ9YKVBVYKejX8djHy",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/449c8ec3-5c75-4411-bdd3-2e3999cb9cce/poster_sm/559e771b-15d3-4b13-a061-4ca368123a8f.jpg",
+                    "duration": 32
+                },
+                {
+                    "id": "bb16",
+                    "title": "Мобильность грудной клетки и отсутствие отеков",
+                    "link": "https://kinescope.io/jRYY1Xue9h7JsbgFLCdPwJ",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/72516ebd-e442-4cde-b99d-2d32dc87ea58/poster_sm/7f9bebfe-95c5-4c74-826f-520f2bf8f405.jpg",
+                    "duration": 39
+                },
+                {
+                    "id": "bb17",
+                    "title": "Выравнивание тела, красивая осанка",
+                    "link": "https://kinescope.io/dQBTLgPmmPt5DeQpmXaGtu",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/95ba364e-480d-443f-8a12-f9fb4d1ff7d2/poster_sm/706986d9-c933-4e94-9131-4554b34a90d7.jpg",
+                    "duration": 28
+                },
                 {
                     "id": "b9",
                     "title": "Антихолка",
@@ -416,6 +486,20 @@
             "videos":
             [
                 {
+                    "id": "bb4",
+                    "title": "Снятия напряжения с региона таза, устранение отечности бёдер и активация ягодичных мышц",
+                    "link": "https://kinescope.io/a5oR4ympkPADZTdeXb46nd",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/802d47d9-cd5c-4228-aa01-c5fe807bdaed/poster_sm/111c5a03-a80c-480e-a3de-ae6c9f12b359.jpg",
+                    "duration": 36
+                },
+                {
+                    "id": "bb5",
+                    "title": "Напряжение в пояснице и отечность бедер",
+                    "link": "https://kinescope.io/0MMNmbJbSyn79bvoev3t22",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/89d74ea2-03cd-4386-8230-95bc08e99c8d/poster_sm/e78339f3-eef1-4260-b437-3c796a1df59c.jpg",
+                    "duration": 26
+                },
+                {
                     "id": "b21",
                     "title": "Алгоритмы . Таз",
                     "duration": 15,
@@ -486,6 +570,41 @@
             "parent": "bonus",
             "videos":
             [
+                {
+                    "id": "bb7",
+                    "title": "Снятие напряжения с таза, знакомство с тазовым дном",
+                    "link": "https://kinescope.io/bEWXVZ9FG5CiaQjdTB3ymR",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9ea745f9-f9ec-4292-9e7e-58aedc58d40b/poster_sm/776fb078-3db1-45d7-9dce-53c9ab0f9f76.jpg",
+                    "duration": 32
+                },
+                {
+                    "id": "bb8",
+                    "title": "Вздутия",
+                    "link": "https://kinescope.io/mWsTacRqDatx7q7zVbNXBs",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/753f09c9-077e-4744-9470-7989a708da4a/poster_sm/43b24269-bc82-4517-b850-e130355f2640.jpg",
+                    "duration": 32
+                },
+                {
+                    "id": "bb9",
+                    "title": "Крепкий и функциональный КОР",
+                    "link": "https://kinescope.io/6Y9yGUXjpZQSeWttkkzKMK",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/50886f05-16ed-4f83-951c-17c5866bc494/poster_sm/ad017937-1af5-4f15-8751-38c43dffd23b.jpg",
+                    "duration": 37
+                },
+                {
+                    "id": "bb10",
+                    "title": "Живот, таз, тазовое дно",
+                    "link": "https://kinescope.io/seHsJqct5a25DebFNoju5N",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/4c955397-be0e-400d-bca9-5e654def8241/poster_sm/46d56307-da69-4b42-979d-7bd7c9fd0aab.jpg",
+                    "duration": 33
+                },
+                {
+                    "id": "bb11",
+                    "title": "Отечность, вздутие живота",
+                    "link": "https://kinescope.io/a8JRUaKYron9hKqVeS863v",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7ff2e522-724e-439c-86c6-58386971f0e6/poster_sm/cd5f125f-138b-4d68-82e3-c2316499452e.jpg",
+                    "duration": 27
+                },
                 {
                     "id": "b30",
                     "title": "Пробуждение МТД",
@@ -628,6 +747,27 @@
             "videos":
             [
                 {
+                    "title": "Отеки бедер, дряблсть внутреннее поверхность",
+                    "link": "https://kinescope.io/xbJEy5xqrddvZEXX4pEL4f",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/eef59eed-b905-406e-b0fc-259216307aa3/poster_sm/1dbf960e-8e4f-4d21-8328-854652210a18.jpg",
+                    "duration": 37,
+                    "id": "bb1"
+                },
+                {
+                    "title": "Мобильность таза, галифе, дряблость бедер",
+                    "link": "https://kinescope.io/0SL2St3kCRyvhEPDn39dGe",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b058536e-a80d-42e0-a6ec-02c64d8459fa/poster_sm/761070f2-cb63-4c93-a53b-8e701cd16ece.jpg",
+                    "duration": 28,
+                    "id": "bb2"
+                },
+                {
+                    "title": "Мобильность таза, отеки бедер",
+                    "link": "https://kinescope.io/vcMBHrfp2fWHJEEfLjTT7f",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/796ae63e-a16e-4f87-88fd-09d723949204/poster_sm/9f81d46b-1fd8-40a8-9237-66838d3649e5.jpg",
+                    "duration": 25,
+                    "id": "bb3"
+                },
+                {
                     "id": "b42",
                     "title": "От галифе и отеков бедер",
                     "duration": 42,
@@ -748,6 +888,13 @@
             "videos":
             [
                 {
+                    "id": "bb18",
+                    "title": "колени и стопы",
+                    "link": "https://kinescope.io/0UBrNQVFPepams5u4z3oCk",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/8ed54a62-9e02-49cf-b57a-3761b8049f63/poster_sm/8a2dc638-ee49-49f1-9aa1-0fcdbcd88f48.jpg",
+                    "duration": 26
+                },
+                {
                     "id": "b51",
                     "title": "Колени, стопы",
                     "duration": 21,
@@ -783,6 +930,27 @@
             "parent": "bonus",
             "videos":
             [
+                {
+                    "id": "bb12",
+                    "title": "Комплекс после дороги",
+                    "link": "https://kinescope.io/wxE5capymHQdqpVpmL9QSi",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/908f5c58-0151-400e-aae4-19447550eebf/poster_sm/7016aec5-b500-47b5-9c33-77871d60b3c5.jpg",
+                    "duration": 31
+                },
+                {
+                    "id": "bb13",
+                    "title": "Всё тело: от простого к сложному",
+                    "link": "https://kinescope.io/uprvcpTc2gboUnDomLnkyd",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d20d6ad2-f33f-49e0-8ff0-56ba65629946/poster_sm/6784ea09-9e07-484c-8ecc-86dfd16fbfdc.jpg",
+                    "duration": 35
+                },
+                {
+                    "id": "bb14",
+                    "title": "Комплексная тренировка по выравниванию",
+                    "link": "https://kinescope.io/a9FYmo2HdzGszZnro7ZSYM",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/c632ccf0-e4ce-40ba-9fcb-fa7a4a3cd71d/poster_sm/7e26068e-913d-4eb4-b908-b52b168dad24.jpg",
+                    "duration": 21
+                },
                 {
                     "id": "b55",
                     "title": "Мягкая практика на всё тело",
@@ -962,254 +1130,6 @@
             ]
         },
         {
-            "id": "nutrition_diet",
-            "name": "Питание и питьевой режим",
-            "parent": "lifestyle",
-            "videos":
-            [
-                {
-                    "id": "pl_pp1",
-                    "title": "Про белок",
-                    "duration": 53,
-                    "link": "https://kinescope.io/jz18mNZXEwCyKYAzf1NYxm",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/56fc8ae7-2d8b-4d23-98fa-531bcfac2229/poster_sm/c568449c-fac7-485a-b8a8-843ce9b8c074.jpg"
-                },
-                {
-                    "id": "pl_pp2",
-                    "title": "Жиры",
-                    "duration": 31,
-                    "link": "https://kinescope.io/0ntAcji8AdFdXoX8rnht3C",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0c86bd7c-1c9d-4af4-91f6-24f46ff5cb59/poster_sm/bcbce7cf-da74-4de3-97f4-65b069ffbc0b.jpg"
-                },
-                {
-                    "id": "pl_pp3",
-                    "title": "Углеводы",
-                    "duration": 41,
-                    "link": "https://kinescope.io/7paTjoQeeDkZJsPa11JMxL",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f2fc1499-a662-48c6-b13e-3f479921f001/poster_sm/c4103ce2-238c-4d39-8312-d8ea5ecd644c.jpg"
-                },
-                {
-                    "id": "pl_pp4",
-                    "title": "Рацион",
-                    "duration": 10,
-                    "link": "https://kinescope.io/psEw1HMm6eZyjUoaDGc3qX",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1a40be42-004a-4feb-a466-b6c7a564e44c/poster_sm/e0fe7846-c497-4851-9f04-6f5dea1a5468.jpg"
-                },
-                {
-                    "id": "pl_pp5",
-                    "title": "Тяга к сладкому",
-                    "duration": 35,
-                    "link": "https://kinescope.io/mii7q9TKP4yZxvBpbGRfnZ",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7a66f963-a2a3-4c98-b131-8e00473922b1/poster_sm/e10b6db6-337b-43d1-bb2c-f25bdc5a8aee.jpg"
-                },
-                {
-                    "id": "pl_pp6",
-                    "title": "Похудение",
-                    "duration": 39,
-                    "link": "https://kinescope.io/kkwQrYi5JzUKGWWCZ2NCMD",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9856ba31-3058-4503-8127-f1b155f8414e/poster_sm/35349142-15a2-498a-a8b2-1127fa2a85cf.jpg"
-                },
-                {
-                    "id": "pl_pp7",
-                    "title": "Стресс и сон",
-                    "duration": 28,
-                    "link": "https://kinescope.io/oQvdgBxgk8HGR1195goctq",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6872d3fd-1e4a-4c0f-bd68-68c54d873c94/poster_sm/f6126b0c-7bf4-4f31-8653-69cad086c5b0.jpg"
-                },
-                {
-                    "id": "pl_pp8",
-                    "title": "Сон Часть 1",
-                    "duration": 69,
-                    "link": "https://kinescope.io/i2riMJR5wQvrWQs4qANHA1",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2f7b941f-5bab-438a-949b-940fbfe3151f/poster_sm/cae8a41f-57ce-43d1-a978-24b05ba44dd1.jpg"
-                },
-                {
-                    "id": "pl_pp9",
-                    "title": "Эфир о Теплой воде Как просто избавиться от отеков и сложностей с жкт",
-                    "duration": 22,
-                    "link": "https://kinescope.io/5zm6GMrbsVoti3NGMkbwFT",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/758751b3-7864-4dc8-af15-875c5f7690b6/poster_sm/14e5b8fe-90ca-4809-90e5-8ee587077feb.jpg"
-                },
-                {
-                    "id": "pl_pp10",
-                    "title": "Питьевой режим",
-                    "duration": 26,
-                    "link": "https://kinescope.io/n1yDX42kSrCDqkmyxbE5H6",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fe1df0d6-7b29-4bb7-9ad2-5d4efc76f6af/poster_sm/1ec273f1-a443-4f7f-ae8e-8bf07b62cd9f.jpg"
-                },
-                {
-                    "id": "pl_pp11",
-                    "title": "Тренируем насмотренность",
-                    "duration": 12,
-                    "link": "https://kinescope.io/tWYnXYJnV4ETvvqmQ1MUqb",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/aafeb3f3-89f3-4f3a-a6d0-1cdf7c23079f/poster_sm/ce520878-3eb6-4137-8ec8-69d119fa2352.jpg"
-                }
-            ]
-        },
-        {
-            "id": "womens_health",
-            "name": "Женское здоровье",
-            "parent": "lifestyle",
-            "videos":
-            [
-                {
-                    "id": "pl_wz1",
-                    "title": "Гипотериоз",
-                    "duration": 46,
-                    "link": "https://kinescope.io/o135E2We5gjp8vRrqWK9ou",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/59da5bd9-9021-4bae-84c6-03c4290bd630/poster_sm/6649350a-b04c-46b6-b6e1-5883497376bd.jpg"
-                },
-                {
-                    "id": "pl_wz2",
-                    "title": "Железо дефицит Full",
-                    "duration": 120,
-                    "link": "https://kinescope.io/e5eB9FnunAYsmpie7k6Zk7",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d2510e35-a5ce-48ed-91d9-16c55b743d4d/poster_sm/b79877c8-c13b-4f79-a034-dd7e2ebd3e57.jpg"
-                },
-                {
-                    "id": "pl_wz3",
-                    "title": "женское здоровье",
-                    "duration": 86,
-                    "link": "https://kinescope.io/aYhS44ysbY4tFFc8dvZowW",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a86ef7b6-2c88-4de5-9818-499f58d8ab1c/poster_sm/e96ffd9d-bd95-4d5d-a735-6df87a9a2313.jpg"
-                },
-                {
-                    "id": "pl_wz4",
-                    "title": "Отёки",
-                    "duration": 42,
-                    "link": "https://kinescope.io/o6P8zsvHhDt3xgih5RAudT",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/49d4b5f1-9791-47bd-8938-f96e10e4bb8d/poster_sm/04e6de77-fa40-4c9b-b2e0-3d52f429fa16.jpg"
-                }
-            ]
-        },
-        {
-            "id": "lifestyle_general",
-            "name": "Образ жизни",
-            "parent": "lifestyle",
-            "videos":
-            [
-                {
-                    "id": "pl_oz1",
-                    "title": "Лайфхаки для жизни",
-                    "duration": 19,
-                    "link": "https://kinescope.io/p49RpzLMexen9HjMDy3jKn",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/22f2d46b-e388-4300-8f84-e6b067b6ccff/poster_sm/728df507-6a78-480d-907f-60aeb37a9f3f.jpg"
-                },
-                {
-                    "id": "pl_oz2",
-                    "title": "Комплекс и результат",
-                    "duration": 22,
-                    "link": "https://kinescope.io/5RVurWj1VdrjG6Zd38tP1U",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ec279d3b-3f82-40ea-b841-3cefc3a9ca27/poster_sm/ac79296a-7dc7-4d35-ac0b-b288e1011310.jpg"
-                },
-                {
-                    "id": "pl_oz3",
-                    "title": "Комплексный подход",
-                    "duration": 38,
-                    "link": "https://kinescope.io/pKDpzdWho7qchBR2EZnZii",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6ea9e971-101b-489f-b5d4-2aa067b11733/poster_sm/7161603c-2d88-48ea-8b9c-2b50b2ec33ee.jpg"
-                },
-                {
-                    "id": "pl_oz4",
-                    "title": "Как не переедать в праздники и помочь себе после",
-                    "duration": 22,
-                    "link": "https://kinescope.io/pitdWmySmuexc8HNYCeRVV",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/df250d7f-97b5-4227-a7a3-dafb76f5df1c/poster_sm/4afe9c6c-0519-482e-947e-c46a0399fc4b.jpg"
-                }
-            ]
-        },
-        {
-            "id": "tips",
-            "name": "Советы",
-            "videos":
-            [
-                {
-                    "id": "sv1",
-                    "title": "Строение таза и техника тазовых часов",
-                    "duration": 22,
-                    "link": "https://kinescope.io/oPTc3psBfXk9h9gUkLaeDp",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f482659d-a3fe-4e71-9154-9a2e69fe817a/poster_sm/de2a22db-d7c5-4527-8901-1a4bd0448662.jpg"
-                },
-                {
-                    "id": "sv2",
-                    "title": "Как найти мышцы тазового дна?",
-                    "duration": 17,
-                    "link": "https://kinescope.io/f3QZgkfLzArAV9tj2iH1pz",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/75ec56fc-1059-4280-8afb-d4cd9703e43a/poster_sm/e9cd7e65-8d54-4998-b88f-f2ec1ed747f7.jpg"
-                },
-                {
-                    "id": "sv3",
-                    "title": "Уровни сложности, кому и зачем ?",
-                    "duration": 8,
-                    "link": "https://kinescope.io/jkL65mukmTZ7ca3aEwv9zM",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f608e184-696f-437b-9c1a-a8a4e7053f2d/poster_sm/61989b4a-6a66-45e1-9fce-e90e2ef60f91.jpg"
-                },
-                {
-                    "id": "sv4",
-                    "title": "Что такое «домик»",
-                    "duration": 13,
-                    "link": "https://kinescope.io/bmHCNw89Fb8Tt56hRMUyta",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/8eb71cad-20ec-4c13-9491-54140f224476/poster_sm/4d317fe2-17bf-4fa0-8179-3d1376a2f645.jpg"
-                },
-                {
-                    "id": "sv5",
-                    "title": "Разбор BRIDGING",
-                    "duration": 12,
-                    "link": "https://kinescope.io/itntnraMScRjGCGQTpo1no",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/641c5563-58ce-4fb3-bca8-1f8a4dc93fb2/poster_sm/80eaa27a-8e18-4937-ab6b-7b7097c66ef2.jpg"
-                },
-                {
-                    "id": "sv6",
-                    "title": "Разбор четырёхугольника",
-                    "duration": 8,
-                    "link": "https://kinescope.io/3pZ63qR19moqPfoAL8WhE4",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ab3269c4-5db3-438c-9819-79c2ac4dd5ab/poster_sm/d8fb1cf6-afb8-4bb1-a791-3be087fcefc9.jpg"
-                },
-                {
-                    "id": "sv7",
-                    "title": "Положение зет-седа и техника русалки",
-                    "duration": 9,
-                    "link": "https://kinescope.io/smrZNgy5XgWMX9895QGqTQ",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b0ee0dc5-1961-42f5-8ae2-6d104c4b76aa/poster_sm/1f7073fc-32af-47c1-b98a-ca47a55488b0.jpg"
-                },
-                {
-                    "id": "sv8",
-                    "title": "Как заниматься во время и после беременности?",
-                    "duration": 14,
-                    "link": "https://kinescope.io/6JpsrQnZrjJPB1TTrqGq65",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0fc1d02d-ef22-428f-bfdc-ee1c700a53aa/poster_sm/8b2b6455-9a9f-495f-92e4-819c46099dae.jpg"
-                },
-                {
-                    "id": "sv9",
-                    "title": "Как найти время для занятий, как не бросить",
-                    "duration": 24,
-                    "link": "https://kinescope.io/wFgnfMcS7phNaWN9mNg3Rp",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/06927614-b86d-4f78-8b60-e3ce97326623/poster_sm/20fe947d-aff5-4065-ac1a-adc9657906cf.jpg"
-                },
-                {
-                    "id": "sv10",
-                    "title": "Когда будет результат? Моя цель - похудеть",
-                    "duration": 17,
-                    "link": "https://kinescope.io/655WAmPTmDbpg1e6TNFAuc",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b40bc70c-9988-430c-a8fe-4fbbdd4fc930/poster_sm/a7ec8443-f955-415b-bae7-c6073859b56b.jpg"
-                },
-                {
-                    "id": "sv11",
-                    "title": "Когда будет результат? Моя цель - набор мышечной массы",
-                    "duration": 16,
-                    "link": "https://kinescope.io/i6oZ56MAqp214c29JYWFin",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1fb156a3-17cd-4585-8378-3756af4e8572/poster_sm/4ca70cd9-c622-4469-8b9b-18e918598414.jpg"
-                },
-                {
-                    "id": "sv12",
-                    "title": "Как заниматься, если были роды",
-                    "duration": 10,
-                    "link": "https://kinescope.io/kHC2JkeNUmwCJhG55GdEet",
-                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/5ea6cd7e-32e1-4eda-a9b0-43f3980186c5/poster_sm/f3126827-ea83-4f38-be81-1b10a59bbdad.jpg"
-                }
-            ]
-        },
-        {
             "id": "correction_week1",
             "name": "1 неделя",
             "parent": "correction",
@@ -1382,7 +1302,7 @@
             ]
         },
         {
-            "id": "correction_week2-1",
+            "id": "correction_week_june1",
             "name": "1 неделя",
             "parent": "correction2",
             "videos":
@@ -1425,7 +1345,7 @@
             ]
         },
         {
-            "id": "correction_week2-2",
+            "id": "correction_week_june2",
             "name": "2 неделя",
             "parent": "correction2",
             "videos":
@@ -1468,7 +1388,7 @@
             ]
         },
         {
-            "id": "correction_week2-3",
+            "id": "correction_week_june3",
             "name": "3 неделя",
             "parent": "correction2",
             "videos":
@@ -1511,7 +1431,7 @@
             ]
         },
         {
-            "id": "correction_week2-4",
+            "id": "correction_week_june4",
             "name": "4 неделя",
             "parent": "correction2",
             "videos":
@@ -1655,6 +1575,275 @@
                     "duration": 24,
                     "link": "https://kinescope.io/f59mUFjzJ9NJh6vTNNGDGx",
                     "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/988c7005-4412-4b04-adef-1a11c5b99547/poster_sm/3a33da27-6289-4b0a-91f7-10d6e768423e.jpg"
+                }
+            ]
+        },
+        {
+            "id": "nutrition_diet",
+            "name": "Питание и питьевой режим",
+            "parent": "lifestyle",
+            "videos":
+            [
+                {
+                    "id": "pl_pp1",
+                    "title": "Про белок",
+                    "duration": 53,
+                    "link": "https://kinescope.io/jz18mNZXEwCyKYAzf1NYxm",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/56fc8ae7-2d8b-4d23-98fa-531bcfac2229/poster_sm/c568449c-fac7-485a-b8a8-843ce9b8c074.jpg"
+                },
+                {
+                    "id": "pl_pp2",
+                    "title": "Жиры",
+                    "duration": 31,
+                    "link": "https://kinescope.io/0ntAcji8AdFdXoX8rnht3C",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0c86bd7c-1c9d-4af4-91f6-24f46ff5cb59/poster_sm/bcbce7cf-da74-4de3-97f4-65b069ffbc0b.jpg"
+                },
+                {
+                    "id": "pl_pp3",
+                    "title": "Углеводы",
+                    "duration": 41,
+                    "link": "https://kinescope.io/7paTjoQeeDkZJsPa11JMxL",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f2fc1499-a662-48c6-b13e-3f479921f001/poster_sm/c4103ce2-238c-4d39-8312-d8ea5ecd644c.jpg"
+                },
+                {
+                    "id": "pl_pp4",
+                    "title": "Рацион",
+                    "duration": 10,
+                    "link": "https://kinescope.io/psEw1HMm6eZyjUoaDGc3qX",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1a40be42-004a-4feb-a466-b6c7a564e44c/poster_sm/e0fe7846-c497-4851-9f04-6f5dea1a5468.jpg"
+                },
+                {
+                    "id": "pl_pp5",
+                    "title": "Тяга к сладкому",
+                    "duration": 35,
+                    "link": "https://kinescope.io/mii7q9TKP4yZxvBpbGRfnZ",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/7a66f963-a2a3-4c98-b131-8e00473922b1/poster_sm/e10b6db6-337b-43d1-bb2c-f25bdc5a8aee.jpg"
+                },
+                {
+                    "id": "pl_pp6",
+                    "title": "Похудение",
+                    "duration": 39,
+                    "link": "https://kinescope.io/kkwQrYi5JzUKGWWCZ2NCMD",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/9856ba31-3058-4503-8127-f1b155f8414e/poster_sm/35349142-15a2-498a-a8b2-1127fa2a85cf.jpg"
+                },
+                {
+                    "id": "pl_pp7",
+                    "title": "Стресс и сон",
+                    "duration": 28,
+                    "link": "https://kinescope.io/oQvdgBxgk8HGR1195goctq",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6872d3fd-1e4a-4c0f-bd68-68c54d873c94/poster_sm/f6126b0c-7bf4-4f31-8653-69cad086c5b0.jpg"
+                },
+                {
+                    "id": "pl_pp8",
+                    "title": "Сон Часть 1",
+                    "duration": 69,
+                    "link": "https://kinescope.io/i2riMJR5wQvrWQs4qANHA1",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/2f7b941f-5bab-438a-949b-940fbfe3151f/poster_sm/cae8a41f-57ce-43d1-a978-24b05ba44dd1.jpg"
+                },
+                {
+                    "id": "pl_pp9",
+                    "title": "Эфир о Теплой воде Как просто избавиться от отеков и сложностей с жкт",
+                    "duration": 22,
+                    "link": "https://kinescope.io/5zm6GMrbsVoti3NGMkbwFT",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/758751b3-7864-4dc8-af15-875c5f7690b6/poster_sm/14e5b8fe-90ca-4809-90e5-8ee587077feb.jpg"
+                },
+                {
+                    "id": "pl_pp10",
+                    "title": "Питьевой режим",
+                    "duration": 26,
+                    "link": "https://kinescope.io/n1yDX42kSrCDqkmyxbE5H6",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/fe1df0d6-7b29-4bb7-9ad2-5d4efc76f6af/poster_sm/1ec273f1-a443-4f7f-ae8e-8bf07b62cd9f.jpg"
+                },
+                {
+                    "id": "pl_pp11",
+                    "title": "Тренируем насмотренность",
+                    "duration": 12,
+                    "link": "https://kinescope.io/tWYnXYJnV4ETvvqmQ1MUqb",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/aafeb3f3-89f3-4f3a-a6d0-1cdf7c23079f/poster_sm/ce520878-3eb6-4137-8ec8-69d119fa2352.jpg"
+                }
+            ]
+        },
+        {
+            "id": "womens_health",
+            "name": "Женское здоровье",
+            "parent": "lifestyle",
+            "videos":
+            [
+                {
+                    "id": "pl_wz5",
+                    "title": "Щитовидная железа ",
+                    "link": "https://kinescope.io/0MtBkGvYmTQba4X9mMWkTh",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/222b4d5f-d1fc-4eee-8472-741d44ac4263/posters/e6987260-e376-43d4-8faa-dd63a3648f77/poster_sm/ff50dadc-e75e-4f64-b749-7008b6432a8c.jpg",
+                    "duration": 76
+                },
+                {
+                    "id": "pl_wz6",
+                    "title": "Железный статус ",
+                    "link": "https://kinescope.io/73oochfzV4E45AnwPV7qe8",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/222b4d5f-d1fc-4eee-8472-741d44ac4263/posters/da63d3c0-456a-48ad-98b4-49d01f83e0ae/poster_sm/c7c32834-a2f8-4b01-a09f-980cb437ecc2.jpg",
+                    "duration": 77
+                },
+                {
+                    "id": "pl_wz7",
+                    "title": "тренировка мочевого пузыря - что это и кому?",
+                    "link": "https://kinescope.io/cT9uG9YpUQ2sqq7RNQyhUC",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/126dc141-1607-4b1a-997a-69bfcae8be21/poster_sm/cbf86a1b-2d90-4afe-a4b2-438d63637232.jpg",
+                    "duration": 15
+                },
+                {
+                    "id": "pl_wz1",
+                    "title": "Гипотериоз",
+                    "duration": 46,
+                    "link": "https://kinescope.io/o135E2We5gjp8vRrqWK9ou",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/59da5bd9-9021-4bae-84c6-03c4290bd630/poster_sm/6649350a-b04c-46b6-b6e1-5883497376bd.jpg"
+                },
+                {
+                    "id": "pl_wz2",
+                    "title": "Железо дефицит Full",
+                    "duration": 120,
+                    "link": "https://kinescope.io/e5eB9FnunAYsmpie7k6Zk7",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/d2510e35-a5ce-48ed-91d9-16c55b743d4d/poster_sm/b79877c8-c13b-4f79-a034-dd7e2ebd3e57.jpg"
+                },
+                {
+                    "id": "pl_wz3",
+                    "title": "женское здоровье",
+                    "duration": 86,
+                    "link": "https://kinescope.io/aYhS44ysbY4tFFc8dvZowW",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/a86ef7b6-2c88-4de5-9818-499f58d8ab1c/poster_sm/e96ffd9d-bd95-4d5d-a735-6df87a9a2313.jpg"
+                },
+                {
+                    "id": "pl_wz4",
+                    "title": "Отёки",
+                    "duration": 42,
+                    "link": "https://kinescope.io/o6P8zsvHhDt3xgih5RAudT",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/49d4b5f1-9791-47bd-8938-f96e10e4bb8d/poster_sm/04e6de77-fa40-4c9b-b2e0-3d52f429fa16.jpg"
+                }
+            ]
+        },
+        {
+            "id": "lifestyle_general",
+            "name": "Образ жизни",
+            "parent": "lifestyle",
+            "videos":
+            [
+                {
+                    "id": "pl_oz1",
+                    "title": "Лайфхаки для жизни",
+                    "duration": 19,
+                    "link": "https://kinescope.io/p49RpzLMexen9HjMDy3jKn",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/22f2d46b-e388-4300-8f84-e6b067b6ccff/poster_sm/728df507-6a78-480d-907f-60aeb37a9f3f.jpg"
+                },
+                {
+                    "id": "pl_oz2",
+                    "title": "Комплекс и результат",
+                    "duration": 22,
+                    "link": "https://kinescope.io/5RVurWj1VdrjG6Zd38tP1U",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ec279d3b-3f82-40ea-b841-3cefc3a9ca27/poster_sm/ac79296a-7dc7-4d35-ac0b-b288e1011310.jpg"
+                },
+                {
+                    "id": "pl_oz3",
+                    "title": "Комплексный подход",
+                    "duration": 38,
+                    "link": "https://kinescope.io/pKDpzdWho7qchBR2EZnZii",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/6ea9e971-101b-489f-b5d4-2aa067b11733/poster_sm/7161603c-2d88-48ea-8b9c-2b50b2ec33ee.jpg"
+                },
+                {
+                    "id": "pl_oz4",
+                    "title": "Как не переедать в праздники и помочь себе после",
+                    "duration": 22,
+                    "link": "https://kinescope.io/pitdWmySmuexc8HNYCeRVV",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/df250d7f-97b5-4227-a7a3-dafb76f5df1c/poster_sm/4afe9c6c-0519-482e-947e-c46a0399fc4b.jpg"
+                }
+            ]
+        },
+        {
+            "id": "tips",
+            "name": "Советы",
+            "videos":
+            [
+                {
+                    "id": "sv1",
+                    "title": "Строение таза и техника тазовых часов",
+                    "duration": 22,
+                    "link": "https://kinescope.io/oPTc3psBfXk9h9gUkLaeDp",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f482659d-a3fe-4e71-9154-9a2e69fe817a/poster_sm/de2a22db-d7c5-4527-8901-1a4bd0448662.jpg"
+                },
+                {
+                    "id": "sv2",
+                    "title": "Как найти мышцы тазового дна?",
+                    "duration": 17,
+                    "link": "https://kinescope.io/f3QZgkfLzArAV9tj2iH1pz",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/75ec56fc-1059-4280-8afb-d4cd9703e43a/poster_sm/e9cd7e65-8d54-4998-b88f-f2ec1ed747f7.jpg"
+                },
+                {
+                    "id": "sv3",
+                    "title": "Уровни сложности, кому и зачем ?",
+                    "duration": 8,
+                    "link": "https://kinescope.io/jkL65mukmTZ7ca3aEwv9zM",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/f608e184-696f-437b-9c1a-a8a4e7053f2d/poster_sm/61989b4a-6a66-45e1-9fce-e90e2ef60f91.jpg"
+                },
+                {
+                    "id": "sv4",
+                    "title": "Что такое «домик»",
+                    "duration": 13,
+                    "link": "https://kinescope.io/bmHCNw89Fb8Tt56hRMUyta",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/8eb71cad-20ec-4c13-9491-54140f224476/poster_sm/4d317fe2-17bf-4fa0-8179-3d1376a2f645.jpg"
+                },
+                {
+                    "id": "sv5",
+                    "title": "Разбор BRIDGING",
+                    "duration": 12,
+                    "link": "https://kinescope.io/itntnraMScRjGCGQTpo1no",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/641c5563-58ce-4fb3-bca8-1f8a4dc93fb2/poster_sm/80eaa27a-8e18-4937-ab6b-7b7097c66ef2.jpg"
+                },
+                {
+                    "id": "sv6",
+                    "title": "Разбор четырёхугольника",
+                    "duration": 8,
+                    "link": "https://kinescope.io/3pZ63qR19moqPfoAL8WhE4",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/ab3269c4-5db3-438c-9819-79c2ac4dd5ab/poster_sm/d8fb1cf6-afb8-4bb1-a791-3be087fcefc9.jpg"
+                },
+                {
+                    "id": "sv7",
+                    "title": "Положение зет-седа и техника русалки",
+                    "duration": 9,
+                    "link": "https://kinescope.io/smrZNgy5XgWMX9895QGqTQ",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b0ee0dc5-1961-42f5-8ae2-6d104c4b76aa/poster_sm/1f7073fc-32af-47c1-b98a-ca47a55488b0.jpg"
+                },
+                {
+                    "id": "sv8",
+                    "title": "Как заниматься во время и после беременности?",
+                    "duration": 14,
+                    "link": "https://kinescope.io/6JpsrQnZrjJPB1TTrqGq65",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/0fc1d02d-ef22-428f-bfdc-ee1c700a53aa/poster_sm/8b2b6455-9a9f-495f-92e4-819c46099dae.jpg"
+                },
+                {
+                    "id": "sv9",
+                    "title": "Как найти время для занятий, как не бросить",
+                    "duration": 24,
+                    "link": "https://kinescope.io/wFgnfMcS7phNaWN9mNg3Rp",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/06927614-b86d-4f78-8b60-e3ce97326623/poster_sm/20fe947d-aff5-4065-ac1a-adc9657906cf.jpg"
+                },
+                {
+                    "id": "sv10",
+                    "title": "Когда будет результат? Моя цель - похудеть",
+                    "duration": 17,
+                    "link": "https://kinescope.io/655WAmPTmDbpg1e6TNFAuc",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/b40bc70c-9988-430c-a8fe-4fbbdd4fc930/poster_sm/a7ec8443-f955-415b-bae7-c6073859b56b.jpg"
+                },
+                {
+                    "id": "sv11",
+                    "title": "Когда будет результат? Моя цель - набор мышечной массы",
+                    "duration": 16,
+                    "link": "https://kinescope.io/i6oZ56MAqp214c29JYWFin",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/1fb156a3-17cd-4585-8378-3756af4e8572/poster_sm/4ca70cd9-c622-4469-8b9b-18e918598414.jpg"
+                },
+                {
+                    "id": "sv12",
+                    "title": "Как заниматься, если были роды",
+                    "duration": 10,
+                    "link": "https://kinescope.io/kHC2JkeNUmwCJhG55GdEet",
+                    "thumbnail": "https://edge-ams-1.kinescopecdn.net/270b18cd-ba98-4372-a514-94bf42d02a0f/posters/5ea6cd7e-32e1-4eda-a9b0-43f3980186c5/poster_sm/f3126827-ea83-4f38-be81-1b10a59bbdad.jpg"
                 }
             ]
         }
