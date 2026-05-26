@@ -234,6 +234,23 @@ footer {
     position: relative;
 }
 
+/* "NEW" Badge */
+.new-badge {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    z-index: 10;
+    background-color: #e74c3c;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(231, 76, 60, 0.35);
+    pointer-events: none;
+}
+
 /* Favorite Heart Icon */
 .favorite-heart {
     position: absolute;
