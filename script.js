@@ -13,9 +13,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const tabsContainer = document.getElementById('tabs');
     const chipsContainer = document.getElementById('chips');
     const durationFilter = document.getElementById('duration-filter');
+    const sortFilter = document.getElementById('sort-filter');
 
     // --- Check if essential elements exist ---
-    if (!videoGrid || !tabsContainer || !chipsContainer || !durationFilter) {
+    if (!videoGrid || !tabsContainer || !chipsContainer || !durationFilter || !sortFilter) {
         console.error("Initialization failed: Essential DOM elements not found.");
         if (videoGrid) videoGrid.innerHTML = '<p class="no-results-message" style="color: red;">Ошибка: Необходимые элементы страницы не найдены.</p>';
         return;
@@ -445,6 +446,21 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
+        // Sort
+        const sortBy = sortFilter.value;
+        if (sortBy === 'duration_asc') {
+            filteredVideos = [...filteredVideos].sort((a, b) =>
+                (typeof a.duration === 'number' ? a.duration : Infinity) -
+                (typeof b.duration === 'number' ? b.duration : Infinity));
+        } else if (sortBy === 'duration_desc') {
+            filteredVideos = [...filteredVideos].sort((a, b) =>
+                (typeof b.duration === 'number' ? b.duration : -Infinity) -
+                (typeof a.duration === 'number' ? a.duration : -Infinity));
+        } else if (sortBy === 'new_first') {
+            filteredVideos = [...filteredVideos].sort((a, b) =>
+                (b.new === true) - (a.new === true));
+        }
+
         renderVideos(filteredVideos);
     }
 
@@ -606,6 +622,7 @@ document.addEventListener('DOMContentLoaded', () => {
             tabsContainer.addEventListener('click', handleTabClick);
             chipsContainer.addEventListener('click', handleChipClick);
             durationFilter.addEventListener('change', filterAndRenderVideos);
+            sortFilter.addEventListener('change', filterAndRenderVideos);
 
             console.log("Application initialized successfully.");
 

@@ -170,26 +170,36 @@ footer {
     color: white;
 }
 
-/* Duration Filter */
-.duration-filter {
+/* Duration & Sort Filters */
+.duration-filter,
+.sort-filter {
     position: relative;
     flex-shrink: 0;
 }
 
-.duration-filter select {
-    padding: 10px 40px 10px 16px;
+.duration-filter select,
+.sort-filter select {
+    padding: 8px 36px 8px 16px;
     border: 1px solid #ced4da;
     border-radius: 20px;
-    background-color: #fff;
+    background-color: #e9ecef;
+    color: #495057;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    font-size: 0.9em;
+    font-size: 0.85em;
+    font-weight: 500;
     cursor: pointer;
     appearance: none;
-    min-width: 140px;
     transition: all 0.2s ease;
 }
 
-.duration-filter select:focus {
+.duration-filter select:hover,
+.sort-filter select:hover {
+    background-color: #dee2e6;
+    border-color: #adb5bd;
+}
+
+.duration-filter select:focus,
+.sort-filter select:focus {
     outline: none;
     border-color: #80bdff;
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
@@ -538,14 +548,15 @@ footer {
         gap: 16px;
     }
     
-    .duration-filter {
+    .duration-filter,
+    .sort-filter {
         align-self: flex-start;
     }
-    
-    .duration-filter select {
-        padding: 8px 32px 8px 12px;
-        font-size: 14px;
-        min-width: 120px;
+
+    .duration-filter select,
+    .sort-filter select {
+        padding: 6px 30px 6px 12px;
+        font-size: 12px;
     }
     
     .chip {
